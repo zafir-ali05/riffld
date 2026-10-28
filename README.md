@@ -4,22 +4,18 @@
 
 **The music guessing game for people whose favorite genre doesn't have a Billboard chart.**
 
-Guess the track from a 1-second snippet, an isolated drum loop, or a grid of stat clues, across reggaeton, hyperpop, corridos tumbados, amapiano, shoegaze, drift phonk and a few hundred other micro-genres.
+Guess the track from a progressive audio snippet across reggaeton, hyperpop, corridos tumbados, amapiano, shoegaze, drift phonk, and dozens of other genres and subgenres.
 
 [![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-cache-DC382D?logo=redis&logoColor=white)](https://redis.io)
-[![Socket.io](https://img.shields.io/badge/Socket.io-realtime-010101?logo=socketdotio&logoColor=white)](https://socket.io)
 [![Status](https://img.shields.io/badge/status-pre--alpha-orange)](#-roadmap)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 
 </div>
 
 > [!NOTE]
-> **Riffld** is a working title. This README is the project's design document and setup guide: it describes the target architecture before most of it is built. Sections marked 🚧 are planned but not implemented yet.
+> **Riffld** is a working title. This README is the project's design document and setup guide: it describes the target architecture before most of it is built.
 
 ---
 
@@ -27,16 +23,15 @@ Guess the track from a 1-second snippet, an isolated drum loop, or a grid of sta
 
 - [Why Riffld?](#-why-riffld)
 - [Core Loop](#-core-loop)
-- [Game Modes](#-game-modes)
-  - [Classic Snippet Mode](#1-classic-snippet-mode)
-  - [Stem Layer Mode](#2-stem-layer-mode)
-  - [Stat-Deduction Matrix](#3-stat-deduction-matrix)
-  - [Game Scopes: Daily, Infinite, Party](#4-game-scopes)
+- [How It Works](#-how-it-works)
+  - [Snippet Progression](#1-snippet-progression)
+  - [Guess Feedback](#2-guess-feedback)
+  - [Game Scopes: Daily & Infinite](#3-game-scopes)
 - [Genre Taxonomy](#-genre-taxonomy)
-- [Data Ingestion & Sourcing](#-data-ingestion--sourcing)
+- [Audio & Catalog Sourcing](#-audio--catalog-sourcing)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
-- [Data Model](#-data-model)
+- [Data Model (Static JSON)](#-data-model-static-json)
 - [Getting Started](#-getting-started)
 - [Environment Variables](#-environment-variables)
 - [Project Structure](#-project-structure)
@@ -49,17 +44,16 @@ Guess the track from a 1-second snippet, an isolated drum loop, or a grid of sta
 
 ## 💡 Why Riffld?
 
-Heardle, SongPop and Songdle are fun, but most of their libraries come from the mainstream: Billboard pop, classic rock and chart hip-hop. If you grew up on Bad Bunny deep cuts, Midwest emo, or 3 a.m. breakcore, there's nothing in them for you.
+Heardle and Songdle are fun, but most of their libraries come from the mainstream: Billboard pop, classic rock, and chart hip-hop. If you grew up on Bad Bunny deep cuts, Midwest emo, or 3 a.m. breakcore, there's nothing in them for you.
 
-Riffld is built around **genre depth** instead:
+Riffld is a **Songdle clone built around genre depth**:
 
 | | Typical music guessers | **Riffld** |
 |---|---|---|
-| Catalog | Global top charts | Curated per **micro-genre** channel |
+| Catalog | Global top charts | Curated per **genre & subgenre** channel |
 | Taxonomy | Flat ("Pop", "Rock") | 3-tier tree: **Root → Subgenre → Micro-genre** |
-| Feedback on a wrong guess | ❌ / ✅ | **Directional**: year ↑↓, genre distance, BPM, energy, popularity |
-| Ways to play | Audio snippet only | Snippet, **stem layers**, **silent stat grid** |
-| Social | Share a score | Per-genre daily leaderboards plus **live party lobbies** |
+| Feedback | ❌ / ✅ | ❌ Wrong · 🟨 **Right artist, wrong track** · 🟩 Correct |
+| Setup | Heavy backend | Zero-DB static JSON catalog + `localStorage` stats |
 
 ---
 
@@ -67,114 +61,67 @@ Riffld is built around **genre depth** instead:
 
 ```mermaid
 flowchart LR
-    A[Pick a genre channel] --> B[Get a clue<br/>snippet · stem · stat]
-    B --> C[Guess via fuzzy<br/>autocomplete]
-    C -->|Wrong| D[Directional feedback<br/>year · genre · BPM · popularity]
+    A[Pick a genre channel] --> B[Listen to audio snippet<br/>1s → 2s → 4s → 7s → 11s → 16s]
+    B --> C[Guess via fuzzy<br/>autocomplete or Skip]
+    C -->|Wrong / Artist match| D[Unlock longer snippet]
     D --> B
-    C -->|Right / out of tries| E[Reveal + full preview]
-    E --> F[Update stats &<br/>leaderboards]
+    C -->|Correct / Out of tries| E[Reveal track +<br/>30s preview]
+    E --> F[Update localStorage<br/>streaks & stats]
     F --> G[Share emoji grid]
 ```
 
-1. **Listen or read**: get a tiered audio snippet, an isolated stem, or a metadata clue.
-2. **Guess**: type into a typo-tolerant autocomplete (artist + title).
-3. **Learn**: every wrong guess tells you something useful (newer/older, closer/further in genre, faster/slower).
-4. **Climb**: streaks and scores feed per-genre and global leaderboards.
+1. **Pick a genre**: choose from broad root genres or drill down into specific subgenres/micro-genres.
+2. **Listen**: play a short snippet of the song.
+3. **Guess or skip**: search the genre's track pool with typo-tolerant autocomplete. Every wrong guess or skip unlocks more audio.
+4. **Share**: track your per-genre streaks locally and share your spoiler-free emoji results.
 
 ---
 
-## 🎮 Game Modes
+## 🎮 How It Works
 
-### 1. Classic Snippet Mode
+### 1. Snippet Progression
 
-The Heardle formula: each wrong guess or skip unlocks more of the intro.
+Following the classic Heardle / Songdle formula, each wrong guess or skip unlocks more of the track:
 
 | Attempt | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---|---|---|---|---|---|
 | **Audio revealed** | 1s | 2s | 4s | 7s | 11s | 16s |
-| **Points if correct** | 100 | 80 | 60 | 40 | 25 | 10 |
 
-- The snippet start offset is configurable per track (`Track.snippetOffsetMs`), so a song with a 20-second ambient intro can start at the hook instead.
-- Playback goes through the Web Audio API. Each tier plays from a decoded `AudioBuffer`, so cutoffs land on the exact millisecond with no seek lag.
-- Skips count as wrong guesses.
+- Playback uses the Web Audio API / HTML5 Audio to slice 30-second preview streams accurately.
+- Each track can optionally define a `snippetOffsetMs` so songs with silent or ambient intros start right where the beat or hook drops.
 
-### 2. Stem Layer Mode
+### 2. Guess Feedback
 
-*Bandle-style.* Instead of more time, each attempt adds **another instrument layer**:
-
-| Attempt | Layers playing |
+| Indicator | Meaning |
 |---|---|
-| 1 | 🥁 Drums |
-| 2 | 🥁 Drums + 🎸 Bass |
-| 3 | 🥁 + 🎸 + 🎹 Synths / Rhythm |
-| 4 | 🥁 + 🎸 + 🎹 + 🎤 Leads / Vocals (full mix) |
+| 🟩 **Correct** | Exact song match — round won! |
+| 🟨 **Close** | Correct artist, wrong song |
+| 🟥 **Wrong** | Incorrect artist and song |
+| ⬜ **Skipped** | Skipped attempt to unlock more audio |
 
-- Stems are produced **offline** at ingestion time with a source-separation model (e.g. [Demucs](https://github.com/facebookresearch/demucs) `htdemucs_6s`) and stored as short, low-bitrate clips. They are never separated client-side.
-- Layers are mixed in the browser with one `GainNode` per stem, so adding a layer is a smooth fade-in, not a reload.
-- 🚧 Available only for tracks whose licensing allows derivative processing (see [Legal](#%EF%B8%8F-legal--licensing-notes)).
+### 3. Game Scopes
 
-### 3. Stat-Deduction Matrix
-
-*Popstar / Spotle-style.* **No audio until the reveal.** You guess any song, and the grid compares it with the hidden target:
-
-| Attribute | Feedback | Example |
-|---|---|---|
-| 📅 **Release year** | Exact 🟩 · within 3 yrs 🟨 · otherwise ⬜ + **↑ newer / ↓ older** | `2019 ↑` → target is newer |
-| 🧬 **Genre distance** | 🟩 exact micro-genre · 🟨 same subgenre · 🟧 same root · ⬜ unrelated | Guess *Latin Trap*, target *Reggaeton* → 🟨 |
-| 🥁 **BPM** | ±5 BPM 🟩 · otherwise **↑ / ↓** | `128 ↓` |
-| ⚡ **Energy** | Bucketed 0–1 → **higher / lower** | `0.42 ↑` |
-| 💃 **Danceability** | Bucketed 0–1 → **higher / lower** | `0.81 ↓` |
-| 📈 **Popularity** | Tier: `Mainstream` · `Mid` · `Niche` · `Deep Underground` | 🟨 one tier off |
-| 🌍 **Region / Language** | Exact 🟩 · same continent 🟨 | `PR 🟨` |
-
-**How genre distance works:** it's the tree distance between the guess and the target in the [taxonomy](#-genre-taxonomy):
-
-```ts
-// src/lib/game/genreDistance.ts
-export type GenreMatch = "exact" | "subgenre" | "root" | "none";
-
-export function genreDistance(guess: GenrePath, target: GenrePath): GenreMatch {
-  if (guess.micro === target.micro) return "exact";
-  if (guess.sub === target.sub) return "subgenre";
-  if (guess.root === target.root) return "root";
-  return "none";
-}
-```
-
-### 4. Game Scopes
-
-Every mode above can be played in any of these scopes:
-
-#### 📅 Daily Challenge
-- **One synchronized puzzle per genre channel per day**, the same for every player worldwide. The day rolls over at 00:00 UTC.
-- The track is chosen by a deterministic seed, `hash(channelId + YYYY-MM-DD + SERVER_SALT)`, then frozen into the `DailySeed` table and cached in Redis. A catalog change mid-day can't change today's answer.
-- Global and per-channel leaderboards, plus streak tracking.
+#### 📅 Daily Mode
+- **One synchronized puzzle per genre channel per day**, rolling over at 00:00 UTC.
+- The daily track is selected deterministically from the genre's JSON catalog using `hash(channelId + YYYY-MM-DD + DAILY_SEED_SALT)`, so every player gets the exact same song without needing a database.
 - **Shareable emoji grid**, spoiler-free:
 
   ```text
   Riffld #142 · 🇵🇷 Reggaeton · 3/6
-  🔇🟥🟨🟩⬜⬜
+  ⬜🟨🟩⬛⬛⬛
   🔥 Streak: 12
-  riffld.app/d/reggaeton
+  riffld.app/daily/reggaeton
   ```
 
 #### ♾️ Infinite / Practice Mode
-- Endless random rounds that don't count toward the daily leaderboard.
-- Filter by **genre tags**, **era** (e.g. *2000s Latin* vs *2020s Hyperpop*), **popularity tier**, and **difficulty**.
-- Difficulty is computed per track from global solve rates, so it gets more accurate as people play.
-
-#### 🎉 Multiplayer Party Lobbies 🚧
-- Create a room, share a 6-character code, and play live with friends.
-- **Buzzer mode:** the snippet plays for everyone at once, and the first correct guess takes the round.
-- **Race mode:** everyone guesses independently, and speed plus accuracy decide the score.
-- Server-authoritative: the server picks the track, timestamps buzzes, and scores the round. Clients never receive the answer before the reveal.
-- Built on Socket.io rooms, with the Redis adapter for horizontal scaling.
+- Endless random rounds in any genre or subgenre channel.
+- Great for practicing niche subgenres or binge-playing when you finish the daily puzzle.
 
 ---
 
 ## 🧬 Genre Taxonomy
 
-Genres form a **three-level tree**. Every track belongs to exactly one *primary* micro-genre and may carry any number of secondary tags.
+Genres form a **three-level tree**. Every track belongs to a primary micro-genre (which automatically rolls up into its parent subgenre and root genre channels).
 
 ```text
 Root Genre
@@ -192,12 +139,12 @@ Root Genre
 | 🎸 **Rock & Alternative** | Post-Punk · Midwest Emo · Shoegaze · Math Rock · Grunge · Metalcore |
 | 🌐 **Global & Regional** | Afrobeats · Amapiano · City Pop · K-Pop · J-Rock |
 
-### Schema
+### Taxonomy Schema
 
-Taxonomy lives as version-controlled JSON in [`src/genres/`](src/genres/) and is synced into the database by `npm run db:seed`.
+The genre hierarchy lives as version-controlled static JSON in [`src/data/genres/`](src/data/genres/).
 
 ```jsonc
-// src/genres/latin.json
+// src/data/genres/latin.json
 {
   "id": "latin",
   "name": "Latin",
@@ -210,21 +157,12 @@ Taxonomy lives as version-controlled JSON in [`src/genres/`](src/genres/) and is
         {
           "id": "latin.urbano.reggaeton",
           "name": "Reggaeton",
-          "aliases": ["reggaetón", "perreo", "dembow"],
-          "bpmRange": [88, 100],
-          "eraRange": [1995, null],
-          "sources": {
-            "musicbrainz": ["reggaeton"],
-            "lastfm": ["reggaeton", "perreo"],
-            "everynoise": ["reggaeton"]
-          }
+          "aliases": ["reggaetón", "perreo", "dembow"]
         },
         {
           "id": "latin.urbano.latin-trap",
           "name": "Latin Trap",
-          "aliases": ["trap latino"],
-          "bpmRange": [130, 150],
-          "sources": { "lastfm": ["latin trap", "trap latino"] }
+          "aliases": ["trap latino"]
         }
       ]
     },
@@ -243,78 +181,28 @@ Taxonomy lives as version-controlled JSON in [`src/genres/`](src/genres/) and is
 }
 ```
 
-```ts
-// src/types/genre.ts
-export interface GenreNode {
-  id: string;                 // dot-path, e.g. "electronic.internet.hyperpop"
-  name: string;
-  emoji?: string;
-  aliases?: string[];         // used for search and for matching external tags
-  bpmRange?: [number, number];
-  eraRange?: [number, number | null];
-  sources?: Partial<Record<"musicbrainz" | "lastfm" | "everynoise", string[]>>;
-  children?: GenreNode[];
-}
-
-export interface GenrePath {
-  root: string;
-  sub: string;
-  micro: string;
-}
-```
-
 **Rules for adding a genre**
-1. IDs are lowercase, kebab-case, dot-separated, and **never renamed** once shipped (leaderboards reference them). Use `aliases` for renames.
-2. A micro-genre needs **at least 30 verified tracks** before it can become a Daily channel.
-3. Add `sources` mappings so the ingestion pipeline can auto-suggest tracks.
+1. IDs are lowercase, kebab-case, dot-separated, and **never renamed** once shipped (since `localStorage` stats key off them). Use `aliases` for display/search synonyms.
+2. A genre channel needs **at least 30 curated tracks** before it is enabled for Daily Mode.
 
 ---
 
-## 📥 Data Ingestion & Sourcing
+## 📥 Audio & Catalog Sourcing
 
-```mermaid
-flowchart TD
-    subgraph Sources
-      DZ[Deezer API<br/>30s previews]
-      SP[Spotify Web API<br/>metadata & IDs]
-      MB[MusicBrainz<br/>genres · ISRC · release dates]
-      LF[Last.fm<br/>community tags]
-      EN[Every Noise at Once<br/>static snapshot]
-    end
-    Sources --> ING[Ingestion worker<br/>scripts/ingest]
-    ING --> NORM[Normalize & dedupe<br/>by ISRC]
-    NORM --> CLS[Genre classifier<br/>tag → taxonomy mapping]
-    CLS --> REV[Human review queue<br/>/admin/review]
-    REV --> DB[(PostgreSQL)]
-    REV --> STEM[Stem separation<br/>offline, optional]
-    STEM --> OBJ[(Object storage)]
-```
+Riffld keeps data management dead simple: **curated static JSON tracklists** paired with **on-demand 30-second audio previews** from public music APIs.
 
-### Audio previews
+### Audio Previews
 
 | Priority | Source | Notes |
 |---|---|---|
-| 1 | **Deezer API** | Public 30s MP3 `preview` URLs, no auth needed for search. The **primary** source. |
-| 2 | **Spotify Web API** | Used for **metadata, IDs and cross-referencing**. ⚠️ Spotify removed `preview_url` and the Audio Features endpoints for apps registered after Nov 27 2024, so new apps shouldn't count on Spotify for audio or BPM/energy data. |
-| 3 | **YouTube** | 🚧 Last-resort fallback for tracks missing elsewhere, via the official embedded player only. **Don't** download or rip audio; that violates YouTube's ToS. |
+| 1 | **Deezer API** | Free, public 30s MP3 `preview` URLs with no auth required. Primary audio source. |
+| 2 | **iTunes / Apple Music Search API** | Free, unauthenticated 30s M4A `previewUrl` and artwork fallback. |
 
-Preview URLs from some providers are signed and expire. Riffld stores the **provider + track ID** and resolves a fresh URL on demand through `/api/audio/[trackId]`, which:
-- proxies or redirects to the provider URL,
-- caches the resolved URL in Redis until shortly before it expires,
-- is **rate-limited per IP** (sliding window in Redis), so the proxy can't be abused as a free CDN.
+Because preview URLs from providers like Deezer are signed and expire after a few hours, the static JSON catalog stores only the **provider track ID** (plus song title and artist). When a round starts, Next.js resolves a fresh preview URL via `/api/audio/[trackId]`.
 
-### Metadata & classification
+### Building the Catalog
 
-| Source | Used for |
-|---|---|
-| **MusicBrainz** | Canonical release dates, ISRCs, artist relationships, curated genre tags |
-| **Last.fm** | Community tags (`track.getTopTags`, `artist.getTopTags`), the best signal for micro-genres |
-| **Every Noise at Once** | Genre names and adjacency used to seed the taxonomy. It hasn't been updated since late 2023, so it's a **static reference**, not a live API. |
-| **Deezer / Spotify** | Popularity, duration, artwork, explicit flag |
-
-**Audio descriptors (BPM, energy, danceability):** since Spotify's Audio Features aren't available to new apps, Riffld computes them **at ingestion time** from the 30s preview (e.g. with [Essentia](https://essentia.upf.edu/) or `librosa` in a Python worker) and stores them on the `Track` row.
-
-**Classification pipeline:** external tags → normalized → matched against each node's `aliases` and `sources` → weighted vote → **a human approves the primary micro-genre** in the admin review queue. No track reaches a Daily pool without human review.
+A lightweight CLI script (`npm run catalog:add`) lets you seed or expand a genre's JSON file by searching Deezer/iTunes by playlist, artist, or track name and writing the normalized metadata directly to `src/data/tracks/<genre>.json`.
 
 ---
 
@@ -322,33 +210,25 @@ Preview URLs from some providers are signed and expire. Riffld stores the **prov
 
 ```mermaid
 flowchart LR
-    subgraph Client["Browser (Next.js / React)"]
-      UI[UI · Tailwind · Framer Motion]
-      AE[Audio engine<br/>Web Audio API]
-      WS[Socket.io client]
+    subgraph Client["Browser (Next.js Client)"]
+      UI[Game UI · Tailwind]
+      AE[Snippet Player<br/>Web Audio / HTML5 Audio]
+      FS[Fuse.js<br/>Fuzzy Autocomplete]
+      LS[(localStorage<br/>Streaks & Stats)]
     end
 
-    subgraph Server["Next.js server"]
-      RSC[Server Components<br/>& Route Handlers]
-      API["/api/* endpoints"]
-      RT[Socket.io server<br/>party lobbies]
+    subgraph Server["Next.js App Router"]
+      JSON[(Static JSON<br/>Genres & Tracks)]
+      API["/api/daily & /api/audio"]
     end
 
-    subgraph Data
-      PG[(PostgreSQL<br/>+ pg_trgm)]
-      RD[(Redis<br/>cache · rate limit · pub/sub)]
-      S3[(Object storage<br/>stems · artwork)]
-    end
+    EXT[Deezer / iTunes API<br/>30s MP3 Previews]
 
-    EXT[Deezer · Spotify<br/>MusicBrainz · Last.fm]
-
-    UI --> RSC
+    UI --> FS
+    UI <--> LS
+    UI --> API
     AE --> API
-    WS <--> RT
-    API --> PG
-    API --> RD
-    API --> S3
-    RT --> RD
+    API --> JSON
     API --> EXT
 ```
 
@@ -356,11 +236,10 @@ flowchart LR
 
 | Decision | Rationale |
 |---|---|
-| Next.js App Router for UI **and** API | One deployable and shared TypeScript types. A separate Express service is only added if the real-time load demands it. |
-| Socket.io runs as a **separate Node process** (`server/realtime.ts`) | Serverless hosts can't hold WebSockets. Splitting it out lets the web app deploy anywhere while the realtime server runs on a long-lived host. |
-| The answer is **never sent to the client** before a round ends | Guesses are validated server-side. The client only receives the audio and feedback. |
-| Daily picks are **frozen in Postgres, cached in Redis** | Deterministic, auditable, and cheap to serve to every player. |
-| Fuzzy search via **`pg_trgm`** on the server, **Fuse.js** on the client for small filtered pools | Trigram indexes scale to the full catalog; Fuse.js gives instant results offline in Practice mode. |
+| **Zero database (Static JSON)** | A few thousand tracks across dozens of genres easily fit in a few hundred kilobytes of JSON. No Postgres, Prisma, or Docker required. |
+| **Client-side `localStorage` for stats** | Just like Wordle and Songdle, streaks and play history live in the browser—no login wall or auth complexity. |
+| **Deterministic daily seed** | Daily tracks are chosen via a hashed date + salt on the server, requiring zero state persistence. |
+| **Fuse.js for search** | Autocomplete searches only the active genre's track list, making client-side fuzzy matching instantaneous. |
 
 ---
 
@@ -369,98 +248,47 @@ flowchart LR
 | Layer | Choice |
 |---|---|
 | **Framework** | [Next.js](https://nextjs.org) (App Router) + React + **TypeScript** (strict) |
-| **Styling / UI** | [Tailwind CSS](https://tailwindcss.com), [Framer Motion](https://www.framer.com/motion/), [Lucide Icons](https://lucide.dev) |
-| **Audio** | Web Audio API (precise snippet cutoffs, stem mixing); [Howler.js](https://howlerjs.com) as an optional fallback for simple playback |
-| **API** | Next.js Route Handlers (`src/app/api/**/route.ts`) |
-| **Database** | PostgreSQL 16 (SQLite works for quick local hacking) via [Prisma ORM](https://www.prisma.io) |
-| **Cache / rate limiting** | Redis (daily seed cache, audio-proxy rate limiting, Socket.io adapter) |
-| **Real-time** | [Socket.io](https://socket.io) + `@socket.io/redis-adapter` |
-| **Search** | PostgreSQL `pg_trgm` (server) · [Fuse.js](https://www.fusejs.io) (client) |
-| **Validation** | [Zod](https://zod.dev) for API input and env parsing |
-| **Testing** | Vitest (unit) · Playwright (e2e) |
-| **Tooling** | ESLint, Prettier, Husky + lint-staged, GitHub Actions CI |
+| **Styling / UI** | [Tailwind CSS](https://tailwindcss.com), [Lucide Icons](https://lucide.dev) |
+| **Audio** | Web Audio API / HTML5 `<audio>` for precise snippet cutoffs |
+| **Data Storage** | Static JSON files (`src/data/`) + browser `localStorage` |
+| **Search** | [Fuse.js](https://www.fusejs.io) for typo-tolerant artist + title autocomplete |
+| **Testing** | Vitest (unit) |
+| **Tooling** | ESLint, Prettier |
 
 ---
 
-## 🗄️ Data Model
+## 🗄️ Data Model (Static JSON)
 
-Simplified Prisma schema (the full version lives in [`prisma/schema.prisma`](prisma/schema.prisma)):
+All data is typed in [`src/types/`](src/types/) and stored in [`src/data/`](src/data/).
 
-```prisma
-model Genre {
-  id        String   @id                 // "latin.urbano.reggaeton"
-  name      String
-  parentId  String?
-  parent    Genre?   @relation("GenreTree", fields: [parentId], references: [id])
-  children  Genre[]  @relation("GenreTree")
-  depth     Int                          // 0 = root, 1 = sub, 2 = micro
-  aliases   String[]
-  tracks    Track[]  @relation("PrimaryGenre")
+```ts
+// src/types/catalog.ts
+export interface GenreNode {
+  id: string;        // e.g. "latin.urbano.reggaeton"
+  name: string;      // e.g. "Reggaeton"
+  emoji?: string;
+  aliases?: string[];
+  children?: GenreNode[];
 }
 
-model Track {
-  id               String   @id @default(cuid())
-  isrc             String?  @unique
-  title            String
-  artist           String
-  releaseYear      Int
-  primaryGenreId   String
-  primaryGenre     Genre    @relation("PrimaryGenre", fields: [primaryGenreId], references: [id])
-  tags             String[]
-  bpm              Float?
-  energy           Float?   // 0–1
-  danceability     Float?   // 0–1
-  popularity       Int?     // 0–100, normalized across providers
-  region           String?  // ISO 3166-1 alpha-2
-  audioProvider    String   // "deezer" | "spotify" | "youtube"
-  audioProviderId  String
-  snippetOffsetMs  Int      @default(0)
-  hasStems         Boolean  @default(false)
-  verified         Boolean  @default(false)
-  guesses          Guess[]
-  dailySeeds       DailySeed[]
-
-  @@index([primaryGenreId])
-  // Trigram GIN indexes on title/artist are created in a raw SQL migration.
+export interface Track {
+  id: string;               // internal unique slug, e.g. "bad-bunny-safaera"
+  title: string;            // "Safaera"
+  artist: string;           // "Bad Bunny"
+  genreId: string;          // "latin.urbano.reggaeton"
+  provider: "deezer" | "itunes";
+  providerTrackId: string;  // e.g. "908604612"
+  snippetOffsetMs?: number; // optional start offset (default 0)
 }
 
-model DailySeed {
-  id        String   @id @default(cuid())
-  date      DateTime @db.Date
-  channelId String                       // a Genre id
-  mode      GameMode
-  trackId   String
-  track     Track    @relation(fields: [trackId], references: [id])
-
-  @@unique([date, channelId, mode])
+export interface LocalGenreStats {
+  gamesPlayed: number;
+  wins: number;
+  currentStreak: number;
+  maxStreak: number;
+  guessDistribution: [number, number, number, number, number, number]; // tries 1-6
+  lastPlayedDate?: string; // "YYYY-MM-DD"
 }
-
-model Guess {
-  id          String   @id @default(cuid())
-  userId      String?
-  user        User?    @relation(fields: [userId], references: [id])
-  trackId     String                     // the target
-  track       Track    @relation(fields: [trackId], references: [id])
-  guessedId   String?                    // null = skip
-  attempt     Int
-  correct     Boolean
-  mode        GameMode
-  scope       GameScope
-  createdAt   DateTime @default(now())
-}
-
-model UserStats {
-  userId        String  @id
-  user          User    @relation(fields: [userId], references: [id])
-  gamesPlayed   Int     @default(0)
-  wins          Int     @default(0)
-  currentStreak Int     @default(0)
-  maxStreak     Int     @default(0)
-  genreXp       Json    @default("{}")  // { "<genreId>": xp }
-}
-
-enum GameMode  { SNIPPET STEMS MATRIX }
-enum GameScope { DAILY PRACTICE PARTY }
 ```
 
 ---
@@ -469,23 +297,10 @@ enum GameScope { DAILY PRACTICE PARTY }
 
 ### Prerequisites
 
-| Requirement | Version | Notes |
-|---|---|---|
-| **Node.js** | ≥ 20 LTS | `nvm use` reads `.nvmrc` |
-| **Package manager** | npm ≥ 10 (or pnpm ≥ 9) | Examples below use npm |
-| **PostgreSQL** | ≥ 15 | With the `pg_trgm` extension (bundled with standard installs) |
-| **Redis** | ≥ 7 | Optional for solo dev; required for Daily + Party modes |
-| **Docker** | any recent | Easiest way to run Postgres + Redis locally |
-| **Python** | ≥ 3.10 | *Only* for the audio-analysis and stem-separation workers |
+- **Node.js** ≥ 20 LTS
+- **npm** ≥ 10 (or pnpm / yarn)
 
-**API keys you'll need:**
-
-| Service | Required? | Get it at |
-|---|---|---|
-| Spotify Web API | Recommended (metadata) | <https://developer.spotify.com/dashboard> |
-| Last.fm API | Recommended (genre tags) | <https://www.last.fm/api/account/create> |
-| Deezer API | No key needed for public search/previews | <https://developers.deezer.com> |
-| MusicBrainz | No key. **Must** send a descriptive `User-Agent` and stay under 1 req/s | <https://musicbrainz.org/doc/MusicBrainz_API> |
+No database, Docker containers, or API keys are required to run the project!
 
 ### Local setup
 
@@ -493,116 +308,40 @@ enum GameScope { DAILY PRACTICE PARTY }
 
 ```bash
 git clone https://github.com/<your-org>/riffld.git
+cd riffld
+npm install
 ```
 
-```bash
-cd riffld && npm install
-```
-
-**2. Configure the environment**
+**2. Configure environment**
 
 ```bash
 cp .env.example .env.local
 ```
 
-Then fill in the values; see [Environment Variables](#-environment-variables).
-
-**3. Start Postgres and Redis**
-
-```bash
-docker compose up -d
-```
-
-<details>
-<summary><code>docker-compose.yml</code> reference</summary>
-
-```yaml
-services:
-  postgres:
-    image: postgres:16
-    environment:
-      POSTGRES_USER: riffld
-      POSTGRES_PASSWORD: riffld
-      POSTGRES_DB: riffld
-    ports: ["5432:5432"]
-    volumes: [pgdata:/var/lib/postgresql/data]
-  redis:
-    image: redis:7
-    ports: ["6379:6379"]
-volumes:
-  pgdata:
-```
-
-</details>
-
-**4. Migrate and seed the database**
-
-```bash
-npm run db:migrate
-```
-
-```bash
-npm run db:seed
-```
-
-This syncs the genre taxonomy from `src/genres/*.json` and loads a small, verified sample catalog so every mode is playable offline.
-
-**5. Run the dev servers**
+**3. Start the dev server**
 
 ```bash
 npm run dev
 ```
 
-This starts **Next.js** on <http://localhost:3000> and the **Socket.io realtime server** on `:3001` (in parallel, via `concurrently`).
-
-**6. (Optional) Ingest real tracks for a genre**
-
-```bash
-npm run ingest -- --genre latin.urbano.reggaeton --limit 100
-```
-
-Ingested tracks land in the review queue at <http://localhost:3000/admin/review>.
+Open <http://localhost:3000> to play.
 
 ---
 
 ## 🔐 Environment Variables
 
-Copy `.env.example` → `.env.local`. All variables are validated at boot by `src/lib/env.ts` (Zod), and the app refuses to start if a required one is missing.
+Copy `.env.example` → `.env.local`.
 
 | Variable | Required | Scope | Description |
 |---|---|---|---|
-| `DATABASE_URL` | ✅ | server | Postgres connection string, e.g. `postgresql://riffld:riffld@localhost:5432/riffld` |
-| `REDIS_URL` | ⚠️ Daily/Party | server | e.g. `redis://localhost:6379` |
-| `NEXT_PUBLIC_APP_URL` | ✅ | client + server | Public base URL, e.g. `http://localhost:3000`. Used in share links |
-| `NEXT_PUBLIC_REALTIME_URL` | ⚠️ Party | client | Socket.io server URL, e.g. `http://localhost:3001` |
-| `SPOTIFY_CLIENT_ID` | Recommended | server | Spotify app client ID (Client Credentials flow) |
-| `SPOTIFY_CLIENT_SECRET` | Recommended | server | Spotify app client secret. **Never** prefix with `NEXT_PUBLIC_` |
-| `LASTFM_API_KEY` | Recommended | server | Last.fm API key for genre tags |
-| `MUSICBRAINZ_USER_AGENT` | ✅ for ingest | server | e.g. `Riffld/0.1 ( you@example.com )` |
-| `DAILY_SEED_SALT` | ✅ | server | Random secret mixed into the daily seed so answers can't be precomputed |
-| `AUDIO_PROXY_RATE_LIMIT` | — | server | Requests per minute per IP on `/api/audio` (default `60`) |
-| `STORAGE_BUCKET_URL` | ⚠️ Stems | server | S3-compatible bucket for stems and artwork |
+| `NEXT_PUBLIC_APP_URL` | ✅ | client + server | Public base URL (e.g. `http://localhost:3000`), used in share text |
+| `DAILY_SEED_SALT` | ✅ | server | Random string mixed into the daily hash so future answers can't be trivially guessed |
 
 ```dotenv
 # .env.example
-DATABASE_URL="postgresql://riffld:riffld@localhost:5432/riffld"
-REDIS_URL="redis://localhost:6379"
-
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
-NEXT_PUBLIC_REALTIME_URL="http://localhost:3001"
-
-SPOTIFY_CLIENT_ID=""
-SPOTIFY_CLIENT_SECRET=""
-LASTFM_API_KEY=""
-MUSICBRAINZ_USER_AGENT="Riffld/0.1 ( you@example.com )"
-
-DAILY_SEED_SALT="change-me"
-AUDIO_PROXY_RATE_LIMIT=60
-STORAGE_BUCKET_URL=""
+DAILY_SEED_SALT="change-me-in-production"
 ```
-
-> [!WARNING]
-> Never commit `.env.local`. Only `NEXT_PUBLIC_*` variables are exposed to the browser, so keep every secret un-prefixed.
 
 ---
 
@@ -610,47 +349,32 @@ STORAGE_BUCKET_URL=""
 
 ```text
 riffld/
-├── prisma/
-│   ├── schema.prisma            # Data model
-│   ├── migrations/              # SQL migrations (incl. pg_trgm indexes)
-│   └── seed.ts                  # Taxonomy sync + sample catalog
 ├── scripts/
-│   ├── ingest/                  # Source adapters: deezer, spotify, musicbrainz, lastfm
-│   └── analysis/                # Python workers: BPM/energy extraction, stem separation
-├── server/
-│   └── realtime.ts              # Standalone Socket.io server for party lobbies
+│   └── catalog.ts               # CLI helper to fetch Deezer/iTunes tracks into JSON
 ├── src/
 │   ├── app/                     # Next.js App Router
-│   │   ├── (game)/
-│   │   │   ├── daily/[channel]/ # Daily challenge per genre channel
-│   │   │   ├── play/            # Infinite / practice mode
-│   │   │   └── party/[code]/    # Multiplayer lobby
-│   │   ├── admin/review/        # Ingestion review queue
+│   │   ├── page.tsx             # Home / Genre picker
+│   │   ├── daily/[genre]/       # Daily challenge for a genre channel
+│   │   ├── play/[genre]/        # Infinite practice mode for a genre channel
 │   │   └── api/
-│   │       ├── audio/[trackId]/ # Rate-limited preview proxy
-│   │       ├── daily/           # Today's seed per channel
-│   │       ├── guess/           # Server-side guess validation + feedback
-│   │       └── search/          # Fuzzy autocomplete (pg_trgm)
+│   │       ├── audio/[trackId]/ # Resolves fresh 30s preview URL from Deezer/iTunes
+│   │       └── daily/[genre]/   # Returns today's puzzle metadata & validates guesses
 │   ├── components/
-│   │   ├── game/                # GuessInput, SnippetPlayer, StemMixer, StatMatrix, ShareCard
-│   │   ├── genre/               # GenrePicker, GenreBadge, TaxonomyTree
-│   │   └── ui/                  # Buttons, dialogs, toasts (shared primitives)
-│   ├── genres/                  # 🧬 Taxonomy JSON (one file per root genre)
-│   ├── hooks/                   # useAudioEngine, useDailyGame, usePartyRoom
+│   │   ├── game/                # SnippetPlayer, GuessInput, GuessList, ResultModal
+│   │   ├── genre/               # GenrePicker, SubgenreDrawer
+│   │   └── ui/                  # Shared UI primitives
+│   ├── data/
+│   │   ├── genres/              # 🧬 Genre taxonomy JSON files
+│   │   └── tracks/              # 🎵 Curated track catalogs per genre (.json)
+│   ├── hooks/                   # useAudioSnippet, useGameState, useLocalStats
 │   ├── lib/
-│   │   ├── audio/               # Web Audio engine, tier scheduler, stem mixer
-│   │   ├── game/                # Scoring, genreDistance, feedback, seeding
-│   │   ├── search/              # pg_trgm queries + Fuse.js client index
-│   │   ├── providers/           # Deezer / Spotify / Last.fm / MusicBrainz clients
-│   │   ├── redis.ts
-│   │   ├── prisma.ts
-│   │   └── env.ts               # Zod-validated env
-│   └── types/                   # Shared TS types (GenreNode, Track, socket events)
-├── tests/
-│   ├── unit/                    # Vitest
-│   └── e2e/                     # Playwright
+│   │   ├── catalog.ts           # Helpers to load & filter static JSON genres/tracks
+│   │   ├── daily.ts             # Deterministic daily track selector
+│   │   ├── feedback.ts          # Guess comparison (exact / artist match / wrong)
+│   │   └── providers.ts         # Deezer & iTunes preview URL resolvers
+│   └── types/                   # TypeScript interfaces (GenreNode, Track, LocalGenreStats)
+├── tests/                       # Vitest unit tests for game logic & catalog integrity
 ├── .env.example
-├── docker-compose.yml
 └── README.md
 ```
 
@@ -660,97 +384,53 @@ riffld/
 
 | Command | What it does |
 |---|---|
-| `npm run dev` | Next.js + realtime server with hot reload |
-| `npm run build` | Production build |
-| `npm run start` | Serve the production build |
-| `npm run lint` | ESLint + Prettier check |
-| `npm run typecheck` | `tsc --noEmit` |
-| `npm run test` | Vitest unit tests |
-| `npm run test:e2e` | Playwright end-to-end tests |
-| `npm run db:migrate` | `prisma migrate dev` |
-| `npm run db:seed` | Sync taxonomy + load sample tracks |
-| `npm run db:studio` | Open Prisma Studio |
-| `npm run ingest -- --genre <id>` | Pull candidate tracks for a genre into the review queue |
+| `npm run dev` | Start Next.js development server on `:3000` |
+| `npm run build` | Build for production |
+| `npm run start` | Start production server |
+| `npm run lint` | Run ESLint |
+| `npm run typecheck` | Run `tsc --noEmit` |
+| `npm run test` | Run Vitest unit tests (including JSON catalog validation) |
+| `npm run catalog:add` | Interactive CLI to search Deezer/iTunes and append tracks to `src/data/tracks/` |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome, especially **genre expertise**. If you know the difference between drift phonk and Memphis phonk, we want your taxonomy PRs.
+Contributions are welcome—especially **genre & subgenre track curation**! Adding a new subgenre or expanding an existing one is just a JSON pull request.
 
-### Workflow
+### Genre / Catalog PR Checklist
 
-1. **Open or claim an issue** before starting anything non-trivial.
-2. **Branch off `main`** with a conventional prefix:
-
-   | Prefix | Use for |
-   |---|---|
-   | `feat/` | New features (`feat/stem-mixer`) |
-   | `fix/` | Bug fixes (`fix/daily-rollover-utc`) |
-   | `genre/` | Taxonomy or catalog additions (`genre/amapiano-expansion`) |
-   | `chore/` | Tooling, deps, CI |
-   | `docs/` | Documentation only |
-
-3. **Commit** using [Conventional Commits](https://www.conventionalcommits.org): `feat(matrix): add danceability column`.
-4. **Check locally** before pushing:
-
-   ```bash
-   npm run lint && npm run typecheck && npm run test
-   ```
-
-5. **Open a PR** against `main`. CI must be green, and at least one review is required. Squash-merge only.
-
-### Genre PR checklist
-
-- [ ] New nodes follow the `root.sub.micro` ID convention
-- [ ] `aliases` and `sources` mappings are filled in
-- [ ] At least 30 tracks, each with a verified primary micro-genre (for Daily eligibility)
-- [ ] No existing IDs renamed
-
-### Code style
-
-- TypeScript `strict`, no `any` without a comment explaining why.
-- Server-only code lives behind `import "server-only"`; secrets never reach client bundles.
-- Game logic in `src/lib/game/` is **pure and unit-tested**, with no I/O.
+- [ ] Genre node follows the `root.sub.micro` ID convention in `src/data/genres/`
+- [ ] Track entries in `src/data/tracks/` have valid Deezer or iTunes track IDs
+- [ ] At least 30 tracks for a micro-genre to qualify for Daily Mode
+- [ ] `npm run test` passes (validates JSON schema and checks for duplicate tracks)
 
 ---
 
 ## 🗺️ Roadmap
 
 ### v0.1: Foundations
-- [ ] Next.js + Prisma + Postgres scaffold
-- [ ] Genre taxonomy JSON + seed script
-- [ ] Deezer preview proxy with Redis rate limiting
-- [ ] Fuzzy search (`pg_trgm`)
+- [ ] Next.js + TypeScript + Tailwind scaffold
+- [ ] Genre taxonomy JSON + initial seed tracks
+- [ ] Deezer / iTunes preview resolver endpoint (`/api/audio/[trackId]`)
 
 ### v1.0: MVP 🎯
-- [ ] **Classic Snippet Mode** (1/2/4/7/11/16s)
-- [ ] **Stat-Deduction Matrix**
-- [ ] **Daily Challenge** for 10 launch channels + shareable emoji grids
-- [ ] **Infinite / Practice** with genre, era and difficulty filters
-- [ ] Anonymous play + optional accounts, streaks, per-genre leaderboards
-- [ ] Ingestion pipeline + admin review queue
+- [ ] **Classic Snippet Mode** (`1s / 2s / 4s / 7s / 11s / 16s`)
+- [ ] **Fuse.js** autocomplete with artist/song feedback (🟩 / 🟨 / 🟥 / ⬜)
+- [ ] **Daily Mode** & **Infinite Mode** across launch genres and subgenres
+- [ ] **`localStorage` stats & streaks** + shareable emoji grid
 
-### v1.5: Social
-- [ ] **Stem Layer Mode** (offline Demucs pipeline)
-- [ ] **Multiplayer Party Lobbies** (buzzer + race)
-- [ ] Genre XP and badges ("Shoegaze Scholar", "Perreo Professor")
-- [ ] PWA / installable mobile experience
-
-### v2.0: Community
-- [ ] **Community-submitted niche playlists**, voted and moderated into official channels
-- [ ] User-created custom daily puzzles with shareable links
-- [ ] Genre "family tree" explorer built from the taxonomy graph
-- [ ] Localization (ES, PT-BR, JA, KO first)
+### v1.5: Polish & Expansion
+- [ ] Expand catalog to 50+ micro-genres via community PRs
+- [ ] Custom era filters in Infinite Mode (e.g., *90s*, *2000s*, *2020s*)
+- [ ] Audio visualizer & mobile PWA polish
 
 ---
 
 ## ⚖️ Legal & Licensing Notes
 
-- Riffld streams **only short official previews** from licensed providers (Deezer, Spotify) and links out to the full track on those platforms. It doesn't host or redistribute full-length audio.
-- Respect each provider's terms of service and attribution requirements (e.g. Spotify's branding guidelines, Deezer's attribution rules, MusicBrainz rate limits).
-- **Stem separation** creates derivative audio. Only enable `hasStems` for tracks where you have the rights to do so (e.g. Creative Commons, artist-submitted, or explicitly licensed), and confirm the provider ToS permits it before shipping Stem Mode publicly.
-- Riffld isn't affiliated with Heardle, Bandle, SongPop, Songdle, Popstar, Spotle, Spotify, Deezer, or any artist featured in the game.
+- Riffld streams **only short official 30-second previews** provided by public APIs (Deezer, Apple Music/iTunes) and links out to the full track on those platforms. It never hosts or redistributes audio files.
+- Riffld isn't affiliated with Heardle, Songdle, Deezer, Apple Music, or any artist featured in the game.
 
 ---
 
