@@ -10,23 +10,23 @@ Before starting or completing any task, review the rules and invariants in [AGEN
 
 Set up the core tooling, strict TypeScript configuration, and domain data structures.
 
-- [ ] **1.1 Initialize Next.js & Tooling**
-  - [ ] Create `package.json` with Next.js (App Router), React, TypeScript, Tailwind CSS, Fuse.js, Lucide Icons, ESLint, Prettier, and Vitest.
-  - [ ] Configure `tsconfig.json` with `strict: true` and `noUncheckedIndexedAccess: true`.
-  - [ ] Configure npm scripts: `dev`, `build`, `start`, `lint`, `typecheck`, `test`, and `catalog:add`.
-  - [ ] Create `.env.example` with `NEXT_PUBLIC_APP_URL` and server-only `DAILY_SEED_SALT`.
-  - [ ] Create minimal App Router root layout (`src/app/layout.tsx`) and global Tailwind stylesheet.
-- [ ] **1.2 Shared Domain Types & Constants (`src/types/catalog.ts`)**
-  - [ ] Define `GenreNode`, `Track`, and `LocalGenreStats` interfaces.
-  - [ ] Define feedback discriminated union (`"correct" | "artist" | "wrong" | "skipped"`).
-  - [ ] Define round status discriminated union (`"playing" | "won" | "lost"`).
-  - [ ] Export `SNIPPET_DURATIONS_MS = [1000, 2000, 4000, 7000, 11000, 16000]` and share-grid feedback square constants.
+- [x] **1.1 Initialize Next.js & Tooling**
+  - [x] Create `package.json` with Next.js (App Router), React, TypeScript, Tailwind CSS, Fuse.js, Lucide Icons, ESLint, Prettier, and Vitest.
+  - [x] Configure `tsconfig.json` with `strict: true` and `noUncheckedIndexedAccess: true`.
+  - [x] Configure npm scripts: `dev`, `build`, `start`, `lint`, `typecheck`, `test`, and `catalog:add`.
+  - [x] Create `.env.example` with `NEXT_PUBLIC_APP_URL` and server-only `DAILY_SEED_SALT`.
+  - [x] Create minimal App Router root layout (`src/app/layout.tsx`) and global Tailwind stylesheet.
+- [x] **1.2 Shared Domain Types & Constants (`src/types/catalog.ts`)**
+  - [x] Define `GenreNode`, `Track`, and `LocalGenreStats` interfaces.
+  - [x] Define feedback discriminated union (`"correct" | "artist" | "wrong" | "skipped"`).
+  - [x] Define round status discriminated union (`"playing" | "won" | "lost"`).
+  - [x] Export `SNIPPET_DURATIONS_MS = [1000, 2000, 4000, 7000, 11000, 16000]` and share-grid feedback square constants.
 
 ---
 
 ## Phase 2: Pure Domain Logic & Unit Tests (`src/lib/` + `tests/`)
 
-Build and unit-test all pure game logic before wiring up API routes or React components.
+Build and unit-test all pure game logic before wiring up API routes or React components. Shared client/server helpers live in `src/lib/`; server-only modules live in `src/lib/server/`.
 
 - [ ] **2.1 Guess Feedback & Artist Normalization (`src/lib/feedback.ts`)**
   - [ ] Implement artist name normalization (case-folding, diacritic stripping, `&` / `and` normalization, stripping `feat.` / `ft.` / `with` credits, and handling commas in artist names like `"Tyler, The Creator"`).
@@ -38,13 +38,12 @@ Build and unit-test all pure game logic before wiring up API routes or React com
   - [ ] Implement hierarchical channel resolution so selecting a root genre or subgenre aggregates all tracks from its descendant micro-genres without duplicates.
   - [ ] Implement lookup helpers (`getGenreById`, `getTracksForChannel`, `getTrackById`, `isDailyEligibleChannel` checking the 30-track minimum).
   - [ ] Add unit tests in `tests/catalog.test.ts` for tree traversal, rollup aggregation, and unknown ID handling.
-- [ ] **2.3 Deterministic Daily Selector & Share Formatter (`src/lib/daily.ts`)**
-  - [ ] Implement UTC date helper (`YYYY-MM-DD`) and puzzle number calculator (days elapsed since fixed UTC launch date constant).
-  - [ ] Implement deterministic daily track selector using `hash(channelId + YYYY-MM-DD + DAILY_SEED_SALT)`.
-  - [ ] Implement opaque daily round token generation/resolution so `/api/audio/[trackId]` can resolve daily audio without exposing the raw `trackId` to the client.
-  - [ ] Implement spoiler-free share-text generator (`Riffld #<num> · <Genre> · <score>/6`, emoji row, streak line, and URL).
+- [ ] **2.3 Deterministic Daily Selector (`src/lib/server/daily.ts`) & Share Formatter (`src/lib/share.ts`)**
+  - [ ] Implement client-safe UTC date helper (`YYYY-MM-DD`), puzzle number calculator (days elapsed since fixed UTC launch date constant), and spoiler-free share-text generator (`Riffld #<num> · <Genre> · <score>/6`, emoji row, streak line, and URL) in `src/lib/share.ts`.
+  - [ ] Implement server-only deterministic daily track selector using `hash(channelId + YYYY-MM-DD + DAILY_SEED_SALT)` in `src/lib/server/daily.ts`.
+  - [ ] Implement opaque daily round token generation/resolution in `src/lib/server/daily.ts` so `/api/audio/[trackId]` can resolve daily audio without exposing the raw `trackId` to the client.
   - [ ] Add unit tests in `tests/daily.test.ts` using `vi.useFakeTimers()` / `vi.setSystemTime()` to verify determinism, 00:00 UTC rollover, puzzle numbering, and share-text formatting.
-- [ ] **2.4 Audio Preview Providers (`src/lib/providers.ts`)**
+- [ ] **2.4 Audio Preview Providers (`src/lib/server/providers.ts`)**
   - [ ] Implement Deezer track API resolver and iTunes Search/Lookup API resolver with a 5-second fetch timeout.
   - [ ] Resolve using the track's declared `provider` first, falling back to the alternate provider on failure.
   - [ ] Validate external JSON payloads at the boundary and handle non-200 responses, rate limits, and missing preview URLs cleanly.
@@ -75,11 +74,11 @@ Populate the static genre tree, build the catalog seeding CLI, and enforce schem
 
 ## Phase 4: Next.js API Routes (`src/app/api/`)
 
-Expose thin, spoiler-safe endpoints backed by `src/lib/`.
+Expose thin, spoiler-safe endpoints backed by `src/lib/` and `src/lib/server/`.
 
 - [ ] **4.1 Audio Preview Endpoint (`src/app/api/audio/[trackId]/route.ts`)**
   - [ ] Validate `trackId` (or opaque daily round token) against the catalog; return `404` on unknown values.
-  - [ ] Resolve the fresh 30-second preview URL via `src/lib/providers.ts`.
+  - [ ] Resolve the fresh 30-second preview URL via `src/lib/server/providers.ts`.
   - [ ] Return the preview stream or URL without leaking song title, artist, or raw daily track ID in headers or body.
 - [ ] **4.2 Daily Puzzle & Guess Validation Endpoint (`src/app/api/daily/[genre]/route.ts`)**
   - [ ] Validate `genre` against Daily-eligible channels; return `404` on unknown or ineligible genres.

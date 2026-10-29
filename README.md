@@ -368,10 +368,12 @@ riffld/
 │   │   └── tracks/              # 🎵 Curated track catalogs per genre (.json)
 │   ├── hooks/                   # useAudioSnippet, useGameState, useLocalStats
 │   ├── lib/
+│   │   ├── server/
+│   │   │   ├── daily.ts         # Server-only deterministic daily track selector & tokens
+│   │   │   └── providers.ts     # Server-only Deezer & iTunes preview URL resolvers
 │   │   ├── catalog.ts           # Helpers to load & filter static JSON genres/tracks
-│   │   ├── daily.ts             # Deterministic daily track selector
 │   │   ├── feedback.ts          # Guess comparison (exact / artist match / wrong)
-│   │   └── providers.ts         # Deezer & iTunes preview URL resolvers
+│   │   └── share.ts             # UTC date, puzzle number & spoiler-free share formatter
 │   └── types/                   # TypeScript interfaces (GenreNode, Track, LocalGenreStats)
 ├── tests/                       # Vitest unit tests for game logic & catalog integrity
 ├── .env.example
@@ -410,7 +412,7 @@ Contributions are welcome—especially **genre & subgenre track curation**! Addi
 ## 🗺️ Roadmap
 
 ### v0.1: Foundations
-- [ ] Next.js + TypeScript + Tailwind scaffold
+- [x] Next.js + TypeScript + Tailwind scaffold
 - [ ] Genre taxonomy JSON + initial seed tracks
 - [ ] Deezer / iTunes preview resolver endpoint (`/api/audio/[trackId]`)
 

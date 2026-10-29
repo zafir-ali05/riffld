@@ -31,7 +31,7 @@ Apply these rules to all UI copy, documentation, comments, commit messages, and 
 1. **No em dashes**: Never use the `—` character anywhere (code, UI strings, markdown, comments). Use commas, parentheses, colons, periods, or a standard hyphen (`-`).
 2. **No emojis**: Do not put emojis in code comments, log messages, UI copy, commit messages, or documentation. Exceptions:
    - Data fields that require them (`GenreNode.emoji`).
-   - The share-text grid and its feedback squares (`🟩 🟨 🟥 ⬜ ⬛`), which are a core product feature. Define these once as constants in `src/lib/` and reference them.
+   - The share-text grid and its feedback squares (`🟩 🟨 🟥 ⬜ ⬛`), which are a core product feature. Define these once as constants in `src/types/catalog.ts` and reference them.
 3. **No AI cliches or filler**: Ban phrases like "delve", "tapestry", "seamless", "elevate", "robust", "unlock the power of", "crafted with care", "modern", "next-generation", "blazing fast", "effortless", "dive into", or "Let's get started!". Write plain, direct English.
 4. **No narrating the obvious in comments**: Never write comments like `// Increment attempt counter` above `attempt++` or `// Import dependencies` at the top of a file. Only comment *why* a non-obvious decision or edge case exists (for example, Safari Web Audio unlock behavior or Deezer signed URL expiration).
 5. **No placeholder output**: No `// TODO: implement`, `// ... rest of code`, lorem ipsum, fake track data presented as real, or stubbed functions that return hardcoded values without telling the user.
@@ -46,7 +46,7 @@ Apply these rules to all UI copy, documentation, comments, commit messages, and 
 - **Do not silence errors.** No empty `catch {}`, no `// @ts-ignore`, no `// eslint-disable` without a one-line reason on the same line.
 - **Do not call live Deezer / iTunes APIs or run `npm run catalog:add`** unless the user asks.
 - **Do not invent track data.** Never fabricate `providerTrackId` values, titles, or artists. Use real IDs from the catalog script or leave the task to the user.
-- **Read before writing.** Check `src/lib/`, `src/hooks/`, and `src/types/` for an existing helper or type before creating a new one.
+- **Read before writing.** Check `src/lib/`, `src/lib/server/`, `src/hooks/`, and `src/types/` for an existing helper or type before creating a new one.
 - When a feature from the README roadmap ships, tick its checkbox in `README.md`.
 
 ## Game Logic Invariants
@@ -64,7 +64,7 @@ These rules define the game. Breaking them silently corrupts player streaks or l
 
 ## Anti-Spoiler and Security Rules
 
-- `DAILY_SEED_SALT` is server-only. Never prefix it with `NEXT_PUBLIC_`, never import a file that reads it from a client component.
+- `DAILY_SEED_SALT` is server-only. Never prefix it with `NEXT_PUBLIC_`, never import a file that reads it from a client component. Server-only modules (`daily.ts`, `providers.ts`) live in `src/lib/server/` and must never be imported from `src/components/` or `src/hooks/`.
 - The daily answer (track ID, title, artist, provider ID) must not reach the client before the round ends: not in page props, RSC payloads, HTML, network responses, or source maps. Guesses are validated by `/api/daily/[genre]`.
 - `/api/audio/[trackId]` must not reveal title or artist in its response body, headers, or redirect URL. Use an opaque round token for Daily Mode instead of the raw track ID.
 - The autocomplete pool is the full channel catalog, which is fine because it does not reveal which track is the answer.
@@ -84,7 +84,7 @@ These rules define the game. Breaking them silently corrupts player streaks or l
 - Default to Server Components. Only add `"use client"` to leaf components that require browser APIs (`AudioContext`, `localStorage`, DOM events) or React state.
 - Do not build wrapper abstractions for one-off components. Three similar lines of code are better than a premature helper or generic factory.
 - Avoid `useEffect` for derived state. Compute derived values during render. Reserve `useEffect` for synchronizing with external systems (audio playback, `localStorage`, keyboard listeners), and always return a cleanup function.
-- Keep API routes thin (`src/app/api/`). Pure logic belongs in `src/lib/` where it can be unit tested without mocking Next.js request objects.
+- Keep API routes thin (`src/app/api/`). Pure logic belongs in `src/lib/` (shared) and `src/lib/server/` (server-only) where it can be unit tested without mocking Next.js request objects.
 - No `useMemo` / `useCallback` by default. Add them only for a measured problem or a referential-equality requirement.
 - Components stay under roughly 200 lines. Split by responsibility, not by habit.
 
@@ -124,7 +124,7 @@ These rules define the game. Breaking them silently corrupts player streaks or l
 - Never rename existing genre IDs in `src/data/genres/*.json`. Player stats in `localStorage` key off `genre.id`. Use `aliases` for display or search variations.
 - Genre IDs follow `root.sub.micro` (lowercase, hyphenated words, max three levels).
 - Never hardcode expiring Deezer CDN URLs into `src/data/tracks/*.json`. Store `provider` and `providerTrackId`, and resolve the fresh `preview` URL at runtime through `/api/audio/[trackId]`.
-- Keep game logic in `src/lib/` pure and deterministic. Given `(genreId, dateString, salt)`, the daily selector must always return the same track.
+- Keep game logic in `src/lib/` and `src/lib/server/` pure and deterministic. Given `(genreId, dateString, salt)`, the daily selector must always return the same track.
 - Track catalogs are append-only for Daily-eligible channels. Removing or reordering entries changes historical and upcoming daily answers. If a track must be removed, ask first.
 - A channel needs at least 30 tracks to be Daily-eligible.
 - No duplicate `providerTrackId` within a channel.
