@@ -17,7 +17,7 @@ export default tseslint.config(
     },
   },
   {
-    files: ["src/components/**/*.{ts,tsx}", "src/hooks/**/*.{ts,tsx}"],
+    files: ["src/components/**/*.{ts,tsx}", "src/hooks/**/*.{ts,tsx}", "src/lib/*.ts"],
     rules: {
       "no-restricted-imports": [
         "error",

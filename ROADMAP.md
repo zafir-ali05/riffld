@@ -28,27 +28,27 @@ Set up the core tooling, strict TypeScript configuration, and domain data struct
 
 Build and unit-test all pure game logic before wiring up API routes or React components. Shared client/server helpers live in `src/lib/`; server-only modules live in `src/lib/server/`.
 
-- [ ] **2.1 Guess Feedback & Artist Normalization (`src/lib/feedback.ts`)**
-  - [ ] Implement artist name normalization (case-folding, diacritic stripping, `&` / `and` normalization, stripping `feat.` / `ft.` / `with` credits, and handling commas in artist names like `"Tyler, The Creator"`).
-  - [ ] Implement multi-artist splitting and overlap matching so shared credited artists register as an artist match.
-  - [ ] Implement guess classification returning `"correct" | "artist" | "wrong" | "skipped"`.
-  - [ ] Add unit tests in `tests/feedback.test.ts` covering exact matches, artist matches, diacritics (`"Beyoncé"`), punctuation edge cases, wrong guesses, and skips.
-- [ ] **2.2 Static Catalog Loader & Hierarchy Rollup (`src/lib/catalog.ts`)**
-  - [ ] Load and validate genre trees from `src/data/genres/*.json` and track catalogs from `src/data/tracks/*.json`.
-  - [ ] Implement hierarchical channel resolution so selecting a root genre or subgenre aggregates all tracks from its descendant micro-genres without duplicates.
-  - [ ] Implement lookup helpers (`getGenreById`, `getTracksForChannel`, `getTrackById`, `isDailyEligibleChannel` checking the 30-track minimum).
-  - [ ] Add unit tests in `tests/catalog.test.ts` for tree traversal, rollup aggregation, and unknown ID handling.
-- [ ] **2.3 Deterministic Daily Selector (`src/lib/server/daily.ts`) & Share Formatter (`src/lib/share.ts`)**
-  - [ ] Implement client-safe UTC date helper (`YYYY-MM-DD`), puzzle number calculator (days elapsed since fixed UTC launch date constant), and spoiler-free share-text generator (`Riffld #<num> · <Genre> · <score>/6`, emoji row, streak line, and URL) in `src/lib/share.ts`.
-  - [ ] Implement server-only deterministic daily track selector using `hash(channelId + YYYY-MM-DD + DAILY_SEED_SALT)` in `src/lib/server/daily.ts`.
-  - [ ] Implement opaque daily round token generation/resolution in `src/lib/server/daily.ts` so `/api/audio/[trackId]` can resolve daily audio without exposing the raw `trackId` to the client.
-  - [ ] Add unit tests in `tests/daily.test.ts` using `vi.useFakeTimers()` / `vi.setSystemTime()` to verify determinism, 00:00 UTC rollover, puzzle numbering, and share-text formatting.
-- [ ] **2.4 Audio Preview Providers (`src/lib/server/providers.ts`)**
-  - [ ] Implement Deezer track API resolver and iTunes Search/Lookup API resolver with a 5-second fetch timeout.
-  - [ ] Resolve using the track's declared `provider` first, falling back to the alternate provider on failure.
-  - [ ] Validate external JSON payloads at the boundary and handle non-200 responses, rate limits, and missing preview URLs cleanly.
-  - [ ] Implement server-side in-memory TTL cache for resolved preview URLs (shorter than Deezer's signed URL lifetime).
-  - [ ] Add unit tests in `tests/providers.test.ts` with mocked `fetch` covering primary resolution, fallback resolution, timeouts, malformed responses, and cache expiration.
+- [x] **2.1 Guess Feedback & Artist Normalization (`src/lib/feedback.ts`)**
+  - [x] Implement artist name normalization (case-folding, diacritic stripping, `&` / `and` normalization, stripping `feat.` / `ft.` / `with` credits, and handling commas in artist names like `"Tyler, The Creator"`).
+  - [x] Implement multi-artist splitting and overlap matching so shared credited artists register as an artist match.
+  - [x] Implement guess classification returning `"correct" | "artist" | "wrong" | "skipped"`.
+  - [x] Add unit tests in `tests/feedback.test.ts` covering exact matches, artist matches, diacritics (`"Beyoncé"`), punctuation edge cases, wrong guesses, and skips.
+- [x] **2.2 Static Catalog Loader & Hierarchy Rollup (`src/lib/catalog.ts`)**
+  - [x] Load and validate genre trees from `src/data/genres/*.json` and track catalogs from `src/data/tracks/*.json`.
+  - [x] Implement hierarchical channel resolution so selecting a root genre or subgenre aggregates all tracks from its descendant micro-genres without duplicates.
+  - [x] Implement lookup helpers (`getGenreById`, `getTracksForChannel`, `getTrackById`, `isDailyEligibleChannel` checking the 30-track minimum).
+  - [x] Add unit tests in `tests/catalog.test.ts` for tree traversal, rollup aggregation, and unknown ID handling.
+- [x] **2.3 Deterministic Daily Selector (`src/lib/server/daily.ts`) & Share Formatter (`src/lib/share.ts`)**
+  - [x] Implement client-safe UTC date helper (`YYYY-MM-DD`), puzzle number calculator (days elapsed since fixed UTC launch date constant), and spoiler-free share-text generator (`Riffld #<num> · <Genre> · <score>/6`, emoji row, streak line, and URL) in `src/lib/share.ts`.
+  - [x] Implement server-only deterministic daily track selector using `hash(channelId + YYYY-MM-DD + DAILY_SEED_SALT)` in `src/lib/server/daily.ts`.
+  - [x] Implement opaque daily round token generation/resolution in `src/lib/server/daily.ts` so `/api/audio/[trackId]` can resolve daily audio without exposing the raw `trackId` to the client.
+  - [x] Add unit tests in `tests/daily.test.ts` using `vi.useFakeTimers()` / `vi.setSystemTime()` to verify determinism, 00:00 UTC rollover, puzzle numbering, and share-text formatting.
+- [x] **2.4 Audio Preview Providers (`src/lib/server/providers.ts`)**
+  - [x] Implement Deezer track API resolver and iTunes Search/Lookup API resolver with a 5-second fetch timeout.
+  - [x] Resolve using the track's declared `provider` first, falling back to the alternate provider on failure.
+  - [x] Validate external JSON payloads at the boundary and handle non-200 responses, rate limits, and missing preview URLs cleanly.
+  - [x] Implement server-side in-memory TTL cache for resolved preview URLs (shorter than Deezer's signed URL lifetime).
+  - [x] Add unit tests in `tests/providers.test.ts` with mocked `fetch` covering primary resolution, fallback resolution, timeouts, malformed responses, and cache expiration.
 
 ---
 

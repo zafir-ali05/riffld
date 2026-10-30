@@ -39,6 +39,8 @@ export const MAX_ATTEMPTS = 6;
 
 export const MAX_PREVIEW_DURATION_MS = 30000;
 
+export const MIN_DAILY_ELIGIBLE_TRACKS = 30;
+
 export const FEEDBACK_SQUARES = {
   correct: "🟩",
   artist: "🟨",
