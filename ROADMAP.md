@@ -12,7 +12,7 @@ Set up the core tooling, strict TypeScript configuration, and domain data struct
 
 - [x] **1.1 Initialize Next.js & Tooling**
   - [x] Create `package.json` with Next.js (App Router), React, TypeScript, Tailwind CSS, Fuse.js, Lucide Icons, ESLint, Prettier, and Vitest.
-  - [x] Configure `tsconfig.json` with `strict: true` and `noUncheckedIndexedAccess: true`.
+  - [x] Configure `tsconfig.json` with `strict: true`, `noUncheckedIndexedAccess: true`, and `allowImportingTsExtensions: true`, plus ESM `"type": "module"` in `package.json`.
   - [x] Configure npm scripts: `dev`, `build`, `start`, `lint`, `typecheck`, `test`, and `catalog:add`.
   - [x] Create `.env.example` with `NEXT_PUBLIC_APP_URL` and server-only `DAILY_SEED_SALT`.
   - [x] Create minimal App Router root layout (`src/app/layout.tsx`) and global Tailwind stylesheet.
@@ -36,7 +36,7 @@ Build and unit-test all pure game logic before wiring up API routes or React com
 - [x] **2.2 Static Catalog Loader & Hierarchy Rollup (`src/lib/catalog.ts`)**
   - [x] Load and validate genre trees from `src/data/genres/*.json` and track catalogs from `src/data/tracks/*.json`.
   - [x] Implement hierarchical channel resolution so selecting a root genre or subgenre aggregates all tracks from its descendant micro-genres without duplicates.
-  - [x] Implement lookup helpers (`getGenreById`, `getTracksForChannel`, `getTrackById`, `isDailyEligibleChannel` checking the 30-track minimum).
+  - [x] Implement lookup and traversal helpers (`getGenreById`, `getAllGenreNodes`, `getMicroGenreNodes`, `getDailyEligibleChannels`, `getTracksForChannel`, `getTrackById`, `slugifyTrackId`, `isDailyEligibleChannel` checking the 30-track minimum).
   - [x] Add unit tests in `tests/catalog.test.ts` for tree traversal, rollup aggregation, and unknown ID handling.
 - [x] **2.3 Deterministic Daily Selector (`src/lib/server/daily.ts`) & Share Formatter (`src/lib/share.ts`)**
   - [x] Implement client-safe UTC date helper (`YYYY-MM-DD`), puzzle number calculator (days elapsed since fixed UTC launch date constant), and spoiler-free share-text generator (`Riffld #<num> · <Genre> · <score>/6`, emoji row, streak line, and URL) in `src/lib/share.ts`.
@@ -56,19 +56,19 @@ Build and unit-test all pure game logic before wiring up API routes or React com
 
 Populate the static genre tree, build the catalog seeding CLI, and enforce schema invariants via automated tests.
 
-- [ ] **3.1 Launch Genre Taxonomy (`src/data/genres/*.json`)**
-  - [ ] Create root genre taxonomy files (`pop.json`, `hip-hop.json`, `rock.json`, `electronic.json`, `latin.json`, `country.json`, `soul-jazz.json`, `global.json`) covering both mainstream genres and niche subgenres following the `root.sub.micro` ID convention.
-- [ ] **3.2 Catalog Seeding CLI (`scripts/catalog.ts`)**
-  - [ ] Build `npm run catalog:add` CLI to search Deezer/iTunes by artist, track, or playlist and append normalized `Track` entries to `src/data/tracks/<genre>.json`.
-  - [ ] Deduplicate by `id` and `providerTrackId` before writing.
-- [ ] **3.3 Initial Seed Track Catalogs (`src/data/tracks/*.json`)**
-  - [ ] Seed initial launch genre channels (minimum 30 real tracks per Daily-eligible channel).
-- [ ] **3.4 Catalog Schema & Integrity Tests (`tests/catalog-integrity.test.ts`)**
-  - [ ] Verify every genre ID matches `root.sub.micro` formatting and has no duplicate IDs.
-  - [ ] Verify every track references a valid `genreId`, has a non-empty `providerTrackId`, and never stores hardcoded CDN URLs.
-  - [ ] Verify no duplicate `id` or `providerTrackId` exists within a channel.
-  - [ ] Verify `(track.snippetOffsetMs ?? 0) + 16000 <= 30000` for every track.
-  - [ ] Verify Daily-eligible channels meet the 30-track minimum.
+- [x] **3.1 Launch Genre Taxonomy (`src/data/genres/*.json`)**
+  - [x] Create root genre taxonomy files (`pop.json`, `hip-hop.json`, `rock.json`, `electronic.json`, `latin.json`, `country.json`, `soul-jazz.json`, `global.json`) covering both mainstream genres and niche subgenres following the `root.sub.micro` ID convention.
+- [x] **3.2 Catalog Seeding CLI (`scripts/catalog.ts`)**
+  - [x] Build `npm run catalog:add` CLI to search Deezer/iTunes by artist, track, or playlist (plus `--seed` batch mode with curated queries for all 65 micro-genres and `--list-genres`) and append normalized `Track` entries to `src/data/tracks/<genre>.json`.
+  - [x] Deduplicate by `id` and `providerTrackId` before writing.
+- [x] **3.3 Initial Seed Track Catalogs (`src/data/tracks/*.json`)**
+  - [x] Seed initial launch genre channels (minimum 30 real tracks per Daily-eligible channel).
+- [x] **3.4 Catalog Schema & Integrity Tests (`tests/catalog-integrity.test.ts`)**
+  - [x] Verify every genre ID matches `root.sub.micro` formatting and has no duplicate IDs.
+  - [x] Verify every track references a valid `genreId`, has a non-empty `providerTrackId`, and never stores hardcoded CDN URLs.
+  - [x] Verify no duplicate `id` or `providerTrackId` exists within a channel.
+  - [x] Verify `(track.snippetOffsetMs ?? 0) + 16000 <= 30000` for every track.
+  - [x] Verify Daily-eligible channels meet the 30-track minimum.
 
 ---
 

@@ -1,0 +1,65 @@
+{
+  "id": "latin",
+  "name": "Latin",
+  "emoji": "🌎",
+  "children": [
+    {
+      "id": "latin.urbano",
+      "name": "Urbano & Pop",
+      "children": [
+        {
+          "id": "latin.urbano.reggaeton",
+          "name": "Reggaeton",
+          "aliases": ["reggaetón", "perreo", "dembow"]
+        },
+        {
+          "id": "latin.urbano.latin-pop",
+          "name": "Latin Pop",
+          "aliases": ["pop latino"]
+        },
+        {
+          "id": "latin.urbano.latin-trap",
+          "name": "Latin Trap",
+          "aliases": ["trap latino"]
+        },
+        {
+          "id": "latin.urbano.baile-funk",
+          "name": "Baile Funk",
+          "aliases": ["funk carioca", "funk brasileiro"]
+        }
+      ]
+    },
+    {
+      "id": "latin.tropical",
+      "name": "Tropical",
+      "children": [
+        {
+          "id": "latin.tropical.bachata",
+          "name": "Bachata",
+          "aliases": ["bachata urbana"]
+        },
+        {
+          "id": "latin.tropical.salsa",
+          "name": "Salsa",
+          "aliases": ["salsa dura", "salsa romantica"]
+        },
+        {
+          "id": "latin.tropical.cumbia",
+          "name": "Cumbia",
+          "aliases": ["cumbia sonidera", "cumbia villera"]
+        }
+      ]
+    },
+    {
+      "id": "latin.regional-mexican",
+      "name": "Regional Mexican",
+      "children": [
+        {
+          "id": "latin.regional-mexican.corridos-tumbados",
+          "name": "Corridos Tumbados",
+          "aliases": ["corridos bélicos", "trap corridos", "sierreño"]
+        }
+      ]
+    }
+  ]
+}

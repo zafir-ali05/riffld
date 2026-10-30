@@ -7,7 +7,7 @@ import {
   type AudioProvider,
   type GenreNode,
   type Track,
-} from "@/types/catalog";
+} from "../types/catalog.ts";
 
 export interface CatalogData {
   genres: readonly GenreNode[];
@@ -32,11 +32,41 @@ function isAudioProvider(value: unknown): value is AudioProvider {
   return value === "deezer" || value === "itunes";
 }
 
+function stripDiacriticsForSlug(value: string): string {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/ø/gi, "o")
+    .replace(/ł/gi, "l")
+    .replace(/ß/g, "ss")
+    .replace(/æ/gi, "ae")
+    .replace(/œ/gi, "oe");
+}
+
+export function slugifyTrackId(artist: string, title: string): string {
+  const combined = `${artist} ${title}`;
+  const slug = stripDiacriticsForSlug(combined)
+    .toLowerCase()
+    .replace(/[&+]/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+  if (slug.length === 0) {
+    throw new Error("Cannot generate track slug from empty artist and title.");
+  }
+
+  return slug;
+}
+
 export function isValidGenreId(id: string): boolean {
   return GENRE_ID_PATTERN.test(id);
 }
 
-export function validateGenreNode(raw: unknown, parentId?: string): GenreNode {
+function validateGenreNodeInternal(
+  raw: unknown,
+  parentId: string | undefined,
+  seenIds: Set<string>,
+): GenreNode {
   if (!isRecord(raw)) {
     throw new Error("Genre node must be a JSON object.");
   }
@@ -47,9 +77,26 @@ export function validateGenreNode(raw: unknown, parentId?: string): GenreNode {
     throw new Error(`Invalid genre ID: ${String(id)}`);
   }
 
-  if (parentId !== undefined && !id.startsWith(`${parentId}.`)) {
-    throw new Error(`Child genre ID "${id}" must start with parent prefix "${parentId}."`);
+  if (parentId === undefined) {
+    if (id.includes(".")) {
+      throw new Error(`Root genre ID "${id}" must not contain dots.`);
+    }
+  } else {
+    if (!id.startsWith(`${parentId}.`)) {
+      throw new Error(`Child genre ID "${id}" must start with parent prefix "${parentId}."`);
+    }
+    const suffix = id.slice(parentId.length + 1);
+    if (suffix.includes(".")) {
+      throw new Error(
+        `Child genre ID "${id}" must be exactly one level deeper than parent "${parentId}".`,
+      );
+    }
   }
+
+  if (seenIds.has(id)) {
+    throw new Error(`Duplicate genre ID "${id}".`);
+  }
+  seenIds.add(id);
 
   if (typeof name !== "string" || name.trim().length === 0) {
     throw new Error(`Genre "${id}" must have a non-empty name.`);
@@ -74,17 +121,21 @@ export function validateGenreNode(raw: unknown, parentId?: string): GenreNode {
     ) {
       throw new Error(`Genre "${id}" aliases must be an array of non-empty strings.`);
     }
-    node.aliases = aliases;
+    node.aliases = aliases.map((alias) => alias.trim());
   }
 
   if (children !== undefined) {
     if (!Array.isArray(children)) {
       throw new Error(`Genre "${id}" children must be an array.`);
     }
-    node.children = children.map((child) => validateGenreNode(child, id));
+    node.children = children.map((child) => validateGenreNodeInternal(child, id, seenIds));
   }
 
   return node;
+}
+
+export function validateGenreNode(raw: unknown, parentId?: string): GenreNode {
+  return validateGenreNodeInternal(raw, parentId, new Set<string>());
 }
 
 export function validateTrack(raw: unknown): Track {
@@ -173,11 +224,12 @@ function listJsonFiles(directoryPath: string): string[] {
 export function loadGenresFromDisk(genresDir: string = DEFAULT_GENRES_DIR): GenreNode[] {
   const files = listJsonFiles(genresDir);
   const genres: GenreNode[] = [];
+  const seenIds = new Set<string>();
 
   for (const filePath of files) {
     const content = fs.readFileSync(filePath, "utf8");
     const parsed: unknown = JSON.parse(content);
-    genres.push(validateGenreNode(parsed));
+    genres.push(validateGenreNodeInternal(parsed, undefined, seenIds));
   }
 
   return genres;
@@ -217,6 +269,34 @@ export function resetCatalogCache(): void {
 
 export function getAllGenres(catalog?: CatalogData): GenreNode[] {
   return [...getCatalog(catalog).genres];
+}
+
+function collectGenreNodes(nodes: readonly GenreNode[], accumulator: GenreNode[]): void {
+  for (const node of nodes) {
+    accumulator.push(node);
+    if (node.children !== undefined) {
+      collectGenreNodes(node.children, accumulator);
+    }
+  }
+}
+
+export function getAllGenreNodes(catalog?: CatalogData): GenreNode[] {
+  const nodes: GenreNode[] = [];
+  collectGenreNodes(getCatalog(catalog).genres, nodes);
+  return nodes;
+}
+
+export function getMicroGenreNodes(catalog?: CatalogData): GenreNode[] {
+  return getAllGenreNodes(catalog).filter(
+    (node) => node.children === undefined || node.children.length === 0,
+  );
+}
+
+export function getDailyEligibleChannels(catalog?: CatalogData): GenreNode[] {
+  const resolved = getCatalog(catalog);
+  return getAllGenreNodes(resolved).filter((node) =>
+    isDailyEligibleChannel(node.id, resolved),
+  );
 }
 
 function findNodeInTree(nodes: readonly GenreNode[], targetId: string): GenreNode | undefined {

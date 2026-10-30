@@ -1,0 +1,2978 @@
+[
+  {
+    "id": "bad-bunny-nuevayol",
+    "title": "NUEVAYoL",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171002981"
+  },
+  {
+    "id": "bad-bunny-dtmf",
+    "title": "DtMF",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171003131"
+  },
+  {
+    "id": "bad-bunny-baile-inolvidable",
+    "title": "BAILE INoLVIDABLE",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171003001"
+  },
+  {
+    "id": "bad-bunny-titi-me-pregunto",
+    "title": "Tití Me Preguntó",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "1741494317"
+  },
+  {
+    "id": "bad-bunny-eoo",
+    "title": "EoO",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171003121"
+  },
+  {
+    "id": "bad-bunny-dakiti",
+    "title": "DÁKITI",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "1122450992"
+  },
+  {
+    "id": "bad-bunny-cafe-con-ron",
+    "title": "CAFé CON RON",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171003091"
+  },
+  {
+    "id": "bad-bunny-voy-a-llevarte-pa-pr",
+    "title": "VOY A LLeVARTE PA PR",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3171002991"
+  },
+  {
+    "id": "bad-bunny-monaco",
+    "title": "MONACO",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2496106371"
+  },
+  {
+    "id": "bad-bunny-mia",
+    "title": "MIA",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "608410332"
+  },
+  {
+    "id": "daddy-yankee-gasolina",
+    "title": "Gasolina",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3165861441"
+  },
+  {
+    "id": "luis-fonsi-despacito",
+    "title": "Despacito",
+    "artist": "Luis Fonsi",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "623698142"
+  },
+  {
+    "id": "zion-and-lennox-yo-voy",
+    "title": "Yo Voy",
+    "artist": "Zion & Lennox",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "78316091"
+  },
+  {
+    "id": "daddy-yankee-no-me-dejes-solo",
+    "title": "No Me Dejes Solo",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3165861431"
+  },
+  {
+    "id": "anuel-aa-china",
+    "title": "China",
+    "artist": "Anuel AA",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "714210042"
+  },
+  {
+    "id": "daddy-yankee-limbo",
+    "title": "Limbo",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "58786641"
+  },
+  {
+    "id": "daddy-yankee-lo-que-paso-paso",
+    "title": "Lo Que Pasó, Pasó",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3165861471"
+  },
+  {
+    "id": "bizarrap-daddy-yankee-bzrp-music-sessions-vol-0-66",
+    "title": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+    "artist": "Bizarrap",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3638389092"
+  },
+  {
+    "id": "daddy-yankee-con-calma",
+    "title": "Con Calma",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "619949882"
+  },
+  {
+    "id": "daddy-yankee-botz",
+    "title": "BOTZ",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "4332055722"
+  },
+  {
+    "id": "feid-luna",
+    "title": "LUNA",
+    "artist": "Feid",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2565307142"
+  },
+  {
+    "id": "yandel-yandel-150",
+    "title": "Yandel 150",
+    "artist": "Yandel",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2074439067"
+  },
+  {
+    "id": "bad-bunny-perro-negro",
+    "title": "PERRO NEGRO",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2496106541"
+  },
+  {
+    "id": "karol-g-verano-rosa",
+    "title": "Verano Rosa",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3421452581"
+  },
+  {
+    "id": "feid-paradixe",
+    "title": "PARADIXE",
+    "artist": "Feid",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "4286101312"
+  },
+  {
+    "id": "feid-classy-101",
+    "title": "CLASSY 101",
+    "artist": "Feid",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2216510797"
+  },
+  {
+    "id": "maisak-te-entiendo",
+    "title": "Te Entiendo",
+    "artist": "Maisak",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3984444671"
+  },
+  {
+    "id": "karol-g-and-57",
+    "title": "+57",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3076608311"
+  },
+  {
+    "id": "madonna-read-my-lips",
+    "title": "Read My Lips",
+    "artist": "Madonna",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3988410721"
+  },
+  {
+    "id": "ozuna-hey-mor",
+    "title": "Hey Mor",
+    "artist": "Ozuna",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "1925210387"
+  },
+  {
+    "id": "karol-g-bby-wow",
+    "title": "BbY WOW",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "4208859922"
+  },
+  {
+    "id": "karol-g-si-antes-te-hubiera-conocido",
+    "title": "Si Antes Te Hubiera Conocido",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2846442802"
+  },
+  {
+    "id": "karol-g-tqg",
+    "title": "TQG",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2154046487"
+  },
+  {
+    "id": "karol-g-matadora",
+    "title": "MATADORA",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "4176013632"
+  },
+  {
+    "id": "karol-g-tusa",
+    "title": "Tusa",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "796342592"
+  },
+  {
+    "id": "karol-g-latina-foreva",
+    "title": "LATINA FOREVA",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3376766301"
+  },
+  {
+    "id": "karol-g-ahi",
+    "title": "Ahí",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "4208859852"
+  },
+  {
+    "id": "karol-g-qlona",
+    "title": "QLONA",
+    "artist": "KAROL G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "2403815945"
+  },
+  {
+    "id": "becky-g-mamiii",
+    "title": "MAMIII",
+    "artist": "Becky G",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "1649460922"
+  },
+  {
+    "id": "cardi-b-i-like-it",
+    "title": "I Like It",
+    "artist": "Cardi B",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "482986842"
+  },
+  {
+    "id": "dj-snake-loco-contigo",
+    "title": "Loco Contigo",
+    "artist": "DJ Snake",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "716383902"
+  },
+  {
+    "id": "nicky-jam-x-feat-maluma-and-ozuna",
+    "title": "X (feat. Maluma & Ozuna)",
+    "artist": "Nicky Jam",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "517799952"
+  },
+  {
+    "id": "j-balvin-la-cancion",
+    "title": "LA CANCIÓN",
+    "artist": "J. Balvin",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "702421822"
+  },
+  {
+    "id": "j-balvin-azul",
+    "title": "Azul",
+    "artist": "J. Balvin",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "903698362"
+  },
+  {
+    "id": "the-black-eyed-peas-ritmo-bad-boys-for-life",
+    "title": "RITMO (Bad Boys For Life)",
+    "artist": "The Black Eyed Peas",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "772603752"
+  },
+  {
+    "id": "nicky-jam-x",
+    "title": "X",
+    "artist": "Nicky Jam",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "791449262"
+  },
+  {
+    "id": "j-balvin-tonto",
+    "title": "Tonto",
+    "artist": "J. Balvin",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "3865096921"
+  },
+  {
+    "id": "rosalia-con-altura-feat-el-guincho",
+    "title": "Con Altura (feat. El Guincho)",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "656027552"
+  },
+  {
+    "id": "j-balvin-ginza",
+    "title": "Ginza",
+    "artist": "J. Balvin",
+    "genreId": "latin.urbano.reggaeton",
+    "provider": "deezer",
+    "providerTrackId": "127245209"
+  },
+  {
+    "id": "maluma-agua",
+    "title": "AGUA",
+    "artist": "Maluma",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "4276560062"
+  },
+  {
+    "id": "shakira-whenever-wherever",
+    "title": "Whenever, Wherever",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "15211178"
+  },
+  {
+    "id": "shakira-hips-don-t-lie",
+    "title": "Hips Don't Lie",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3663852612"
+  },
+  {
+    "id": "shakira-can-t-remember-to-forget-you-feat-rihanna",
+    "title": "Can't Remember to Forget You (feat. Rihanna)",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "76066883"
+  },
+  {
+    "id": "shakira-chantaje-feat-maluma",
+    "title": "Chantaje (feat. Maluma)",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "364957401"
+  },
+  {
+    "id": "shakira-loca-feat-el-cata",
+    "title": "Loca (feat. El Cata)",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "79589178"
+  },
+  {
+    "id": "shakira-she-wolf",
+    "title": "She Wolf",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3018798101"
+  },
+  {
+    "id": "shakira-try-everything",
+    "title": "Try Everything",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "586860862"
+  },
+  {
+    "id": "rosalia-la-fama",
+    "title": "LA FAMA",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1685337397"
+  },
+  {
+    "id": "rosalia-despecha",
+    "title": "DESPECHÁ",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1841999507"
+  },
+  {
+    "id": "rosalia-beso",
+    "title": "BESO",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2200304467"
+  },
+  {
+    "id": "rosalia-la-perla",
+    "title": "La Perla",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3640140952"
+  },
+  {
+    "id": "rosalia-berghain",
+    "title": "Berghain",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3640140942"
+  },
+  {
+    "id": "bad-bunny-la-noche-de-anoche",
+    "title": "LA NOCHE DE ANOCHE",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1155477802"
+  },
+  {
+    "id": "rosalia-sexo-violencia-y-llantas",
+    "title": "Sexo, Violencia y Llantas",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3640140892"
+  },
+  {
+    "id": "rosalia-yo-x-ti-tu-x-mi",
+    "title": "Yo x Ti, Tu x Mi",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "731498882"
+  },
+  {
+    "id": "rosalia-reliquia",
+    "title": "Reliquia",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3640140902"
+  },
+  {
+    "id": "rauw-alejandro-que-pasaria",
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3086954731"
+  },
+  {
+    "id": "rvssian-santa",
+    "title": "Santa",
+    "artist": "Rvssian",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2725148591"
+  },
+  {
+    "id": "shakira-te-felicito",
+    "title": "Te Felicito",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1718098247"
+  },
+  {
+    "id": "rauw-alejandro-todo-de-ti",
+    "title": "Todo De Ti",
+    "artist": "Rauw Alejandro",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1370066842"
+  },
+  {
+    "id": "rauw-alejandro-desesperados",
+    "title": "Desesperados",
+    "artist": "Rauw Alejandro",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1563415072"
+  },
+  {
+    "id": "rauw-alejandro-diluvio",
+    "title": "DILUVIO",
+    "artist": "Rauw Alejandro",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2352913965"
+  },
+  {
+    "id": "manuel-turizo-la-nota",
+    "title": "La Nota",
+    "artist": "Manuel Turizo",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1095137892"
+  },
+  {
+    "id": "rosalia-vampiros",
+    "title": "VAMPIROS",
+    "artist": "ROSALÍA",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2200304477"
+  },
+  {
+    "id": "tyler-the-creator-see-you-again-feat-kali-uchis",
+    "title": "See You Again (feat. Kali Uchis)",
+    "artist": "Tyler, The Creator",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "384157591"
+  },
+  {
+    "id": "kali-uchis-telepatia",
+    "title": "telepatía",
+    "artist": "Kali Uchis",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "1148585682"
+  },
+  {
+    "id": "kali-uchis-igual-que-un-angel",
+    "title": "Igual Que Un Ángel",
+    "artist": "Kali Uchis",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2609095072"
+  },
+  {
+    "id": "gorillaz-she-s-my-collar-feat-kali-uchis",
+    "title": "She's My Collar (feat. Kali Uchis)",
+    "artist": "Gorillaz",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "354196031"
+  },
+  {
+    "id": "kali-uchis-moonlight",
+    "title": "Moonlight",
+    "artist": "Kali Uchis",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "2166050207"
+  },
+  {
+    "id": "aya-nakamura-baby-boy",
+    "title": "Baby Boy",
+    "artist": "Aya Nakamura",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3661342592"
+  },
+  {
+    "id": "kali-uchis-after-the-storm",
+    "title": "After The Storm",
+    "artist": "Kali Uchis",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "446699712"
+  },
+  {
+    "id": "kali-uchis-muevelo",
+    "title": "Muévelo",
+    "artist": "Kali Uchis",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3721301952"
+  },
+  {
+    "id": "mariah-the-scientist-is-it-a-crime",
+    "title": "Is It a Crime",
+    "artist": "Mariah The Scientist",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3481522341"
+  },
+  {
+    "id": "luis-miguel-la-mentira",
+    "title": "La Mentira",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3860299"
+  },
+  {
+    "id": "luis-miguel-la-incondicional",
+    "title": "La Incondicional",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3863211"
+  },
+  {
+    "id": "luis-miguel-culpable-o-no",
+    "title": "Culpable O No",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3863209"
+  },
+  {
+    "id": "luis-miguel-hasta-que-me-olvides",
+    "title": "Hasta Que Me Olvides",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3902683"
+  },
+  {
+    "id": "luis-miguel-inolvidable",
+    "title": "Inolvidable",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3860292"
+  },
+  {
+    "id": "luis-miguel-usted",
+    "title": "Usted",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3860296"
+  },
+  {
+    "id": "luis-miguel-la-media-vuelta",
+    "title": "La Media Vuelta",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3863099"
+  },
+  {
+    "id": "luis-miguel-no-se-tu",
+    "title": "No Sé Tú",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "3860301"
+  },
+  {
+    "id": "luis-miguel-sabor-a-mi",
+    "title": "Sabor a Mi",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "817053"
+  },
+  {
+    "id": "luis-miguel-ahora-te-puedes-marchar",
+    "title": "Ahora Te Puedes Marchar",
+    "artist": "Luis Miguel",
+    "genreId": "latin.urbano.latin-pop",
+    "provider": "deezer",
+    "providerTrackId": "68946211"
+  },
+  {
+    "id": "6ix9ine-mala-feat-anuel-aa",
+    "title": "MALA (feat. Anuel AA)",
+    "artist": "6ix9ine",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2493714661"
+  },
+  {
+    "id": "el-bogueto-cuando-no-era-cantante",
+    "title": "Cuando No Era Cantante",
+    "artist": "El Bogueto",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3714656922"
+  },
+  {
+    "id": "anuel-aa-amanece",
+    "title": "Amanece",
+    "artist": "Anuel AA",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "598759932"
+  },
+  {
+    "id": "anuel-aa-las-mas-bonitas-son-p-tas",
+    "title": "Las mas bonitas son p#tas",
+    "artist": "Anuel AA",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4116698781"
+  },
+  {
+    "id": "anuel-aa-ella-quiere-beber",
+    "title": "Ella Quiere Beber",
+    "artist": "Anuel AA",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "637104912"
+  },
+  {
+    "id": "6ix9ine-bebe-feat-anuel-aa",
+    "title": "BEBE (feat. Anuel AA)",
+    "artist": "6ix9ine",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2493714651"
+  },
+  {
+    "id": "sech-otro-trago",
+    "title": "Otro Trago",
+    "artist": "Sech",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "715415322"
+  },
+  {
+    "id": "shakira-me-gusta",
+    "title": "Me Gusta",
+    "artist": "Shakira",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "850907702"
+  },
+  {
+    "id": "tainy-adicto",
+    "title": "Adicto",
+    "artist": "Tainy",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "734393362"
+  },
+  {
+    "id": "eladio-carrion-coco-chanel",
+    "title": "Coco Chanel",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2193354717"
+  },
+  {
+    "id": "yann-c-sigue-bailandome",
+    "title": "Sigue Bailandome",
+    "artist": "Yann'C",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "566770762"
+  },
+  {
+    "id": "morad-andando",
+    "title": "Andando",
+    "artist": "Morad",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4039128861"
+  },
+  {
+    "id": "eladio-carrion-3-am",
+    "title": "3 Am",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "860421412"
+  },
+  {
+    "id": "eladio-carrion-mbappe",
+    "title": "Mbappe",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2010580497"
+  },
+  {
+    "id": "omar-courtz-moonlight",
+    "title": "MOONLIGHT",
+    "artist": "Omar Courtz",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3852035011"
+  },
+  {
+    "id": "bad-bunny-thunder-y-lightning",
+    "title": "THUNDER Y LIGHTNING",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2496106531"
+  },
+  {
+    "id": "eladio-carrion-mi-error",
+    "title": "Mi Error",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "808191382"
+  },
+  {
+    "id": "eladio-carrion-hola-como-vas",
+    "title": "Hola Como Vas",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "1567099012"
+  },
+  {
+    "id": "eladio-carrion-kemba-walker",
+    "title": "Kemba Walker",
+    "artist": "Eladio Carrion",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "727425802"
+  },
+  {
+    "id": "bryant-myers-esclava",
+    "title": "Esclava",
+    "artist": "Bryant Myers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2945943861"
+  },
+  {
+    "id": "bad-bunny-pa-ti",
+    "title": "Pa Ti",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "704059932"
+  },
+  {
+    "id": "omar-courtz-2-k-1-6",
+    "title": "2 K 1 6",
+    "artist": "Omar Courtz",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3003099941"
+  },
+  {
+    "id": "luar-la-l-contigo-na-mas-remix-feat-ozuna-hades66-jay-wheeler",
+    "title": "Contigo Na Más - Remix (feat. Ozuna, Hades66, Jay Wheeler)",
+    "artist": "Luar La L",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4072949971"
+  },
+  {
+    "id": "bad-bunny-seda",
+    "title": "SEDA",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2496106431"
+  },
+  {
+    "id": "bad-bunny-caile",
+    "title": "Caile",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "1714450807"
+  },
+  {
+    "id": "bryant-myers-triste",
+    "title": "Triste",
+    "artist": "Bryant Myers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "531563411"
+  },
+  {
+    "id": "dei-v-narcotics",
+    "title": "Narcotics",
+    "artist": "Dei V",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3279578161"
+  },
+  {
+    "id": "bryant-myers-un-ratito-mas",
+    "title": "Un Ratito Mas",
+    "artist": "Bryant Myers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "566765932"
+  },
+  {
+    "id": "kevin-roldan-hasta-abajo",
+    "title": "HASTA ABAJO",
+    "artist": "KEVIN ROLDAN",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "716523302"
+  },
+  {
+    "id": "stray-kids-come-play-from-the-series-arcane-league-of-legends",
+    "title": "Come Play (from the series Arcane League of Legends)",
+    "artist": "Stray Kids",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3288874521"
+  },
+  {
+    "id": "young-miko-bnb",
+    "title": "BnB",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4022674191"
+  },
+  {
+    "id": "young-miko-aquel-diciembre",
+    "title": "Aquel diciembre",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4022674221"
+  },
+  {
+    "id": "bad-gyal-chulo-pt-2",
+    "title": "Chulo pt.2",
+    "artist": "Bad Gyal",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2328294525"
+  },
+  {
+    "id": "young-miko-biaf-3",
+    "title": "BIAF <3",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3936484551"
+  },
+  {
+    "id": "young-miko-offline",
+    "title": "offline",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2729119091"
+  },
+  {
+    "id": "young-miko-meiomi",
+    "title": "Meiomi",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3537758221"
+  },
+  {
+    "id": "young-miko-wassup",
+    "title": "WASSUP",
+    "artist": "Young Miko",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3324627311"
+  },
+  {
+    "id": "bad-bunny-fina",
+    "title": "FINA",
+    "artist": "Bad Bunny",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2496106381"
+  },
+  {
+    "id": "myke-towers-lala",
+    "title": "LALA",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2159990627"
+  },
+  {
+    "id": "myke-towers-la-falda",
+    "title": "LA FALDA",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "2542594331"
+  },
+  {
+    "id": "myke-towers-carita-feliz",
+    "title": "CARITA FELIZ",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4234189502"
+  },
+  {
+    "id": "myke-towers-soleao",
+    "title": "SOLEAO",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3368936011"
+  },
+  {
+    "id": "myke-towers-te-imagino",
+    "title": "Te Imagino",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "4363070381"
+  },
+  {
+    "id": "ozuna-caramelo",
+    "title": "Caramelo",
+    "artist": "Ozuna",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "1049272552"
+  },
+  {
+    "id": "jay-wheeler-la-curiosidad",
+    "title": "La Curiosidad",
+    "artist": "Jay Wheeler",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "978387002"
+  },
+  {
+    "id": "myke-towers-degenere-feat-benny-blanco",
+    "title": "DEGENERE (feat. benny blanco)",
+    "artist": "Myke Towers",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3039942561"
+  },
+  {
+    "id": "w-sound-5-estrellas-w-sound-23",
+    "title": "5 Estrellas - W Sound 23",
+    "artist": "W Sound",
+    "genreId": "latin.urbano.latin-trap",
+    "provider": "deezer",
+    "providerTrackId": "3824901081"
+  },
+  {
+    "id": "the-weeknd-sao-paulo",
+    "title": "São Paulo",
+    "artist": "The Weeknd",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3210598411"
+  },
+  {
+    "id": "anitta-nao-me-cutuca",
+    "title": "Não Me Cutuca",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205832"
+  },
+  {
+    "id": "anitta-voce-ja-sabe",
+    "title": "Você Já Sabe",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205812"
+  },
+  {
+    "id": "dadju-mon-soleil",
+    "title": "Mon soleil",
+    "artist": "Dadju",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1390738122"
+  },
+  {
+    "id": "anitta-sal-grosso",
+    "title": "Sal Grosso",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205822"
+  },
+  {
+    "id": "anitta-feitico",
+    "title": "Feitiço",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205852"
+  },
+  {
+    "id": "pedro-sampaio-dancarina-feat-nicky-jam-mc-pedrinho",
+    "title": "DANÇARINA (feat. Nicky Jam, MC Pedrinho)",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1776731677"
+  },
+  {
+    "id": "anitta-tudo-isso",
+    "title": "Tudo Isso",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205882"
+  },
+  {
+    "id": "anitta-eu-nao-sou-santa",
+    "title": "Eu Não Sou Santa",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205842"
+  },
+  {
+    "id": "anitta-oke",
+    "title": "Okê",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4171205992"
+  },
+  {
+    "id": "sorriso-maroto-nao-mereco-ser-amante",
+    "title": "Não Mereço Ser Amante",
+    "artist": "Sorriso Maroto",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4166842692"
+  },
+  {
+    "id": "sorriso-maroto-ainda-gosto-de-voce-ja-era",
+    "title": "Ainda Gosto de Você / Já Era",
+    "artist": "Sorriso Maroto",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2436043165"
+  },
+  {
+    "id": "ludmilla-insonia",
+    "title": "Insônia",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1870125867"
+  },
+  {
+    "id": "ludmilla-maliciosa",
+    "title": "Maliciosa",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2609046392"
+  },
+  {
+    "id": "ludmilla-falta-de-mim",
+    "title": "Falta de Mim",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2641862582"
+  },
+  {
+    "id": "sorriso-maroto-coracao-deserto-ninguem-merece-amar-sozinho-a-primeira-namorada",
+    "title": "Coração Deserto / Ninguém Merece Amar Sozinho / A Primeira Namorada",
+    "artist": "Sorriso Maroto",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2436043185"
+  },
+  {
+    "id": "ludmilla-duas-doses-de-saudade-nunca-me-vera-chorar-nao-quero-mais",
+    "title": "Duas doses de saudade / Nunca me verá chorar / Não quero mais",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "686651882"
+  },
+  {
+    "id": "vou-pro-sereno-teu-segredo",
+    "title": "Teu Segredo",
+    "artist": "Vou Pro Sereno",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "835103622"
+  },
+  {
+    "id": "ludmilla-saudade-da-gente",
+    "title": "Saudade da Gente",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2641862602"
+  },
+  {
+    "id": "ludmilla-lud-session-2-modo-aviao-a-tua-voz-700-por-hora-radar-a-musica-mais-triste-do-ano",
+    "title": "Lud Session #2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano",
+    "artist": "Ludmilla",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1430274892"
+  },
+  {
+    "id": "dennis-ta-ok",
+    "title": "Tá OK",
+    "artist": "DENNIS",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2254883767"
+  },
+  {
+    "id": "mc-kevin-o-chris-biquini-cavadinho",
+    "title": "Biquini Cavadinho",
+    "artist": "MC Kevin o Chris",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3901633651"
+  },
+  {
+    "id": "mc-kevin-o-chris-faz-um-vuk-vuk-teto-espelhado",
+    "title": "Faz um Vuk Vuk (Teto Espelhado)",
+    "artist": "MC Kevin o Chris",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2373517575"
+  },
+  {
+    "id": "mc-kevin-o-chris-medley-da-gaiola",
+    "title": "Medley da Gaiola",
+    "artist": "MC Kevin o Chris",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "542911322"
+  },
+  {
+    "id": "mc-kevin-o-chris-ela-e-do-tipo",
+    "title": "Ela É do Tipo",
+    "artist": "MC Kevin o Chris",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "642145762"
+  },
+  {
+    "id": "dennis-sigilinho",
+    "title": "Sigilinho",
+    "artist": "DENNIS",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4089543171"
+  },
+  {
+    "id": "filipe-ret-dentro-de-voce",
+    "title": "Dentro de Você",
+    "artist": "Filipe Ret",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "882748782"
+  },
+  {
+    "id": "orochi-capa-da-vogue",
+    "title": "Capa da Vogue",
+    "artist": "Orochi",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3252912181"
+  },
+  {
+    "id": "mc-kevin-o-chris-vamos-pra-gaiola",
+    "title": "Vamos pra Gaiola",
+    "artist": "MC Kevin o Chris",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "606690802"
+  },
+  {
+    "id": "luisa-sonza-recadin-no-espelho",
+    "title": "recadin no espelho",
+    "artist": "Luísa Sonza",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2641801022"
+  },
+  {
+    "id": "pedro-sampaio-jetski",
+    "title": "JETSKI",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3708173892"
+  },
+  {
+    "id": "pedro-sampaio-sequencia-feiticeira",
+    "title": "SEQUÊNCIA FEITICEIRA",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3511049601"
+  },
+  {
+    "id": "katseye-hootie-frutti",
+    "title": "Hootie Frutti",
+    "artist": "KATSEYE",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "4318240352"
+  },
+  {
+    "id": "anitta-joga-pra-lua",
+    "title": "Joga Pra Lua",
+    "artist": "Anitta",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2582671492"
+  },
+  {
+    "id": "pedro-sampaio-cavalinho",
+    "title": "CAVALINHO",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2619026272"
+  },
+  {
+    "id": "pedro-sampaio-sequencia-caramelo",
+    "title": "SEQUÊNCIA CARAMELO",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3648601562"
+  },
+  {
+    "id": "pedro-sampaio-escada-do-predio",
+    "title": "ESCADA DO PRÉDIO",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2972931331"
+  },
+  {
+    "id": "pedro-sampaio-sequencia-cunt",
+    "title": "SEQUÊNCIA CUNT",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3648601612"
+  },
+  {
+    "id": "pedro-sampaio-bota-um-funk",
+    "title": "BOTA UM FUNK",
+    "artist": "PEDRO SAMPAIO",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "3284680131"
+  },
+  {
+    "id": "mc-hariel-a-danca",
+    "title": "A Dança",
+    "artist": "Mc Hariel",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2937923481"
+  },
+  {
+    "id": "mc-hariel-hit-do-ano-o-peso-da-luta",
+    "title": "Hit do Ano - O Peso da Luta",
+    "artist": "Mc Hariel",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1224301572"
+  },
+  {
+    "id": "mc-hariel-poesia-acustica-7-ceu-azul",
+    "title": "Poesia Acústica #7 Céu Azul",
+    "artist": "Mc Hariel",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2794736662"
+  },
+  {
+    "id": "dj-wn-ritmista-1-0",
+    "title": "Ritmista 1.0",
+    "artist": "DJ WN",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2562287312"
+  },
+  {
+    "id": "mc-hariel-ilusao-cracolandia",
+    "title": "Ilusão (Cracolândia)",
+    "artist": "Mc Hariel",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1122723472"
+  },
+  {
+    "id": "mc-marks-cha-de-vida",
+    "title": "Chá de Vida",
+    "artist": "MC Marks",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2390592765"
+  },
+  {
+    "id": "mc-kelvinho-avisa-la-pt-4",
+    "title": "Avisa Lá, Pt. 4",
+    "artist": "Mc Kelvinho",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "2693975252"
+  },
+  {
+    "id": "oriente-mandona",
+    "title": "Mandona",
+    "artist": "Oriente",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "585134052"
+  },
+  {
+    "id": "dj-900-cartel-do-900",
+    "title": "Cartel do 900",
+    "artist": "DJ 900",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1115867532"
+  },
+  {
+    "id": "mc-hariel-maca-verde",
+    "title": "Maçã Verde",
+    "artist": "Mc Hariel",
+    "genreId": "latin.urbano.baile-funk",
+    "provider": "deezer",
+    "providerTrackId": "1097278102"
+  },
+  {
+    "id": "romeo-santos-dardos",
+    "title": "Dardos",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "3677908682"
+  },
+  {
+    "id": "romeo-santos-imitadora",
+    "title": "Imitadora",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "385074601"
+  },
+  {
+    "id": "romeo-santos-lokita-por-mi",
+    "title": "Lokita Por Mí",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "3677908662"
+  },
+  {
+    "id": "romeo-santos-eres-mia",
+    "title": "Eres Mía",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "75212170"
+  },
+  {
+    "id": "romeo-santos-propuesta-indecente",
+    "title": "Propuesta Indecente",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "69305455"
+  },
+  {
+    "id": "wisin-and-yandel-noche-de-sexo",
+    "title": "Noche De Sexo",
+    "artist": "Wisin & Yandel",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "2960714"
+  },
+  {
+    "id": "romeo-santos-el-panuelo",
+    "title": "El Pañuelo",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1892776297"
+  },
+  {
+    "id": "romeo-santos-ay-san-miguel",
+    "title": "Ay! San Miguel",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "3677908712"
+  },
+  {
+    "id": "rauw-alejandro-khe",
+    "title": "Khé?",
+    "artist": "Rauw Alejandro",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "3086954821"
+  },
+  {
+    "id": "daddy-yankee-bella-y-sensual",
+    "title": "Bella y Sensual",
+    "artist": "Daddy Yankee",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "385049431"
+  },
+  {
+    "id": "aventura-obsesion",
+    "title": "Obsesion",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848628"
+  },
+  {
+    "id": "aventura-ella-y-yo",
+    "title": "Ella Y Yo",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848611"
+  },
+  {
+    "id": "aventura-volvi",
+    "title": "Volví",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1451598462"
+  },
+  {
+    "id": "aventura-dile-al-amor",
+    "title": "Dile al Amor",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "73786725"
+  },
+  {
+    "id": "aventura-el-perdedor",
+    "title": "El Perdedor",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848677"
+  },
+  {
+    "id": "aventura-un-beso",
+    "title": "Un Beso",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848612"
+  },
+  {
+    "id": "aventura-brindo-con-agua",
+    "title": "Brindo Con Agua",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "2706005432"
+  },
+  {
+    "id": "aventura-mi-corazoncito",
+    "title": "Mi Corazoncito",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848676"
+  },
+  {
+    "id": "aventura-ensename-a-olvidar",
+    "title": "Enseñame a Olvidar",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "64848635"
+  },
+  {
+    "id": "aventura-inmortal",
+    "title": "Inmortal",
+    "artist": "Aventura",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "659888342"
+  },
+  {
+    "id": "prince-royce-rechazame",
+    "title": "Rechazame",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "76036246"
+  },
+  {
+    "id": "prince-royce-corazon-sin-cara",
+    "title": "Corazón Sin Cara",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "69957458"
+  },
+  {
+    "id": "prince-royce-la-carretera",
+    "title": "La Carretera",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "142832892"
+  },
+  {
+    "id": "prince-royce-carita-de-inocente",
+    "title": "Carita de Inocente",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "855432692"
+  },
+  {
+    "id": "prince-royce-darte-un-beso",
+    "title": "Darte un Beso",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "90269731"
+  },
+  {
+    "id": "alex-sensation-after-party",
+    "title": "After Party",
+    "artist": "Alex Sensation",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1637372832"
+  },
+  {
+    "id": "prince-royce-deja-vu",
+    "title": "Deja vu",
+    "artist": "Prince Royce",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "142832906"
+  },
+  {
+    "id": "enrique-iglesias-cuando-me-enamoro",
+    "title": "Cuando Me Enamoro",
+    "artist": "Enrique Iglesias",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "6558033"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-burbujas-de-amor",
+    "title": "Burbujas de Amor",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1857061907"
+  },
+  {
+    "id": "mana-bendita-tu-luz",
+    "title": "Bendita Tu Luz",
+    "artist": "Mana",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "797410"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-vale-la-pena",
+    "title": "Vale la Pena",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1857077897"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-el-niagara-en-bicicleta",
+    "title": "El Niágara en Bicicleta",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1857077927"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-bachata-en-fukuoka",
+    "title": "Bachata En Fukuoka",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "5645452"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-la-bilirrubina",
+    "title": "La Bilirrubina",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "2024095467"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-bachata-rosa",
+    "title": "Bachata Rosa",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1857061987"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-las-avispas",
+    "title": "Las Avispas",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "705003522"
+  },
+  {
+    "id": "juan-luis-guerra-4-40-frio-frio",
+    "title": "Frío, Frío",
+    "artist": "Juan Luis Guerra 4.40",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "65401110"
+  },
+  {
+    "id": "monchy-and-alexandra-dos-locos",
+    "title": "Dos Locos",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "694099212"
+  },
+  {
+    "id": "monchy-and-alexandra-hoja-en-blanco",
+    "title": "Hoja En Blanco",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "11497677"
+  },
+  {
+    "id": "monchy-and-alexandra-no-es-una-novela",
+    "title": "No Es una Novela",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1087511932"
+  },
+  {
+    "id": "monchy-and-alexandra-hasta-el-fin",
+    "title": "Hasta El Fín",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "11135862"
+  },
+  {
+    "id": "monchy-and-alexandra-te-quiero-igual-que-ayer",
+    "title": "Te Quiero Igual Que Ayer",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "1087511982"
+  },
+  {
+    "id": "romeo-santos-anos-luz",
+    "title": "Años Luz",
+    "artist": "Romeo Santos",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "659888322"
+  },
+  {
+    "id": "monchy-and-alexandra-no-ha-sido-facil",
+    "title": "No Ha Sido Facil",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "11497687"
+  },
+  {
+    "id": "monchy-and-alexandra-perdidos",
+    "title": "Perdidos",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "14021284"
+  },
+  {
+    "id": "monchy-and-alexandra-pasion",
+    "title": "Pasion",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "11497678"
+  },
+  {
+    "id": "monchy-and-alexandra-en-el-muelle-de-san-blas",
+    "title": "En El Muelle De San Blas",
+    "artist": "Monchy & Alexandra",
+    "genreId": "latin.tropical.bachata",
+    "provider": "deezer",
+    "providerTrackId": "11497679"
+  },
+  {
+    "id": "gente-de-zona-la-gozadera-feat-marc-anthony",
+    "title": "La Gozadera (feat. Marc Anthony)",
+    "artist": "Gente De Zona",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "123345682"
+  },
+  {
+    "id": "pitbull-rain-over-me-feat-marc-anthony",
+    "title": "Rain Over Me (feat. Marc Anthony)",
+    "artist": "Pitbull",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "12270341"
+  },
+  {
+    "id": "marc-anthony-vivir-mi-vida",
+    "title": "Vivir Mi Vida",
+    "artist": "Marc Anthony",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "68771815"
+  },
+  {
+    "id": "tina-arena-i-want-to-spend-my-lifetime-loving-you-with-marc-anthony",
+    "title": "I Want to Spend My Lifetime Loving You (with Marc Anthony)",
+    "artist": "Tina Arena",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "70632898"
+  },
+  {
+    "id": "marc-anthony-como-en-el-idilio",
+    "title": "Como en el Idilio",
+    "artist": "Marc Anthony",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "3786707482"
+  },
+  {
+    "id": "marc-anthony-ahora-quien",
+    "title": "Ahora Quien",
+    "artist": "Marc Anthony",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "586402"
+  },
+  {
+    "id": "piso-21-volver",
+    "title": "Volver",
+    "artist": "Piso 21",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "3191643301"
+  },
+  {
+    "id": "maluma-la-formula",
+    "title": "La Fórmula",
+    "artist": "Maluma",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "2124708237"
+  },
+  {
+    "id": "marc-anthony-y-hubo-alguien",
+    "title": "Y Hubo Alguien",
+    "artist": "Marc Anthony",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "2239492"
+  },
+  {
+    "id": "marc-anthony-flor-palida",
+    "title": "Flor Pálida",
+    "artist": "Marc Anthony",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "68771817"
+  },
+  {
+    "id": "willie-colon-la-murga",
+    "title": "La Murga",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686087482"
+  },
+  {
+    "id": "hector-lavoe-el-cantante",
+    "title": "El Cantante",
+    "artist": "Héctor Lavoe",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "689033892"
+  },
+  {
+    "id": "hector-lavoe-periodico-de-ayer",
+    "title": "Periódico De Ayer",
+    "artist": "Héctor Lavoe",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "688751902"
+  },
+  {
+    "id": "willie-colon-el-dia-de-mi-suerte",
+    "title": "El Día De Mi Suerte",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "1182194142"
+  },
+  {
+    "id": "willie-colon-guaracha",
+    "title": "Güaracha",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "4351420902"
+  },
+  {
+    "id": "hector-lavoe-juanito-alimana",
+    "title": "Juanito Alimaña",
+    "artist": "Héctor Lavoe",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "689030362"
+  },
+  {
+    "id": "willie-colon-calle-luna-calle-sol",
+    "title": "Calle Luna Calle Sol",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686101012"
+  },
+  {
+    "id": "willie-colon-aguanile",
+    "title": "Aguanile",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "2510241381"
+  },
+  {
+    "id": "willie-colon-che-che-cole",
+    "title": "Ché Ché Colé",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686077012"
+  },
+  {
+    "id": "hector-lavoe-escarcha",
+    "title": "Escarcha",
+    "artist": "Héctor Lavoe",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686108592"
+  },
+  {
+    "id": "willie-colon-oh-que-sera",
+    "title": "Oh Qué Será?",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686077142"
+  },
+  {
+    "id": "willie-colon-idilio",
+    "title": "Idilio",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "6237251"
+  },
+  {
+    "id": "willie-colon-pedro-navaja",
+    "title": "Pedro Navaja",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686098802"
+  },
+  {
+    "id": "willie-colon-el-gran-varon",
+    "title": "El Gran Varón",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686077162"
+  },
+  {
+    "id": "willie-colon-talento-de-television",
+    "title": "Talento De Televisión",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "6237257"
+  },
+  {
+    "id": "willie-colon-gitana",
+    "title": "Gitana",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "688277692"
+  },
+  {
+    "id": "willie-colon-plastico",
+    "title": "Plástico",
+    "artist": "Willie Colón",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686098782"
+  },
+  {
+    "id": "celia-cruz-la-vida-es-un-carnaval",
+    "title": "La Vida Es Un Carnaval",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "429989292"
+  },
+  {
+    "id": "celia-cruz-oye-como-va",
+    "title": "Oye Cómo Va",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "687128822"
+  },
+  {
+    "id": "celia-cruz-la-dicha-mia",
+    "title": "La Dicha Mía",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "4037523141"
+  },
+  {
+    "id": "johnny-pacheco-quimbara",
+    "title": "Quimbara",
+    "artist": "Johnny Pacheco",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686082732"
+  },
+  {
+    "id": "johnny-pacheco-canto-a-la-habana",
+    "title": "Canto A La Habana",
+    "artist": "Johnny Pacheco",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "686095712"
+  },
+  {
+    "id": "celia-cruz-rie-y-llora",
+    "title": "Rie y Llora",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "88877135"
+  },
+  {
+    "id": "celia-cruz-guantanamera",
+    "title": "Guantanamera",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "98373878"
+  },
+  {
+    "id": "celia-cruz-te-busco",
+    "title": "Te Busco",
+    "artist": "Celia Cruz",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "130852704"
+  },
+  {
+    "id": "la-sonora-matancera-mi-bomba-sono",
+    "title": "Mi Bomba Sonó",
+    "artist": "La Sonora Matancera",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "1703587907"
+  },
+  {
+    "id": "grupo-niche-algo-que-se-quede",
+    "title": "Algo Que Se Quede",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "1078473492"
+  },
+  {
+    "id": "grupo-niche-cali-pachanguero",
+    "title": "Cali Pachanguero",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "87231893"
+  },
+  {
+    "id": "grupo-niche-sin-sentimientos",
+    "title": "Sin Sentimientos",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "13211932"
+  },
+  {
+    "id": "grupo-niche-una-aventura",
+    "title": "Una Aventura",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "6720639"
+  },
+  {
+    "id": "grupo-niche-eres",
+    "title": "Eres",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "761653392"
+  },
+  {
+    "id": "grupo-niche-busca-por-dentro",
+    "title": "Busca Por Dentro",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "13211933"
+  },
+  {
+    "id": "grupo-niche-gotas-de-lluvia",
+    "title": "Gotas de Lluvia",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "6720644"
+  },
+  {
+    "id": "grupo-niche-ana-mile",
+    "title": "Ana Mile",
+    "artist": "Grupo Niche",
+    "genreId": "latin.tropical.salsa",
+    "provider": "deezer",
+    "providerTrackId": "56828331"
+  },
+  {
+    "id": "los-angeles-azules-nunca-es-suficiente",
+    "title": "Nunca Es Suficiente",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "497423272"
+  },
+  {
+    "id": "los-angeles-azules-amor-a-primera-vista",
+    "title": "Amor a Primera Vista",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "686540232"
+  },
+  {
+    "id": "los-angeles-azules-pa-el",
+    "title": "Pa' Él",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "4203056642"
+  },
+  {
+    "id": "los-angeles-azules-perdonarte-para-que",
+    "title": "Perdonarte, ¿Para Qué?",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2786215632"
+  },
+  {
+    "id": "los-angeles-azules-el-amor-de-mi-vida",
+    "title": "El Amor de Mi Vida",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2387974225"
+  },
+  {
+    "id": "los-angeles-azules-otra-noche",
+    "title": "Otra Noche",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "1525648102"
+  },
+  {
+    "id": "los-angeles-azules-tu-y-tu",
+    "title": "Tú y Tú",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2153846727"
+  },
+  {
+    "id": "los-angeles-azules-mis-sentimientos",
+    "title": "Mis Sentimientos",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "645160242"
+  },
+  {
+    "id": "los-angeles-azules-ni-contigo-ni-sin-ti",
+    "title": "Ni Contigo, Ni Sin Ti",
+    "artist": "Los Angeles Azules",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "497423352"
+  },
+  {
+    "id": "ricky-martin-vuelve",
+    "title": "Vuelve",
+    "artist": "Ricky Martin",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3911083721"
+  },
+  {
+    "id": "selena-como-la-flor",
+    "title": "Como La Flor",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "97714558"
+  },
+  {
+    "id": "selena-amor-prohibido",
+    "title": "Amor Prohibido",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "5422287"
+  },
+  {
+    "id": "selena-dreaming-of-you",
+    "title": "Dreaming Of You",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "97714546"
+  },
+  {
+    "id": "selena-si-una-vez",
+    "title": "Si Una Vez",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "5422296"
+  },
+  {
+    "id": "selena-no-me-queda-mas",
+    "title": "No Me Queda Más",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "5422334"
+  },
+  {
+    "id": "selena-bidi-bidi-bom-bom",
+    "title": "Bidi Bidi Bom Bom",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "5422294"
+  },
+  {
+    "id": "selena-i-could-fall-in-love",
+    "title": "I Could Fall In Love",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3168713"
+  },
+  {
+    "id": "selena-el-chico-del-apartamento-512",
+    "title": "El Chico Del Apartamento 512",
+    "artist": "Selena",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "5422292"
+  },
+  {
+    "id": "fuerza-regida-me-jalo",
+    "title": "ME JALO",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3149529061"
+  },
+  {
+    "id": "fuerza-regida-coqueta",
+    "title": "COQUETA",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3149529091"
+  },
+  {
+    "id": "grupo-frontera-un-x100to",
+    "title": "un x100to",
+    "artist": "Grupo Frontera",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2242449097"
+  },
+  {
+    "id": "grupo-frontera-el-amor-de-su-vida",
+    "title": "EL AMOR DE SU VIDA",
+    "artist": "Grupo Frontera",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3564489561"
+  },
+  {
+    "id": "fuerza-regida-bebe-dame",
+    "title": "Bebe Dame",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2070349777"
+  },
+  {
+    "id": "peso-pluma-tulum",
+    "title": "TULUM",
+    "artist": "Peso Pluma",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2343546455"
+  },
+  {
+    "id": "carin-leon-que-vuelvas",
+    "title": "Que Vuelvas",
+    "artist": "Carín León",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2057175987"
+  },
+  {
+    "id": "grupo-frontera-hecha-pa-mi",
+    "title": "Hecha Pa' Mí",
+    "artist": "Grupo Frontera",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3564524171"
+  },
+  {
+    "id": "grupo-marca-registrada-di-que-si",
+    "title": "Di Que Si",
+    "artist": "Grupo Marca Registrada",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2136421487"
+  },
+  {
+    "id": "grupo-frontera-angel",
+    "title": "ÁNGEL",
+    "artist": "Grupo Frontera",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "3564524041"
+  },
+  {
+    "id": "marama-noche-loca",
+    "title": "Noche Loca",
+    "artist": "Marama",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "116929430"
+  },
+  {
+    "id": "migrantes-si-me-tomo-una-cerveza",
+    "title": "Si Me Tomo una Cerveza",
+    "artist": "Migrantes",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "1177708372"
+  },
+  {
+    "id": "rombai-locuras-contigo",
+    "title": "Locuras contigo",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "117442520"
+  },
+  {
+    "id": "rombai-cuando-se-pone-a-bailar",
+    "title": "Cuando Se Pone a Bailar",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "136839258"
+  },
+  {
+    "id": "rombai-me-voy",
+    "title": "Me Voy",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "558872142"
+  },
+  {
+    "id": "rombai-curiosidad",
+    "title": "Curiosidad",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "117442524"
+  },
+  {
+    "id": "marama-una-noche-contigo",
+    "title": "Una Noche Contigo",
+    "artist": "Marama",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "116929420"
+  },
+  {
+    "id": "blanko-no-voy-a-olvidarte-remix",
+    "title": "NO VOY A OLVIDARTE (REMIX)",
+    "artist": "Blanko",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2959683251"
+  },
+  {
+    "id": "rombai-yo-tambien",
+    "title": "Yo tambien",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "117442522"
+  },
+  {
+    "id": "rombai-yo-te-propongo",
+    "title": "Yo te propongo",
+    "artist": "Rombai",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "117442530"
+  },
+  {
+    "id": "damas-gratis-costumbres",
+    "title": "Costumbres",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "1981755497"
+  },
+  {
+    "id": "ilan-amores-tiro-tiro",
+    "title": "Tiro Tiro",
+    "artist": "Ilan Amores",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "2445081575"
+  },
+  {
+    "id": "damas-gratis-no-te-creas-tan-importante",
+    "title": "No Te Creas Tan Importante",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "475150492"
+  },
+  {
+    "id": "damas-gratis-me-vas-a-extranar",
+    "title": "Me Vas a Extrañar",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "549790772"
+  },
+  {
+    "id": "damas-gratis-perrito-malvado",
+    "title": "Perrito Malvado",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "1341993352"
+  },
+  {
+    "id": "damas-gratis-se-te-ve-la-tanga",
+    "title": "Se Te Ve la Tanga",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "141466275"
+  },
+  {
+    "id": "damas-gratis-el-humo-de-mi-fasito",
+    "title": "El humo de mi fasito",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "7210413"
+  },
+  {
+    "id": "damas-gratis-quieren-bajarme",
+    "title": "Quieren Bajarme",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "94822778"
+  },
+  {
+    "id": "damas-gratis-los-duenos-del-pabellon",
+    "title": "Los Dueños del Pabellon",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "141466277"
+  },
+  {
+    "id": "damas-gratis-la-danza-de-los-mirlos",
+    "title": "La Danza de los Mirlos",
+    "artist": "Damas Gratis",
+    "genreId": "latin.tropical.cumbia",
+    "provider": "deezer",
+    "providerTrackId": "134002982"
+  },
+  {
+    "id": "eslabon-armado-ella-baila-sola",
+    "title": "Ella Baila Sola",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2193681047"
+  },
+  {
+    "id": "peso-pluma-la-patrulla",
+    "title": "LA PATRULLA",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2855869452"
+  },
+  {
+    "id": "peso-pluma-bellakeo",
+    "title": "BELLAKEO",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2570877172"
+  },
+  {
+    "id": "peso-pluma-dano",
+    "title": "daño",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3729422322"
+  },
+  {
+    "id": "peso-pluma-hollywood",
+    "title": "HOLLYWOOD",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2855869522"
+  },
+  {
+    "id": "peso-pluma-lady-gaga",
+    "title": "LADY GAGA",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2343546405"
+  },
+  {
+    "id": "ryan-castro-quema",
+    "title": "QUEMA",
+    "artist": "Ryan Castro",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2352899405"
+  },
+  {
+    "id": "dj-snake-teka",
+    "title": "Teka",
+    "artist": "DJ Snake",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2748714981"
+  },
+  {
+    "id": "natanael-cano-olivia-la-flaka",
+    "title": "OLIVIA LA FLAKA",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "4295468912"
+  },
+  {
+    "id": "natanael-cano-perlas-negras",
+    "title": "Perlas Negras",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3429241701"
+  },
+  {
+    "id": "natanael-cano-madonna",
+    "title": "Madonna",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2689023112"
+  },
+  {
+    "id": "natanael-cano-amg",
+    "title": "AMG",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2023897507"
+  },
+  {
+    "id": "natanael-cano-mar-azul",
+    "title": "Mar Azul",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "4244994871"
+  },
+  {
+    "id": "gabito-ballesteros-presidente",
+    "title": "PRESIDENTE",
+    "artist": "Gabito Ballesteros",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3012594771"
+  },
+  {
+    "id": "natanael-cano-blancanieves",
+    "title": "Blancanieves",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3416126361"
+  },
+  {
+    "id": "peso-pluma-prc",
+    "title": "PRC",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2114119347"
+  },
+  {
+    "id": "fuerza-regida-ch-y-la-pizza",
+    "title": "Ch y la Pizza",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2042561707"
+  },
+  {
+    "id": "natanael-cano-amor-tumbado",
+    "title": "Amor Tumbado",
+    "artist": "Natanael Cano",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "835759802"
+  },
+  {
+    "id": "junior-h-demencia",
+    "title": "DEMENCIA",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3841280351"
+  },
+  {
+    "id": "junior-h-y-lloro",
+    "title": "Y LLORO",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2473525031"
+  },
+  {
+    "id": "junior-h-piensalo",
+    "title": "PIÉNSALO",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2473525111"
+  },
+  {
+    "id": "junior-h-mientras-duermes",
+    "title": "MIENTRAS DUERMES",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2473525141"
+  },
+  {
+    "id": "junior-h-el-azul",
+    "title": "El Azul",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2139393487"
+  },
+  {
+    "id": "junior-h-las-noches",
+    "title": "LAS NOCHES",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2473525041"
+  },
+  {
+    "id": "junior-h-rockstar",
+    "title": "ROCKSTAR",
+    "artist": "Junior H",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2473524991"
+  },
+  {
+    "id": "oscar-maydon-volver-al-futuro",
+    "title": "Volver Al Futuro",
+    "artist": "Óscar Maydon",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2821262422"
+  },
+  {
+    "id": "peso-pluma-bipolar",
+    "title": "BIPOLAR",
+    "artist": "Peso Pluma",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2416384445"
+  },
+  {
+    "id": "fuerza-regida-suzuki-from-gtavi-the-album",
+    "title": "Suzuki (from GTAVI: The Album)",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "4337604802"
+  },
+  {
+    "id": "oscar-maydon-tu-boda",
+    "title": "Tu Boda",
+    "artist": "Óscar Maydon",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3003786241"
+  },
+  {
+    "id": "calle-24-que-onda",
+    "title": "Que Onda",
+    "artist": "Calle 24",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "2433388375"
+  },
+  {
+    "id": "fuerza-regida-marlboro-rojo",
+    "title": "Marlboro Rojo",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3345439211"
+  },
+  {
+    "id": "neton-vega-olimpo",
+    "title": "Olimpo",
+    "artist": "Neton Vega",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "4363078011"
+  },
+  {
+    "id": "fuerza-regida-tu-sancho",
+    "title": "TU SANCHO",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3345439201"
+  },
+  {
+    "id": "fuerza-regida-caperuza",
+    "title": "caperuza",
+    "artist": "Fuerza Regida",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3345439241"
+  },
+  {
+    "id": "eslabon-armado-la-trokita",
+    "title": "La Trokita",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "954266312"
+  },
+  {
+    "id": "eslabon-armado-te-marque",
+    "title": "Te Marque",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1178872772"
+  },
+  {
+    "id": "eslabon-armado-faldita",
+    "title": "Faldita",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3014253441"
+  },
+  {
+    "id": "eslabon-armado-mariposas",
+    "title": "Mariposas",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1178872752"
+  },
+  {
+    "id": "eslabon-armado-romance",
+    "title": "Romance",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1015163192"
+  },
+  {
+    "id": "eslabon-armado-atrapado",
+    "title": "Atrapado",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1015163152"
+  },
+  {
+    "id": "eslabon-armado-recuerda-bien",
+    "title": "Recuerda Bien",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1178872602"
+  },
+  {
+    "id": "eslabon-armado-nunca-eh-llorado",
+    "title": "NUNCA EH LLORADO",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "4104302701"
+  },
+  {
+    "id": "eslabon-armado-la-desgraciada",
+    "title": "La Desgraciada",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "3014253501"
+  },
+  {
+    "id": "eslabon-armado-mente-en-alto",
+    "title": "MENTE EN ALTO",
+    "artist": "Eslabon Armado",
+    "genreId": "latin.regional-mexican.corridos-tumbados",
+    "provider": "deezer",
+    "providerTrackId": "1738498057"
+  }
+]

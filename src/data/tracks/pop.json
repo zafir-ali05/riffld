@@ -1,0 +1,2474 @@
+[
+  {
+    "id": "dua-lipa-training-season",
+    "title": "Training Season",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "2661514912"
+  },
+  {
+    "id": "dua-lipa-training-season-live-from-the-royal-albert-hall",
+    "title": "Training Season (Live from the Royal Albert Hall)",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3113200541"
+  },
+  {
+    "id": "dua-lipa-levitating",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "1124841682"
+  },
+  {
+    "id": "dua-lipa-fever",
+    "title": "Fever",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "1120361182"
+  },
+  {
+    "id": "dua-lipa-new-rules",
+    "title": "New Rules",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "366297921"
+  },
+  {
+    "id": "calvin-harris-one-kiss",
+    "title": "One Kiss",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "482990352"
+  },
+  {
+    "id": "dua-lipa-love-again",
+    "title": "Love Again",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "1124841712"
+  },
+  {
+    "id": "dua-lipa-these-walls-feat-pierre-de-maere",
+    "title": "These Walls (feat. Pierre de Maere)",
+    "artist": "Dua Lipa",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3070297111"
+  },
+  {
+    "id": "elton-john-cold-heart",
+    "title": "Cold Heart",
+    "artist": "Elton John",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "1516899042"
+  },
+  {
+    "id": "lady-gaga-die-with-a-smile",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "2947516331"
+  },
+  {
+    "id": "lady-gaga-shallow",
+    "title": "Shallow",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "561856742"
+  },
+  {
+    "id": "lady-gaga-always-remember-us-this-way",
+    "title": "Always Remember Us This Way",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "561856792"
+  },
+  {
+    "id": "lady-gaga-the-dead-dance",
+    "title": "The Dead Dance",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3537990861"
+  },
+  {
+    "id": "lady-gaga-applause",
+    "title": "Applause",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "629561092"
+  },
+  {
+    "id": "lady-gaga-bad-romance",
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "4601933"
+  },
+  {
+    "id": "lady-gaga-hold-my-hand",
+    "title": "Hold My Hand",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "1738831217"
+  },
+  {
+    "id": "lady-gaga-million-reasons",
+    "title": "Million Reasons",
+    "artist": "Lady Gaga",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "134525904"
+  },
+  {
+    "id": "kylie-minogue-can-t-get-you-out-of-my-head",
+    "title": "Can't Get You out of My Head",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3098100"
+  },
+  {
+    "id": "kylie-minogue-in-your-eyes",
+    "title": "In Your Eyes",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3098105"
+  },
+  {
+    "id": "kylie-minogue-padam-padam",
+    "title": "Padam Padam",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3788156152"
+  },
+  {
+    "id": "madonna-love-sensation",
+    "title": "Love Sensation",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "4205931852"
+  },
+  {
+    "id": "kylie-minogue-the-loco-motion",
+    "title": "The Loco-Motion",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3785971272"
+  },
+  {
+    "id": "kylie-minogue-love-at-first-sight",
+    "title": "Love at First Sight",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3098099"
+  },
+  {
+    "id": "kylie-minogue-all-the-lovers",
+    "title": "All The Lovers",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "6229285"
+  },
+  {
+    "id": "kylie-minogue-spinning-around",
+    "title": "Spinning Around",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3151534"
+  },
+  {
+    "id": "kylie-minogue-i-should-be-so-lucky",
+    "title": "I Should Be so Lucky",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3785971252"
+  },
+  {
+    "id": "kylie-minogue-in-my-arms",
+    "title": "In My Arms",
+    "artist": "Kylie Minogue",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "3141528"
+  },
+  {
+    "id": "rihanna-don-t-stop-the-music",
+    "title": "Don't Stop The Music",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "925108"
+  },
+  {
+    "id": "rihanna-we-found-love",
+    "title": "We Found Love",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "14525574"
+  },
+  {
+    "id": "rihanna-umbrella",
+    "title": "Umbrella",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "925106"
+  },
+  {
+    "id": "rihanna-s-and-m",
+    "title": "S&M",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "13529559"
+  },
+  {
+    "id": "rihanna-disturbia",
+    "title": "Disturbia",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "925118"
+  },
+  {
+    "id": "rihanna-only-girl-in-the-world",
+    "title": "Only Girl (In The World)",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "13529563"
+  },
+  {
+    "id": "eminem-love-the-way-you-lie",
+    "title": "Love The Way You Lie",
+    "artist": "Eminem",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "6461440"
+  },
+  {
+    "id": "rihanna-diamonds",
+    "title": "Diamonds",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "60978718"
+  },
+  {
+    "id": "rihanna-love-on-the-brain",
+    "title": "Love On The Brain",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "118190312"
+  },
+  {
+    "id": "rihanna-where-have-you-been",
+    "title": "Where Have You Been",
+    "artist": "Rihanna",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "14525573"
+  },
+  {
+    "id": "calvin-harris-this-is-what-you-came-for",
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "123883254"
+  },
+  {
+    "id": "calvin-harris-summer",
+    "title": "Summer",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "88936747"
+  },
+  {
+    "id": "calvin-harris-feel-so-close",
+    "title": "Feel So Close",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "61142285"
+  },
+  {
+    "id": "calvin-harris-outside-feat-ellie-goulding",
+    "title": "Outside (feat. Ellie Goulding)",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "88936743"
+  },
+  {
+    "id": "calvin-harris-promises",
+    "title": "Promises",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "542335432"
+  },
+  {
+    "id": "calvin-harris-how-deep-is-your-love",
+    "title": "How Deep Is Your Love",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "103996098"
+  },
+  {
+    "id": "calvin-harris-my-way",
+    "title": "My Way",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "132265704"
+  },
+  {
+    "id": "calvin-harris-i-need-your-love-feat-ellie-goulding",
+    "title": "I Need Your Love (feat. Ellie Goulding)",
+    "artist": "Calvin Harris",
+    "genreId": "pop.mainstream.dance-pop",
+    "provider": "deezer",
+    "providerTrackId": "61142290"
+  },
+  {
+    "id": "britney-spears-baby-one-more-time",
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "540175"
+  },
+  {
+    "id": "britney-spears-gimme-more",
+    "title": "Gimme More",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "15589893"
+  },
+  {
+    "id": "britney-spears-toxic",
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "15391618"
+  },
+  {
+    "id": "britney-spears-womanizer",
+    "title": "Womanizer",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "82199332"
+  },
+  {
+    "id": "britney-spears-criminal",
+    "title": "Criminal",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10287270"
+  },
+  {
+    "id": "britney-spears-oops-i-did-it-again",
+    "title": "Oops!...I Did It Again",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "13142617"
+  },
+  {
+    "id": "britney-spears-circus",
+    "title": "Circus",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "82199334"
+  },
+  {
+    "id": "britney-spears-i-wanna-go",
+    "title": "I Wanna Go",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10287262"
+  },
+  {
+    "id": "britney-spears-work-bitch",
+    "title": "Work Bitch",
+    "artist": "Britney Spears",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "72569034"
+  },
+  {
+    "id": "elton-john-hold-me-closer",
+    "title": "Hold Me Closer",
+    "artist": "Elton John",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1879746947"
+  },
+  {
+    "id": "katy-perry-the-one-that-got-away",
+    "title": "The One That Got Away",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "17135114"
+  },
+  {
+    "id": "katy-perry-legendary-lovers",
+    "title": "Legendary Lovers",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "71645432"
+  },
+  {
+    "id": "katy-perry-dark-horse",
+    "title": "Dark Horse",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "71645436"
+  },
+  {
+    "id": "katy-perry-last-friday-night-t-g-i-f",
+    "title": "Last Friday Night (T.G.I.F.)",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "17135109"
+  },
+  {
+    "id": "katy-perry-roar",
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "71645431"
+  },
+  {
+    "id": "katy-perry-hot-n-cold",
+    "title": "Hot N Cold",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3160142"
+  },
+  {
+    "id": "katy-perry-e-t",
+    "title": "E.T.",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "17135115"
+  },
+  {
+    "id": "katy-perry-part-of-me",
+    "title": "Part Of Me",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "17135121"
+  },
+  {
+    "id": "katy-perry-chained-to-the-rhythm",
+    "title": "Chained To The Rhythm",
+    "artist": "Katy Perry",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "509938442"
+  },
+  {
+    "id": "justin-timberlake-sexyback-feat-timbaland",
+    "title": "SexyBack (feat. Timbaland)",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "15489383"
+  },
+  {
+    "id": "justin-timberlake-what-goes-around-comes-around-interlude",
+    "title": "What Goes Around.../...Comes Around (Interlude)",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "565131"
+  },
+  {
+    "id": "justin-timberlake-rock-your-body",
+    "title": "Rock Your Body",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "970410"
+  },
+  {
+    "id": "justin-timberlake-cry-me-a-river",
+    "title": "Cry Me a River",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "969494"
+  },
+  {
+    "id": "justin-timberlake-mirrors",
+    "title": "Mirrors",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "65356224"
+  },
+  {
+    "id": "justin-timberlake-can-t-stop-the-feeling-from-dreamworks-animation-s-trolls",
+    "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "124237488"
+  },
+  {
+    "id": "justin-timberlake-my-love-feat-t-i",
+    "title": "My Love (feat. T.I.)",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "15489385"
+  },
+  {
+    "id": "timbaland-give-it-to-me",
+    "title": "Give It To Me",
+    "artist": "Timbaland",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4685512"
+  },
+  {
+    "id": "michael-jackson-love-never-felt-so-good",
+    "title": "Love Never Felt So Good",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "78213551"
+  },
+  {
+    "id": "justin-timberlake-summer-love",
+    "title": "Summer Love",
+    "artist": "Justin Timberlake",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "565134"
+  },
+  {
+    "id": "bruno-mars-locked-out-of-heaven",
+    "title": "Locked out of Heaven",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "62724015"
+  },
+  {
+    "id": "mark-ronson-uptown-funk-feat-bruno-mars",
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "artist": "Mark Ronson",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "92734438"
+  },
+  {
+    "id": "bruno-mars-when-i-was-your-man",
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "62724019"
+  },
+  {
+    "id": "bruno-mars-i-just-might",
+    "title": "I Just Might",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3763842212"
+  },
+  {
+    "id": "bruno-mars-on-my-soul",
+    "title": "On My Soul",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3867905131"
+  },
+  {
+    "id": "bruno-mars-risk-it-all",
+    "title": "Risk It All",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3867905081"
+  },
+  {
+    "id": "bruno-mars-24k-magic",
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "136336110"
+  },
+  {
+    "id": "bruno-mars-treasure",
+    "title": "Treasure",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "62724017"
+  },
+  {
+    "id": "bruno-mars-that-s-what-i-like",
+    "title": "That's What I Like",
+    "artist": "Bruno Mars",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "136336116"
+  },
+  {
+    "id": "ariana-grande-hate-that-i-made-you-love-me",
+    "title": "hate that i made you love me",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4045817471"
+  },
+  {
+    "id": "the-weeknd-save-your-tears",
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1352360622"
+  },
+  {
+    "id": "ariana-grande-7-rings",
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "629899842"
+  },
+  {
+    "id": "ariana-grande-petal",
+    "title": "petal",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4182547602"
+  },
+  {
+    "id": "ariana-grande-into-you",
+    "title": "Into You",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1375215242"
+  },
+  {
+    "id": "ariana-grande-we-can-t-be-friends-wait-for-your-love",
+    "title": "we can't be friends (wait for your love)",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "2690050002"
+  },
+  {
+    "id": "ariana-grande-dangerous-woman",
+    "title": "Dangerous Woman",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1375215222"
+  },
+  {
+    "id": "ariana-grande-thank-u-next",
+    "title": "thank u, next",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "629899852"
+  },
+  {
+    "id": "ariana-grande-no-tears-left-to-cry",
+    "title": "no tears left to cry",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "542389552"
+  },
+  {
+    "id": "ariana-grande-side-to-side",
+    "title": "Side To Side",
+    "artist": "Ariana Grande",
+    "genreId": "pop.mainstream.2000s-2010s-pop",
+    "provider": "deezer",
+    "providerTrackId": "124995668"
+  },
+  {
+    "id": "michael-jackson-thriller",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "555639"
+  },
+  {
+    "id": "michael-jackson-dirty-diana",
+    "title": "Dirty Diana",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "59509611"
+  },
+  {
+    "id": "michael-jackson-don-t-stop-til-you-get-enough",
+    "title": "Don't Stop 'Til You Get Enough",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "15586296"
+  },
+  {
+    "id": "michael-jackson-human-nature",
+    "title": "Human Nature",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "831196"
+  },
+  {
+    "id": "michael-jackson-chicago",
+    "title": "Chicago",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "78213531"
+  },
+  {
+    "id": "michael-jackson-bad",
+    "title": "Bad",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "59509531"
+  },
+  {
+    "id": "michael-jackson-billie-jean",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4603408"
+  },
+  {
+    "id": "michael-jackson-beat-it",
+    "title": "Beat It",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4763165"
+  },
+  {
+    "id": "michael-jackson-wanna-be-startin-somethin",
+    "title": "Wanna Be Startin' Somethin'",
+    "artist": "Michael Jackson",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "831216"
+  },
+  {
+    "id": "madonna-la-isla-bonita",
+    "title": "La Isla Bonita",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "678372"
+  },
+  {
+    "id": "madonna-like-a-prayer",
+    "title": "Like a Prayer",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "664507"
+  },
+  {
+    "id": "madonna-hung-up",
+    "title": "Hung Up",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "679217"
+  },
+  {
+    "id": "madonna-4-minutes-feat-justin-timberlake-and-timbaland",
+    "title": "4 Minutes (feat. Justin Timberlake and Timbaland)",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "794020"
+  },
+  {
+    "id": "madonna-live-to-tell",
+    "title": "Live to Tell",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "678369"
+  },
+  {
+    "id": "madonna-frozen",
+    "title": "Frozen",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "778758"
+  },
+  {
+    "id": "madonna-bring-your-love",
+    "title": "Bring Your Love",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3988410701"
+  },
+  {
+    "id": "madonna-danceteria-afterhours",
+    "title": "Danceteria Afterhours",
+    "artist": "Madonna",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "4288926752"
+  },
+  {
+    "id": "whitney-houston-i-will-always-love-you",
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "7675403"
+  },
+  {
+    "id": "whitney-houston-i-wanna-dance-with-somebody-who-loves-me",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "75981528"
+  },
+  {
+    "id": "whitney-houston-i-have-nothing",
+    "title": "I Have Nothing",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "7675404"
+  },
+  {
+    "id": "whitney-houston-my-love-is-your-love",
+    "title": "My Love Is Your Love",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "962260"
+  },
+  {
+    "id": "felix-jaehn-it-s-not-right-but-it-s-okay",
+    "title": "It's Not Right But It's Okay",
+    "artist": "felix jaehn",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "3261092671"
+  },
+  {
+    "id": "kygo-higher-love",
+    "title": "Higher Love",
+    "artist": "Kygo",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "701281342"
+  },
+  {
+    "id": "whitney-houston-greatest-love-of-all",
+    "title": "Greatest Love of All",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1131194"
+  },
+  {
+    "id": "whitney-houston-it-s-not-right-but-it-s-okay",
+    "title": "It's Not Right But It's Okay",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "962142"
+  },
+  {
+    "id": "whitney-houston-run-to-you",
+    "title": "Run to You",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "7675406"
+  },
+  {
+    "id": "whitney-houston-how-will-i-know",
+    "title": "How Will I Know",
+    "artist": "Whitney Houston",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "5181151"
+  },
+  {
+    "id": "george-michael-careless-whisper",
+    "title": "Careless Whisper",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "14525086"
+  },
+  {
+    "id": "george-michael-faith",
+    "title": "Faith",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "8146779"
+  },
+  {
+    "id": "george-michael-cowboys-and-angels",
+    "title": "Cowboys and Angels",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10392080"
+  },
+  {
+    "id": "george-michael-father-figure",
+    "title": "Father Figure",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "8146780"
+  },
+  {
+    "id": "george-michael-one-more-try",
+    "title": "One More Try",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "8146782"
+  },
+  {
+    "id": "george-michael-freedom-90",
+    "title": "Freedom! '90",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10392088"
+  },
+  {
+    "id": "george-michael-don-t-let-the-sun-go-down-on-me",
+    "title": "Don't Let the Sun Go Down on Me",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10392073"
+  },
+  {
+    "id": "george-michael-fastlove-pt-1",
+    "title": "Fastlove, Pt. 1",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "8112357"
+  },
+  {
+    "id": "george-michael-as",
+    "title": "As",
+    "artist": "George Michael",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "10392085"
+  },
+  {
+    "id": "mariah-carey-all-i-want-for-christmas-is-you",
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "62710442"
+  },
+  {
+    "id": "busta-rhymes-i-know-what-you-want-feat-flipmode-squad",
+    "title": "I Know What You Want (feat. Flipmode Squad)",
+    "artist": "Busta Rhymes",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "13202000"
+  },
+  {
+    "id": "mariah-carey-fantasy",
+    "title": "Fantasy",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1013792"
+  },
+  {
+    "id": "mariah-carey-heartbreaker-feat-jay-z",
+    "title": "Heartbreaker (feat. JAŸ-Z)",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "830200"
+  },
+  {
+    "id": "mariah-carey-touch-my-body",
+    "title": "Touch My Body",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1225539462"
+  },
+  {
+    "id": "mariah-carey-without-you",
+    "title": "Without You",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "595920"
+  },
+  {
+    "id": "mariah-carey-hero",
+    "title": "Hero",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "596015"
+  },
+  {
+    "id": "mariah-carey-my-all",
+    "title": "My All",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "596046"
+  },
+  {
+    "id": "latto-big-energy-feat-dj-khaled",
+    "title": "Big Energy (feat. DJ Khaled)",
+    "artist": "Latto",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1698545047"
+  },
+  {
+    "id": "mariah-carey-always-be-my-baby",
+    "title": "Always Be My Baby",
+    "artist": "Mariah Carey",
+    "genreId": "pop.mainstream.80s-90s-pop",
+    "provider": "deezer",
+    "providerTrackId": "1012940"
+  },
+  {
+    "id": "the-weeknd-blinding-lights",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "908604612"
+  },
+  {
+    "id": "the-weeknd-one-of-the-girls",
+    "title": "One Of The Girls",
+    "artist": "The Weeknd",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2338371075"
+  },
+  {
+    "id": "the-weeknd-the-hills",
+    "title": "The Hills",
+    "artist": "The Weeknd",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "106506512"
+  },
+  {
+    "id": "chvrches-call-it-off",
+    "title": "Call It Off",
+    "artist": "CHVRCHES",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "407750672"
+  },
+  {
+    "id": "chvrches-never-ending-circles",
+    "title": "Never Ending Circles",
+    "artist": "CHVRCHES",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "3025888861"
+  },
+  {
+    "id": "chvrches-really-gone",
+    "title": "Really Gone",
+    "artist": "CHVRCHES",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "1871706967"
+  },
+  {
+    "id": "chvrches-now-is-not-the-time",
+    "title": "Now Is Not the Time",
+    "artist": "CHVRCHES",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "3025690191"
+  },
+  {
+    "id": "depeche-mode-enjoy-the-silence",
+    "title": "Enjoy the Silence",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68515055"
+  },
+  {
+    "id": "depeche-mode-just-can-t-get-enough",
+    "title": "Just Can't Get Enough",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68513610"
+  },
+  {
+    "id": "depeche-mode-personal-jesus",
+    "title": "Personal Jesus",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68513563"
+  },
+  {
+    "id": "depeche-mode-never-let-me-down-again",
+    "title": "Never Let Me Down Again",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68515052"
+  },
+  {
+    "id": "depeche-mode-policy-of-truth",
+    "title": "Policy of Truth",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "136331384"
+  },
+  {
+    "id": "depeche-mode-ghosts-again",
+    "title": "Ghosts Again",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2142263517"
+  },
+  {
+    "id": "depeche-mode-people-are-people",
+    "title": "People Are People",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68514099"
+  },
+  {
+    "id": "depeche-mode-shake-the-disease",
+    "title": "Shake the Disease",
+    "artist": "Depeche Mode",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "68513766"
+  },
+  {
+    "id": "new-order-blue-monday-88",
+    "title": "Blue Monday '88",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "706051"
+  },
+  {
+    "id": "new-order-blue-monday",
+    "title": "Blue Monday",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "131744046"
+  },
+  {
+    "id": "new-order-bizarre-love-triangle-94",
+    "title": "Bizarre Love Triangle '94",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "705996"
+  },
+  {
+    "id": "new-order-crystal",
+    "title": "Crystal",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "697318"
+  },
+  {
+    "id": "new-order-age-of-consent",
+    "title": "Age of Consent",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "107907786"
+  },
+  {
+    "id": "new-order-true-faith-94",
+    "title": "True Faith '94",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "705993"
+  },
+  {
+    "id": "new-order-bizarre-love-triangle",
+    "title": "Bizarre Love Triangle",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2481156"
+  },
+  {
+    "id": "new-order-temptation",
+    "title": "Temptation",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "1069047692"
+  },
+  {
+    "id": "new-order-dreams-never-end",
+    "title": "Dreams Never End",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "107750866"
+  },
+  {
+    "id": "new-order-elegia",
+    "title": "Elegia",
+    "artist": "New Order",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "107750196"
+  },
+  {
+    "id": "charli-xcx-break-the-rules",
+    "title": "Break the Rules",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "83756376"
+  },
+  {
+    "id": "charli-xcx-guess-featuring-billie-eilish",
+    "title": "Guess featuring billie eilish",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2929354381"
+  },
+  {
+    "id": "icona-pop-i-love-it-feat-charli-xcx",
+    "title": "I Love It (feat. Charli XCX)",
+    "artist": "Icona Pop",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "54420921"
+  },
+  {
+    "id": "charli-xcx-party-4-u",
+    "title": "party 4 u",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "959948182"
+  },
+  {
+    "id": "charli-xcx-everything-is-romantic-featuring-caroline-polachek",
+    "title": "Everything is romantic featuring caroline polachek",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "3045225201"
+  },
+  {
+    "id": "charli-xcx-von-dutch",
+    "title": "Von dutch",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2833834822"
+  },
+  {
+    "id": "charli-xcx-track-10",
+    "title": "Track 10",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "437638482"
+  },
+  {
+    "id": "charli-xcx-360",
+    "title": "360",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "2833834772"
+  },
+  {
+    "id": "charli-xcx-chains-of-love",
+    "title": "Chains of Love",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.synth-pop",
+    "provider": "deezer",
+    "providerTrackId": "3836104001"
+  },
+  {
+    "id": "lorde-royals",
+    "title": "Royals",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403437"
+  },
+  {
+    "id": "lorde-team",
+    "title": "Team",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403440"
+  },
+  {
+    "id": "lorde-ribs",
+    "title": "Ribs",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403438"
+  },
+  {
+    "id": "blood-orange-mind-loaded-feat-caroline-polachek-lorde-and-mustafa",
+    "title": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+    "artist": "Blood Orange",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3450350151"
+  },
+  {
+    "id": "lorde-buzzcut-season",
+    "title": "Buzzcut Season",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403439"
+  },
+  {
+    "id": "charli-xcx-girl-so-confusing-featuring-lorde",
+    "title": "Girl, so confusing featuring lorde",
+    "artist": "Charli xcx",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "2857437202"
+  },
+  {
+    "id": "lorde-tennis-court",
+    "title": "Tennis Court",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403435"
+  },
+  {
+    "id": "lorde-a-world-alone",
+    "title": "A World Alone",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "70403444"
+  },
+  {
+    "id": "lorde-green-light",
+    "title": "Green Light",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "371625771"
+  },
+  {
+    "id": "lorde-liability",
+    "title": "Liability",
+    "artist": "Lorde",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "371625811"
+  },
+  {
+    "id": "vampire-weekend-this-life",
+    "title": "This Life",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "672770882"
+  },
+  {
+    "id": "vampire-weekend-step",
+    "title": "Step",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "1094913102"
+  },
+  {
+    "id": "vampire-weekend-harmony-hall",
+    "title": "Harmony Hall",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "622127052"
+  },
+  {
+    "id": "vampire-weekend-sympathy",
+    "title": "Sympathy",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "672770952"
+  },
+  {
+    "id": "vampire-weekend-hold-you-now-feat-danielle-haim",
+    "title": "Hold You Now (feat. Danielle Haim)",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "672770852"
+  },
+  {
+    "id": "vampire-weekend-white-sky",
+    "title": "White Sky",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "4848221"
+  },
+  {
+    "id": "vampire-weekend-diane-young",
+    "title": "Diane Young",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "65606016"
+  },
+  {
+    "id": "vampire-weekend-cousins",
+    "title": "Cousins",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "4848231"
+  },
+  {
+    "id": "vampire-weekend-unbelievers",
+    "title": "Unbelievers",
+    "artist": "Vampire Weekend",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "1094913092"
+  },
+  {
+    "id": "foster-the-people-pumped-up-kicks",
+    "title": "Pumped Up Kicks",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546830"
+  },
+  {
+    "id": "foster-the-people-houdini",
+    "title": "Houdini",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546835"
+  },
+  {
+    "id": "foster-the-people-sit-next-to-me",
+    "title": "Sit Next to Me",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "384053091"
+  },
+  {
+    "id": "foster-the-people-call-it-what-you-want",
+    "title": "Call It What You Want",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546831"
+  },
+  {
+    "id": "foster-the-people-imagination",
+    "title": "Imagination",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "696429242"
+  },
+  {
+    "id": "foster-the-people-helena-beat",
+    "title": "Helena Beat",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546829"
+  },
+  {
+    "id": "foster-the-people-don-t-stop-color-on-the-walls",
+    "title": "Don't Stop (Color on the Walls)",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546832"
+  },
+  {
+    "id": "foster-the-people-lamb-s-wool",
+    "title": "Lamb's Wool",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "940191612"
+  },
+  {
+    "id": "foster-the-people-best-friend",
+    "title": "Best Friend",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "75802463"
+  },
+  {
+    "id": "foster-the-people-waste",
+    "title": "Waste",
+    "artist": "Foster The People",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "15546833"
+  },
+  {
+    "id": "mgmt-kids",
+    "title": "Kids",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "536485"
+  },
+  {
+    "id": "mgmt-little-dark-age",
+    "title": "Little Dark Age",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "457602422"
+  },
+  {
+    "id": "kid-cudi-pursuit-of-happiness",
+    "title": "Pursuit Of Happiness",
+    "artist": "Kid Cudi",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "18181530"
+  },
+  {
+    "id": "mgmt-time-to-pretend",
+    "title": "Time to Pretend",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "536481"
+  },
+  {
+    "id": "mgmt-electric-feel",
+    "title": "Electric Feel",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "536484"
+  },
+  {
+    "id": "mgmt-when-you-die",
+    "title": "When You Die",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "457602432"
+  },
+  {
+    "id": "the-avalanches-the-divine-chord",
+    "title": "The Divine Chord",
+    "artist": "The Avalanches",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "1165067842"
+  },
+  {
+    "id": "mgmt-me-and-michael",
+    "title": "Me and Michael",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "457602442"
+  },
+  {
+    "id": "mgmt-weekend-wars",
+    "title": "Weekend Wars",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "536482"
+  },
+  {
+    "id": "mgmt-the-youth",
+    "title": "The Youth",
+    "artist": "MGMT",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "536483"
+  },
+  {
+    "id": "phoenix-lisztomania",
+    "title": "Lisztomania",
+    "artist": "Phoenix",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3026048701"
+  },
+  {
+    "id": "phoenix-if-i-ever-feel-better",
+    "title": "If I Ever Feel Better",
+    "artist": "Phoenix",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3135336"
+  },
+  {
+    "id": "phoenix-1901",
+    "title": "1901",
+    "artist": "Phoenix",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3026048721"
+  },
+  {
+    "id": "league-of-legends-phoenix",
+    "title": "Phoenix",
+    "artist": "League Of Legends",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3497814661"
+  },
+  {
+    "id": "stray-kids-phoenix",
+    "title": "Phoenix",
+    "artist": "Stray Kids",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3516241281"
+  },
+  {
+    "id": "ufos-ufo",
+    "title": "UFO",
+    "artist": "UFOs",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3527806381"
+  },
+  {
+    "id": "phoenix-too-young",
+    "title": "Too Young",
+    "artist": "Phoenix",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3135334"
+  },
+  {
+    "id": "phoenix-lasso",
+    "title": "Lasso",
+    "artist": "Phoenix",
+    "genreId": "pop.indie-alt.indie-pop",
+    "provider": "deezer",
+    "providerTrackId": "3026048771"
+  },
+  {
+    "id": "clairo-juna",
+    "title": "Juna",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2759124521"
+  },
+  {
+    "id": "clairo-bags",
+    "title": "Bags",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3958766981"
+  },
+  {
+    "id": "clairo-hello",
+    "title": "Hello?",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3958767001"
+  },
+  {
+    "id": "beabadoobee-glue-song-feat-clairo",
+    "title": "Glue Song (feat. Clairo)",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2218140017"
+  },
+  {
+    "id": "clairo-sofia",
+    "title": "Sofia",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3958766971"
+  },
+  {
+    "id": "clairo-slow-dance",
+    "title": "Slow Dance",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2759124491"
+  },
+  {
+    "id": "clairo-terrapin",
+    "title": "Terrapin",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2759124511"
+  },
+  {
+    "id": "clairo-sexy-to-someone",
+    "title": "Sexy to Someone",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2759124471"
+  },
+  {
+    "id": "wallows-are-you-bored-yet-feat-clairo",
+    "title": "Are You Bored Yet? (feat. Clairo)",
+    "artist": "Wallows",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "634918582"
+  },
+  {
+    "id": "clairo-flaming-hot-cheetos",
+    "title": "Flaming Hot Cheetos",
+    "artist": "Clairo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3958766961"
+  },
+  {
+    "id": "powfu-death-bed-coffee-for-your-head",
+    "title": "death bed (coffee for your head)",
+    "artist": "Powfu",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "871124582"
+  },
+  {
+    "id": "beabadoobee-the-perfect-pair",
+    "title": "the perfect pair",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1641651592"
+  },
+  {
+    "id": "beabadoobee-real-man",
+    "title": "Real Man",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2758748021"
+  },
+  {
+    "id": "beabadoobee-apple-cider",
+    "title": "Apple Cider",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "664735142"
+  },
+  {
+    "id": "beabadoobee-coffee",
+    "title": "Coffee",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "550288952"
+  },
+  {
+    "id": "beabadoobee-a-night-to-remember",
+    "title": "A Night To Remember",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2485532771"
+  },
+  {
+    "id": "beabadoobee-tired",
+    "title": "Tired",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "594582722"
+  },
+  {
+    "id": "beabadoobee-beaches",
+    "title": "Beaches",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2758748091"
+  },
+  {
+    "id": "beabadoobee-the-way-things-go",
+    "title": "the way things go",
+    "artist": "beabadoobee",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2346167805"
+  },
+  {
+    "id": "ravyn-lenae-love-me-not-feat-rex-orange-county",
+    "title": "Love Me Not (feat. Rex Orange County)",
+    "artist": "Ravyn Lenae",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3031260821"
+  },
+  {
+    "id": "rex-orange-county-television-so-far-so-good",
+    "title": "Television / So Far So Good",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1893468457"
+  },
+  {
+    "id": "rex-orange-county-best-friend",
+    "title": "Best Friend",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1864345297"
+  },
+  {
+    "id": "rex-orange-county-pluto-projector",
+    "title": "Pluto Projector",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "774366842"
+  },
+  {
+    "id": "rex-orange-county-sunflower",
+    "title": "Sunflower",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1864388887"
+  },
+  {
+    "id": "rex-orange-county-loving-is-easy",
+    "title": "Loving Is Easy",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1874604187"
+  },
+  {
+    "id": "rex-orange-county-hannah-montana",
+    "title": "Hannah Montana",
+    "artist": "Rex Orange County",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "4237997012"
+  },
+  {
+    "id": "tyler-the-creator-boredom-feat-rex-orange-county-and-anna-of-the-north",
+    "title": "Boredom (feat. Rex Orange County & Anna of the North)",
+    "artist": "Tyler, The Creator",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "384157631"
+  },
+  {
+    "id": "daniel-caesar-rearrange-my-world",
+    "title": "Rearrange My World",
+    "artist": "Daniel Caesar",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3232190561"
+  },
+  {
+    "id": "tyler-the-creator-foreword-feat-rex-orange-county",
+    "title": "Foreword (feat. Rex Orange County)",
+    "artist": "Tyler, The Creator",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "384157561"
+  },
+  {
+    "id": "boy-pablo-honey",
+    "title": "honey",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "996945962"
+  },
+  {
+    "id": "boy-pablo-don-t-you-want-me",
+    "title": "Don't You Want Me",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1379292122"
+  },
+  {
+    "id": "boy-pablo-feeling-lonely",
+    "title": "Feeling Lonely",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "552658592"
+  },
+  {
+    "id": "boy-pablo-everytime",
+    "title": "Everytime",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "359407811"
+  },
+  {
+    "id": "boy-pablo-hey-girl",
+    "title": "hey girl",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "944108352"
+  },
+  {
+    "id": "boy-pablo-dance-baby",
+    "title": "Dance, Baby!",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "359407821"
+  },
+  {
+    "id": "boy-pablo-tkm",
+    "title": "tkm",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "552658652"
+  },
+  {
+    "id": "boy-pablo-sick-feeling",
+    "title": "Sick Feeling",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "552658612"
+  },
+  {
+    "id": "boy-pablo-la-novela",
+    "title": "La Novela",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1631344122"
+  },
+  {
+    "id": "boy-pablo-losing-you",
+    "title": "Losing You",
+    "artist": "boy pablo",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "552658642"
+  },
+  {
+    "id": "men-i-trust-show-me-how",
+    "title": "Show Me How",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2579890802"
+  },
+  {
+    "id": "men-i-trust-lauren",
+    "title": "Lauren",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2896363701"
+  },
+  {
+    "id": "men-i-trust-tailwhip",
+    "title": "Tailwhip",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2588314992"
+  },
+  {
+    "id": "men-i-trust-sorbitol",
+    "title": "Sorbitol",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2580853032"
+  },
+  {
+    "id": "men-i-trust-numb",
+    "title": "Numb",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "661361792"
+  },
+  {
+    "id": "men-i-trust-tree-among-shrubs",
+    "title": "Tree Among Shrubs",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "2580853042"
+  },
+  {
+    "id": "men-i-trust-show-me-how-album-v",
+    "title": "Show Me How (Album V)",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "717644222"
+  },
+  {
+    "id": "men-i-trust-billie-toppy",
+    "title": "Billie Toppy",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "1917061177"
+  },
+  {
+    "id": "men-i-trust-come-back-down",
+    "title": "Come Back Down",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3341619161"
+  },
+  {
+    "id": "men-i-trust-the-landkeeper",
+    "title": "The Landkeeper",
+    "artist": "Men I Trust",
+    "genreId": "pop.indie-alt.bedroom-pop",
+    "provider": "deezer",
+    "providerTrackId": "3266096651"
+  },
+  {
+    "id": "conrad-taylor-berghain",
+    "title": "Berghain",
+    "artist": "Conrad Taylor",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3886325891"
+  },
+  {
+    "id": "bjork-all-is-full-of-love",
+    "title": "All Is Full Of Love",
+    "artist": "Björk",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2680203912"
+  },
+  {
+    "id": "bjork-oral",
+    "title": "Oral",
+    "artist": "Björk",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2537421951"
+  },
+  {
+    "id": "kate-bush-running-up-that-hill-a-deal-with-god",
+    "title": "Running Up That Hill (A Deal With God)",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2173954687"
+  },
+  {
+    "id": "kate-bush-wuthering-heights",
+    "title": "Wuthering Heights",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3128004"
+  },
+  {
+    "id": "kate-bush-army-dreamers",
+    "title": "Army Dreamers",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3127838"
+  },
+  {
+    "id": "kate-bush-babooshka",
+    "title": "Babooshka",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3127829"
+  },
+  {
+    "id": "kate-bush-hounds-of-love",
+    "title": "Hounds Of Love",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2173954697"
+  },
+  {
+    "id": "kate-bush-cloudbusting",
+    "title": "Cloudbusting",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2173954727"
+  },
+  {
+    "id": "kate-bush-this-woman-s-work",
+    "title": "This Woman's Work",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2173954667"
+  },
+  {
+    "id": "kate-bush-moving",
+    "title": "Moving",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3127999"
+  },
+  {
+    "id": "kate-bush-the-man-with-the-child-in-his-eyes",
+    "title": "The Man with the Child in His Eyes",
+    "artist": "Kate Bush",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3128003"
+  },
+  {
+    "id": "a-ap-rocky-fukk-sleep-feat-fka-twigs",
+    "title": "Fukk Sleep (feat. FKA twigs)",
+    "artist": "A$AP Rocky",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "503169152"
+  },
+  {
+    "id": "fka-twigs-killer",
+    "title": "killer",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "1778068787"
+  },
+  {
+    "id": "fka-twigs-two-weeks",
+    "title": "Two Weeks",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "83941471"
+  },
+  {
+    "id": "fka-twigs-tears-in-the-club-feat-the-weeknd",
+    "title": "tears in the club (feat. the weeknd)",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "1586965742"
+  },
+  {
+    "id": "fka-twigs-eusexua",
+    "title": "Eusexua",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3196059051"
+  },
+  {
+    "id": "fka-twigs-cellophane",
+    "title": "cellophane",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "662817392"
+  },
+  {
+    "id": "fka-twigs-on-your-mind-feat-lil-yachty",
+    "title": "On Your Mind (feat. Lil Yachty)",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "4095178391"
+  },
+  {
+    "id": "fka-twigs-jealousy-feat-rema",
+    "title": "jealousy (feat. rema)",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "1616710022"
+  },
+  {
+    "id": "fka-twigs-love-crimes",
+    "title": "Love Crimes",
+    "artist": "FKA twigs",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3632195162"
+  },
+  {
+    "id": "ty-dolla-ign-ego-death-feat-kanye-west-fka-twigs-and-skrillex",
+    "title": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
+    "artist": "Ty Dolla $ign",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "1008362502"
+  },
+  {
+    "id": "angele-love-triangle",
+    "title": "Love Triangle",
+    "artist": "Angèle",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "4336304152"
+  },
+  {
+    "id": "blood-orange-the-field-feat-the-durutti-column-tariq-al-sabir-caroline-polachek-and-daniel-caesar",
+    "title": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+    "artist": "Blood Orange",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "3524652331"
+  },
+  {
+    "id": "caroline-polachek-so-hot-you-re-hurting-my-feelings",
+    "title": "So Hot You're Hurting My Feelings",
+    "artist": "Caroline Polachek",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "769248582"
+  },
+  {
+    "id": "blood-orange-chosen",
+    "title": "Chosen",
+    "artist": "Blood Orange",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "72333207"
+  },
+  {
+    "id": "caroline-polachek-sunset",
+    "title": "Sunset",
+    "artist": "Caroline Polachek",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2142188387"
+  },
+  {
+    "id": "caroline-polachek-welcome-to-my-island",
+    "title": "Welcome To My Island",
+    "artist": "Caroline Polachek",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2142188357"
+  },
+  {
+    "id": "caroline-polachek-bunny-is-a-rider",
+    "title": "Bunny Is A Rider",
+    "artist": "Caroline Polachek",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2142188377"
+  },
+  {
+    "id": "caroline-polachek-pretty-in-possible",
+    "title": "Pretty In Possible",
+    "artist": "Caroline Polachek",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2142188367"
+  },
+  {
+    "id": "st-vincent-los-ageless",
+    "title": "Los Ageless",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "416171072"
+  },
+  {
+    "id": "st-vincent-fast-slow-disco",
+    "title": "Fast Slow Disco",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "505510342"
+  },
+  {
+    "id": "st-vincent-broken-man",
+    "title": "Broken Man",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2652363942"
+  },
+  {
+    "id": "st-vincent-the-antidote",
+    "title": "The Antidote",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "61697706"
+  },
+  {
+    "id": "st-vincent-sweetest-fruit",
+    "title": "Sweetest Fruit",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2652363992"
+  },
+  {
+    "id": "st-vincent-new-york",
+    "title": "New York",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "416171102"
+  },
+  {
+    "id": "kid-cudi-maniac",
+    "title": "MANIAC",
+    "artist": "Kid Cudi",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "7521064"
+  },
+  {
+    "id": "st-vincent-big-time-nothing",
+    "title": "Big Time Nothing",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "2652363962"
+  },
+  {
+    "id": "st-vincent-slow-disco",
+    "title": "Slow Disco",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "416171142"
+  },
+  {
+    "id": "st-vincent-cheerleader",
+    "title": "Cheerleader",
+    "artist": "St. Vincent",
+    "genreId": "pop.indie-alt.art-pop",
+    "provider": "deezer",
+    "providerTrackId": "13570402"
+  }
+]

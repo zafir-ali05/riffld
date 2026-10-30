@@ -416,7 +416,7 @@ Contributions are welcome, especially **genre & subgenre track curation**! Addin
 
 ### v0.1: Foundations
 - [x] Next.js + TypeScript + Tailwind scaffold
-- [ ] Genre taxonomy JSON + initial seed tracks
+- [x] Genre taxonomy JSON + initial seed tracks
 - [ ] Deezer / iTunes preview resolver endpoint (`/api/audio/[trackId]`)
 
 ### v1.0: MVP 🎯

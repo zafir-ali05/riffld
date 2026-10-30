@@ -1,0 +1,54 @@
+{
+  "id": "pop",
+  "name": "Pop",
+  "emoji": "🎤",
+  "children": [
+    {
+      "id": "pop.mainstream",
+      "name": "Mainstream & Chart Pop",
+      "children": [
+        {
+          "id": "pop.mainstream.dance-pop",
+          "name": "Dance-Pop",
+          "aliases": ["electropop", "club pop"]
+        },
+        {
+          "id": "pop.mainstream.2000s-2010s-pop",
+          "name": "2000s & 2010s Pop",
+          "aliases": ["2000s pop", "2010s pop", "y2k pop", "teen pop"]
+        },
+        {
+          "id": "pop.mainstream.80s-90s-pop",
+          "name": "80s & 90s Pop",
+          "aliases": ["80s pop", "90s pop", "classic pop"]
+        }
+      ]
+    },
+    {
+      "id": "pop.indie-alt",
+      "name": "Indie & Alternative Pop",
+      "children": [
+        {
+          "id": "pop.indie-alt.synth-pop",
+          "name": "Synth-Pop",
+          "aliases": ["synthpop", "new wave pop"]
+        },
+        {
+          "id": "pop.indie-alt.indie-pop",
+          "name": "Indie Pop",
+          "aliases": ["twee pop", "chamber pop"]
+        },
+        {
+          "id": "pop.indie-alt.bedroom-pop",
+          "name": "Bedroom Pop",
+          "aliases": ["lo-fi pop", "diy pop"]
+        },
+        {
+          "id": "pop.indie-alt.art-pop",
+          "name": "Art Pop",
+          "aliases": ["avant-pop", "experimental pop"]
+        }
+      ]
+    }
+  ]
+}

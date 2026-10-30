@@ -1,0 +1,75 @@
+{
+  "id": "hip-hop",
+  "name": "Hip-Hop & R&B",
+  "emoji": "🎧",
+  "children": [
+    {
+      "id": "hip-hop.golden-era",
+      "name": "Golden Era & Classic Rap",
+      "children": [
+        {
+          "id": "hip-hop.golden-era.90s-east-coast",
+          "name": "90s East Coast",
+          "aliases": ["east coast hip-hop", "ny rap"]
+        },
+        {
+          "id": "hip-hop.golden-era.90s-west-coast",
+          "name": "90s West Coast",
+          "aliases": ["west coast hip-hop", "g-funk"]
+        },
+        {
+          "id": "hip-hop.golden-era.boom-bap",
+          "name": "Boom Bap",
+          "aliases": ["classic boom bap", "underground rap"]
+        }
+      ]
+    },
+    {
+      "id": "hip-hop.modern-rap",
+      "name": "Modern Rap & Drill",
+      "children": [
+        {
+          "id": "hip-hop.modern-rap.trap",
+          "name": "Trap",
+          "aliases": ["atlanta trap", "southern trap"]
+        },
+        {
+          "id": "hip-hop.modern-rap.melodic-rap",
+          "name": "Melodic Rap",
+          "aliases": ["emo rap", "melodic trap"]
+        },
+        {
+          "id": "hip-hop.modern-rap.uk-drill",
+          "name": "UK Drill",
+          "aliases": ["drill", "ny drill"]
+        },
+        {
+          "id": "hip-hop.modern-rap.cloud-rap",
+          "name": "Cloud Rap",
+          "aliases": ["plugg", "rage rap"]
+        }
+      ]
+    },
+    {
+      "id": "hip-hop.rnb",
+      "name": "R&B",
+      "children": [
+        {
+          "id": "hip-hop.rnb.contemporary-rnb",
+          "name": "Contemporary R&B",
+          "aliases": ["alt r&b", "modern r&b"]
+        },
+        {
+          "id": "hip-hop.rnb.90s-2000s-rnb",
+          "name": "90s / 2000s R&B",
+          "aliases": ["90s r&b", "2000s r&b", "new jack swing"]
+        },
+        {
+          "id": "hip-hop.rnb.neo-soul",
+          "name": "Neo-Soul",
+          "aliases": ["neo soul"]
+        }
+      ]
+    }
+  ]
+}

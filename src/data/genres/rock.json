@@ -1,0 +1,80 @@
+{
+  "id": "rock",
+  "name": "Rock & Alternative",
+  "emoji": "🎸",
+  "children": [
+    {
+      "id": "rock.mainstream",
+      "name": "Classic & Mainstream Rock",
+      "children": [
+        {
+          "id": "rock.mainstream.classic-rock",
+          "name": "Classic Rock",
+          "aliases": ["70s rock", "80s rock", "arena rock"]
+        },
+        {
+          "id": "rock.mainstream.alternative-rock",
+          "name": "Alternative Rock",
+          "aliases": ["90s alt rock", "2000s rock"]
+        },
+        {
+          "id": "rock.mainstream.pop-punk",
+          "name": "Pop Punk",
+          "aliases": ["skate punk", "2000s pop punk"]
+        },
+        {
+          "id": "rock.mainstream.grunge",
+          "name": "Grunge",
+          "aliases": ["seattle sound"]
+        }
+      ]
+    },
+    {
+      "id": "rock.indie-underground",
+      "name": "Indie & Underground Rock",
+      "children": [
+        {
+          "id": "rock.indie-underground.indie-rock",
+          "name": "Indie Rock",
+          "aliases": ["garage rock revival", "slacker rock"]
+        },
+        {
+          "id": "rock.indie-underground.post-punk",
+          "name": "Post-Punk",
+          "aliases": ["darkwave", "new wave", "goth rock"]
+        },
+        {
+          "id": "rock.indie-underground.midwest-emo",
+          "name": "Midwest Emo",
+          "aliases": ["emo", "fifth wave emo"]
+        },
+        {
+          "id": "rock.indie-underground.shoegaze",
+          "name": "Shoegaze",
+          "aliases": ["dream pop", "nu-gaze"]
+        },
+        {
+          "id": "rock.indie-underground.math-rock",
+          "name": "Math Rock",
+          "aliases": ["post-rock", "midwest math"]
+        }
+      ]
+    },
+    {
+      "id": "rock.heavy",
+      "name": "Hard Rock & Metal",
+      "children": [
+        {
+          "id": "rock.heavy.hard-rock-metal",
+          "name": "Hard Rock & Metal",
+          "aliases": ["heavy metal", "thrash metal", "nu metal"]
+        },
+        {
+          "id": "rock.heavy.metalcore",
+          "name": "Metalcore",
+          "aliases": ["post-hardcore", "deathcore"]
+        }
+      ]
+    }
+  ]
+}

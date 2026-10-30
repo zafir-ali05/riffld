@@ -1,0 +1,44 @@
+{
+  "id": "soul-jazz",
+  "name": "Soul, Funk & Jazz",
+  "emoji": "🎷",
+  "children": [
+    {
+      "id": "soul-jazz.soul-funk",
+      "name": "Soul, Funk & Blues",
+      "children": [
+        {
+          "id": "soul-jazz.soul-funk.classic-soul",
+          "name": "Classic Soul & Motown",
+          "aliases": ["motown", "northern soul", "southern soul"]
+        },
+        {
+          "id": "soul-jazz.soul-funk.funk-disco",
+          "name": "Funk & Disco",
+          "aliases": ["p-funk", "boogie", "70s disco"]
+        },
+        {
+          "id": "soul-jazz.soul-funk.blues",
+          "name": "Blues",
+          "aliases": ["chicago blues", "delta blues", "blues rock"]
+        }
+      ]
+    },
+    {
+      "id": "soul-jazz.jazz",
+      "name": "Jazz & Instrumental",
+      "children": [
+        {
+          "id": "soul-jazz.jazz.classic-jazz",
+          "name": "Classic Jazz",
+          "aliases": ["bebop", "cool jazz", "hard bop", "vocal jazz"]
+        },
+        {
+          "id": "soul-jazz.jazz.lofi-jazz-hop",
+          "name": "Lo-Fi / Jazz Hop",
+          "aliases": ["lofi hip-hop", "chillhop", "jazz fusion"]
+        }
+      ]
+    }
+  ]
+}

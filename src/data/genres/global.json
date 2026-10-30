@@ -1,0 +1,60 @@
+{
+  "id": "global",
+  "name": "Global & Regional",
+  "emoji": "🌐",
+  "children": [
+    {
+      "id": "global.east-asian",
+      "name": "East Asian",
+      "children": [
+        {
+          "id": "global.east-asian.k-pop",
+          "name": "K-Pop",
+          "aliases": ["korean pop", "kpop"]
+        },
+        {
+          "id": "global.east-asian.j-rock",
+          "name": "J-Rock",
+          "aliases": ["japanese rock", "anime rock", "j-pop"]
+        },
+        {
+          "id": "global.east-asian.city-pop",
+          "name": "City Pop",
+          "aliases": ["japanese city pop", "80s japan"]
+        }
+      ]
+    },
+    {
+      "id": "global.african",
+      "name": "African",
+      "children": [
+        {
+          "id": "global.african.afrobeats",
+          "name": "Afrobeats",
+          "aliases": ["naija pop", "afro-fusion"]
+        },
+        {
+          "id": "global.african.amapiano",
+          "name": "Amapiano",
+          "aliases": ["piano", "south african house"]
+        }
+      ]
+    },
+    {
+      "id": "global.caribbean",
+      "name": "Caribbean",
+      "children": [
+        {
+          "id": "global.caribbean.reggae",
+          "name": "Reggae",
+          "aliases": ["roots reggae", "lovers rock", "dub"]
+        },
+        {
+          "id": "global.caribbean.dancehall",
+          "name": "Dancehall",
+          "aliases": ["bashment", "ragga"]
+        }
+      ]
+    }
+  ]
+}

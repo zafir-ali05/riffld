@@ -1,0 +1,85 @@
+{
+  "id": "electronic",
+  "name": "Electronic & Dance",
+  "emoji": "🎛️",
+  "children": [
+    {
+      "id": "electronic.club-dance",
+      "name": "Club & Festival",
+      "children": [
+        {
+          "id": "electronic.club-dance.house",
+          "name": "House",
+          "aliases": ["deep house", "tech house", "chicago house"]
+        },
+        {
+          "id": "electronic.club-dance.techno",
+          "name": "Techno",
+          "aliases": ["detroit techno", "melodic techno"]
+        },
+        {
+          "id": "electronic.club-dance.edm-festival",
+          "name": "EDM / Festival",
+          "aliases": ["big room", "progressive house", "electro house", "dubstep"]
+        },
+        {
+          "id": "electronic.club-dance.drum-and-bass",
+          "name": "Drum & Bass",
+          "aliases": ["dnb", "liquid dnb", "jungle"]
+        },
+        {
+          "id": "electronic.club-dance.uk-garage",
+          "name": "UK Garage / 2-Step",
+          "aliases": ["ukg", "2-step", "speed garage"]
+        }
+      ]
+    },
+    {
+      "id": "electronic.underground",
+      "name": "Internet & Underground",
+      "children": [
+        {
+          "id": "electronic.underground.hyperpop",
+          "name": "Hyperpop",
+          "aliases": ["pc music", "digicore"]
+        },
+        {
+          "id": "electronic.underground.glitchcore",
+          "name": "Glitchcore",
+          "aliases": ["scenecore"]
+        },
+        {
+          "id": "electronic.underground.breakcore",
+          "name": "Breakcore",
+          "aliases": ["amen break", "atmos dnb"]
+        },
+        {
+          "id": "electronic.underground.drift-phonk",
+          "name": "Drift Phonk",
+          "aliases": ["phonk", "brazilian phonk"]
+        }
+      ]
+    },
+    {
+      "id": "electronic.chill-retro",
+      "name": "Retro & Ambient",
+      "children": [
+        {
+          "id": "electronic.chill-retro.vaporwave",
+          "name": "Vaporwave",
+          "aliases": ["synthwave", "chillsynth"]
+        },
+        {
+          "id": "electronic.chill-retro.future-funk",
+          "name": "Future Funk",
+          "aliases": ["french house", "nu-disco"]
+        },
+        {
+          "id": "electronic.chill-retro.ambient",
+          "name": "Ambient",
+          "aliases": ["idm", "downtempo"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "league-of-legends-gods",
+    "title": "GODS",
+    "artist": "League Of Legends",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3496410431"
+  },
+  {
+    "id": "newjeans-super-shy",
+    "title": "Super Shy",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2354707745"
+  },
+  {
+    "id": "newjeans-new-jeans",
+    "title": "New Jeans",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2373775125"
+  },
+  {
+    "id": "newjeans-omg",
+    "title": "OMG",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2088671947"
+  },
+  {
+    "id": "newjeans-ditto",
+    "title": "Ditto",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2071104987"
+  },
+  {
+    "id": "newjeans-eta",
+    "title": "ETA",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2373775145"
+  },
+  {
+    "id": "newjeans-supernatural",
+    "title": "Supernatural",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2853677102"
+  },
+  {
+    "id": "newjeans-attention",
+    "title": "Attention",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1843514387"
+  },
+  {
+    "id": "newjeans-hype-boy",
+    "title": "Hype Boy",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1843514397"
+  },
+  {
+    "id": "newjeans-how-sweet",
+    "title": "How Sweet",
+    "artist": "NewJeans",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2813349902"
+  },
+  {
+    "id": "bts-swim",
+    "title": "SWIM",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717261"
+  },
+  {
+    "id": "bts-body-to-body",
+    "title": "Body to Body",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717191"
+  },
+  {
+    "id": "bts-hooligan",
+    "title": "Hooligan",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717201"
+  },
+  {
+    "id": "bts-normal",
+    "title": "NORMAL",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717281"
+  },
+  {
+    "id": "bts-2-0",
+    "title": "2.0",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717241"
+  },
+  {
+    "id": "bts-dynamite",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1564465082"
+  },
+  {
+    "id": "coldplay-my-universe",
+    "title": "My Universe",
+    "artist": "Coldplay",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1498546032"
+  },
+  {
+    "id": "bts-like-animals",
+    "title": "Like Animals",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717291"
+  },
+  {
+    "id": "bts-they-don-t-know-bout-us",
+    "title": "they don’t know ’bout us",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717301"
+  },
+  {
+    "id": "bts-fya",
+    "title": "FYA",
+    "artist": "BTS",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3907717231"
+  },
+  {
+    "id": "blackpink-jump",
+    "title": "JUMP",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3454677991"
+  },
+  {
+    "id": "blackpink-kill-this-love",
+    "title": "Kill This Love",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "657797522"
+  },
+  {
+    "id": "blackpink-pink-venom",
+    "title": "Pink Venom",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1873466547"
+  },
+  {
+    "id": "blackpink-ddu-du-ddu-du",
+    "title": "DDU-DU DDU-DU",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "623470292"
+  },
+  {
+    "id": "blackpink-shut-down",
+    "title": "Shut Down",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1915471137"
+  },
+  {
+    "id": "blackpink-how-you-like-that",
+    "title": "How You Like That",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1097366392"
+  },
+  {
+    "id": "blackpink-go",
+    "title": "GO",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3866248761"
+  },
+  {
+    "id": "blackpink-boombayah",
+    "title": "BOOMBAYAH",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2516649591"
+  },
+  {
+    "id": "blackpink-ice-cream",
+    "title": "Ice Cream",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1097366402"
+  },
+  {
+    "id": "blackpink-pretty-savage",
+    "title": "Pretty Savage",
+    "artist": "BLACKPINK",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1097366412"
+  },
+  {
+    "id": "twice-takedown-jeongyeon-jihyo-chaeyoung",
+    "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3412534541"
+  },
+  {
+    "id": "twice-strategy",
+    "title": "Strategy",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3412534591"
+  },
+  {
+    "id": "twice-strategy-feat-megan-thee-stallion",
+    "title": "Strategy (feat. Megan Thee Stallion)",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3125530581"
+  },
+  {
+    "id": "twice-this-is-for",
+    "title": "THIS IS FOR",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3451046521"
+  },
+  {
+    "id": "twice-what-is-love",
+    "title": "What is Love?",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1255932992"
+  },
+  {
+    "id": "twice-the-feels",
+    "title": "The Feels",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1533348982"
+  },
+  {
+    "id": "alok-bye-bye-inhibitions",
+    "title": "Bye Bye Inhibitions",
+    "artist": "Alok",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "4289374152"
+  },
+  {
+    "id": "twice-i-can-t-stop-me",
+    "title": "I CAN'T STOP ME",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1114415022"
+  },
+  {
+    "id": "twice-fancy",
+    "title": "FANCY",
+    "artist": "TWICE",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1255927852"
+  },
+  {
+    "id": "coldplay-we-pray",
+    "title": "WE PRAY",
+    "artist": "Coldplay",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3314045411"
+  },
+  {
+    "id": "stray-kids-this-and-that",
+    "title": "This & That",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "4204153972"
+  },
+  {
+    "id": "stray-kids-chk-chk-boom",
+    "title": "Chk Chk Boom",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2893837431"
+  },
+  {
+    "id": "stray-kids-run-it",
+    "title": "RUN IT",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "4103855641"
+  },
+  {
+    "id": "stray-kids-do-it",
+    "title": "Do It",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3664415392"
+  },
+  {
+    "id": "stray-kids-lalalala",
+    "title": "LALALALA",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2533705261"
+  },
+  {
+    "id": "stray-kids-maniac",
+    "title": "MANIAC",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1688660007"
+  },
+  {
+    "id": "stray-kids-after-you",
+    "title": "After You",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "4204153982"
+  },
+  {
+    "id": "stray-kids-red-lights-bang-chan-hyunjin",
+    "title": "Red Lights (Bang Chan, Hyunjin)",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "1642054172"
+  },
+  {
+    "id": "stray-kids-ceremony",
+    "title": "CEREMONY",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "3516241231"
+  },
+  {
+    "id": "stray-kids-megaverse",
+    "title": "MEGAVERSE",
+    "artist": "Stray Kids",
+    "genreId": "global.east-asian.k-pop",
+    "provider": "deezer",
+    "providerTrackId": "2533705251"
+  },
+  {
+    "id": "one-ok-rock-stand-out-fit-in",
+    "title": "Stand Out Fit In",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "589680182"
+  },
+  {
+    "id": "one-ok-rock-the-beginning",
+    "title": "The Beginning",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3620224292"
+  },
+  {
+    "id": "one-ok-rock-make-it-out-alive",
+    "title": "Make It Out Alive",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "2418016185"
+  },
+  {
+    "id": "one-ok-rock-we-are",
+    "title": "We Are",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "139438489"
+  },
+  {
+    "id": "one-ok-rock-c-u-r-i-o-s-i-t-y-feat-paledusk-and-chico-carlito",
+    "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3210522691"
+  },
+  {
+    "id": "one-ok-rock-save-yourself",
+    "title": "Save Yourself",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1868319897"
+  },
+  {
+    "id": "one-ok-rock-renegades",
+    "title": "Renegades",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1300344272"
+  },
+  {
+    "id": "one-ok-rock-prove",
+    "title": "Prove",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1868319957"
+  },
+  {
+    "id": "one-ok-rock-tropical-therapy",
+    "title": "Tropical Therapy",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3210522621"
+  },
+  {
+    "id": "one-ok-rock-take-what-you-want-feat-5-seconds-of-summer",
+    "title": "Take What You Want (feat. 5 Seconds of Summer)",
+    "artist": "ONE OK ROCK",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "139438509"
+  },
+  {
+    "id": "king-gnu-aizo",
+    "title": "AIZO",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3710089132"
+  },
+  {
+    "id": "king-gnu-specialz",
+    "title": "SPECIALZ",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "2413426495"
+  },
+  {
+    "id": "king-gnu-ichizu",
+    "title": "Ichizu",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1566225852"
+  },
+  {
+    "id": "king-gnu-go-ghost",
+    "title": "GO GHOST",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "4174282622"
+  },
+  {
+    "id": "king-gnu-prayer-x",
+    "title": "Prayer X",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "975887152"
+  },
+  {
+    "id": "king-gnu-sakayume",
+    "title": "Sakayume",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1591373282"
+  },
+  {
+    "id": "king-gnu-boy",
+    "title": "BOY",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1509640142"
+  },
+  {
+    "id": "king-gnu-mascara",
+    "title": "MASCARA",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3015207701"
+  },
+  {
+    "id": "king-gnu-teenager-forever",
+    "title": "Teenager Forever",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1024987662"
+  },
+  {
+    "id": "king-gnu-hakujitsu",
+    "title": "Hakujitsu",
+    "artist": "King Gnu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "975875672"
+  },
+  {
+    "id": "yoasobi",
+    "title": "咲き誇れ",
+    "artist": "YOASOBI",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "4319147722"
+  },
+  {
+    "id": "kenshi-yonezu-iris-out",
+    "title": "IRIS OUT",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3540533651"
+  },
+  {
+    "id": "kenshi-yonezu-kick-back",
+    "title": "KICK BACK",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1946911957"
+  },
+  {
+    "id": "kenshi-yonezu-peace-sign",
+    "title": "Peace Sign",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1355416752"
+  },
+  {
+    "id": "kenshi-yonezu-jane-doe",
+    "title": "JANE DOE",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3557642081"
+  },
+  {
+    "id": "kenshi-yonezu-chikyugi-spinning-globe",
+    "title": "Chikyugi - Spinning Globe",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "2353060455"
+  },
+  {
+    "id": "kenshi-yonezu-lemon",
+    "title": "Lemon",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1355376732"
+  },
+  {
+    "id": "kenshi-yonezu-shinigami",
+    "title": "Shinigami",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1396482152"
+  },
+  {
+    "id": "kenshi-yonezu-sayonara-mata-itsuka-sayonara",
+    "title": "Sayonara, Mata Itsuka! - Sayonara",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "2714593212"
+  },
+  {
+    "id": "kenshi-yonezu-plazma",
+    "title": "Plazma",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3176278781"
+  },
+  {
+    "id": "kenshi-yonezu-bow-and-arrow",
+    "title": "BOW AND ARROW",
+    "artist": "Kenshi Yonezu",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3185620161"
+  },
+  {
+    "id": "asian-kung-fu-generation-haruka-kanata",
+    "title": "Haruka Kanata",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1100592452"
+  },
+  {
+    "id": "asian-kung-fu-generation-blood-circulator",
+    "title": "Blood Circulator",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "976006152"
+  },
+  {
+    "id": "asian-kung-fu-generation-after-dark",
+    "title": "After Dark",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1100605352"
+  },
+  {
+    "id": "asian-kung-fu-generation-re-re",
+    "title": "Re:Re:",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1100590722"
+  },
+  {
+    "id": "asian-kung-fu-generation-rewrite",
+    "title": "Rewrite",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "1100590662"
+  },
+  {
+    "id": "asian-kung-fu-generation-skins",
+    "title": "Skins",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "3917999131"
+  },
+  {
+    "id": "asian-kung-fu-generation-re-re-single-version",
+    "title": "Re: Re: Single version",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "975978822"
+  },
+  {
+    "id": "asian-kung-fu-generation-dororo",
+    "title": "Dororo",
+    "artist": "Asian Kung-Fu Generation",
+    "genreId": "global.east-asian.j-rock",
+    "provider": "deezer",
+    "providerTrackId": "976036942"
+  },
+  {
+    "id": "mariya-takeuchi-plastic-love",
+    "title": "Plastic Love",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1169627962"
+  },
+  {
+    "id": "mariya-takeuchi-shiawasenomonosashi",
+    "title": "Shiawasenomonosashi",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1169628182"
+  },
+  {
+    "id": "mariya-takeuchi-enishi-no-ito",
+    "title": "Enishi No Ito",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "904902402"
+  },
+  {
+    "id": "mariya-takeuchi-natsuno-montage",
+    "title": "Natsuno Montage",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "904902472"
+  },
+  {
+    "id": "mariya-takeuchi-yume-no-tsuzuki",
+    "title": "Yume No Tsuzuki",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2659488312"
+  },
+  {
+    "id": "mariya-takeuchi-oh-no-oh-yes",
+    "title": "OH NO,OH YES!",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2659488242"
+  },
+  {
+    "id": "mariya-takeuchi-mouichido",
+    "title": "Mouichido",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1532257752"
+  },
+  {
+    "id": "mariya-takeuchi-honkide-only-you-let-s-get-married",
+    "title": "Honkide Only You (Let's Get Married)",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1532257772"
+  },
+  {
+    "id": "mariya-takeuchi-todokanuomoi",
+    "title": "Todokanuomoi",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1532257812"
+  },
+  {
+    "id": "mariya-takeuchi-september",
+    "title": "September",
+    "artist": "Mariya Takeuchi",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1355610312"
+  },
+  {
+    "id": "anri-kanashimi-ga-tomaranai-i-can-t-stop-the-loneliness",
+    "title": "Kanashimi ga Tomaranai I CAN'T STOP THE LONELINESS",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927432"
+  },
+  {
+    "id": "anri-remember-summer-days",
+    "title": "Remember Summer Days",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927482"
+  },
+  {
+    "id": "anri-last-summer-whisper",
+    "title": "Last Summer Whisper",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "952130362"
+  },
+  {
+    "id": "anri-windy-summer",
+    "title": "WINDY SUMMER",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927392"
+  },
+  {
+    "id": "anri-shyness-boy",
+    "title": "SHYNESS BOY",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927442"
+  },
+  {
+    "id": "anri-good-bye-boogie-dance",
+    "title": "Good Bye Boogie Dance",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "952222462"
+  },
+  {
+    "id": "anri-cat-s-eye",
+    "title": "CAT'S EYE",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927382"
+  },
+  {
+    "id": "anri-fly-by-day",
+    "title": "Fly By Day",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "952130392"
+  },
+  {
+    "id": "anri-stay-by-me",
+    "title": "STAY BY ME",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927402"
+  },
+  {
+    "id": "anri-driving-my-love",
+    "title": "DRIVING MY LOVE",
+    "artist": "Anri",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "951927462"
+  },
+  {
+    "id": "miki-matsubara-mayonaka-no-door-stay-with-me",
+    "title": "Mayonaka no Door~stay with me",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978582"
+  },
+  {
+    "id": "miki-matsubara-mayonaka-no-door-stay-with-me-original-club-mix",
+    "title": "Mayonaka no Door~stay with me (Original club mix)",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978352"
+  },
+  {
+    "id": "miki-matsubara-wash",
+    "title": "Wash",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978642"
+  },
+  {
+    "id": "miki-matsubara-mayonaka-no-door-stay-with-me-single-ver",
+    "title": "Mayonaka no Door~stay with me (Single ver.)",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3702352792"
+  },
+  {
+    "id": "miki-matsubara-mayonaka-no-door-stay-with-me-classic",
+    "title": "Mayonaka no Door~stay with me classic",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697980052"
+  },
+  {
+    "id": "miki-matsubara-jazzy-night",
+    "title": "Jazzy Night",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978572"
+  },
+  {
+    "id": "miki-matsubara-ai-wa-energy",
+    "title": "Ai wa Energy",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978602"
+  },
+  {
+    "id": "miki-matsubara-cupid",
+    "title": "- Cupid -",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697978652"
+  },
+  {
+    "id": "miki-matsubara-hello-walls",
+    "title": "Hello Walls",
+    "artist": "Miki Matsubara",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3697975332"
+  },
+  {
+    "id": "tatsuro-yamashita-kiska",
+    "title": "Kiska",
+    "artist": "Tatsuro Yamashita",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1125498062"
+  },
+  {
+    "id": "tatsuro-yamashita-nostalgia-of-island",
+    "title": "Nostalgia of Island",
+    "artist": "Tatsuro Yamashita",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1125498022"
+  },
+  {
+    "id": "maru-lovers-driveway-feat-tatsuro-yamashita",
+    "title": "Lovers Driveway (feat. Tatsuro Yamashita)",
+    "artist": "MARU",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1236579622"
+  },
+  {
+    "id": "ashton-georgaras-fragile-ashton-georgaras-flip",
+    "title": "Fragile (Ashton Georgaras flip)",
+    "artist": "Ashton Georgaras",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1148047332"
+  },
+  {
+    "id": "columbia-music-box-christmas-eve-tatsuro-yamashita",
+    "title": "Christmas Eve (Tatsuro Yamashita)",
+    "artist": "Columbia Music Box",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2559219632"
+  },
+  {
+    "id": "victor-fantastic-orchestra-christmas-eve",
+    "title": "Christmas Eve",
+    "artist": "Victor Fantastic Orchestra",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2122836237"
+  },
+  {
+    "id": "victor-fantastic-orchestra-odoro-yo-fish",
+    "title": "Odoro yo, Fish",
+    "artist": "Victor Fantastic Orchestra",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2122836207"
+  },
+  {
+    "id": "victor-fantastic-orchestra-ride-on-time",
+    "title": "RIDE ON TIME",
+    "artist": "Victor Fantastic Orchestra",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2122836257"
+  },
+  {
+    "id": "annie-k-sparkle-from-tatsuro-yamashita",
+    "title": "Sparkle (From \"Tatsuro Yamashita\")",
+    "artist": "Annie K.",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1494979002"
+  },
+  {
+    "id": "victor-fantastic-orchestra-kokiatsu-girl",
+    "title": "Kokiatsu Girl",
+    "artist": "Victor Fantastic Orchestra",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2122836217"
+  },
+  {
+    "id": "taeko-onuki-4-00-a-m",
+    "title": "4:00 A.M.",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1567106462"
+  },
+  {
+    "id": "taeko-onuki-jajauma-musume",
+    "title": "Jajauma Musume",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1567106402"
+  },
+  {
+    "id": "taeko-onuki-tokai",
+    "title": "Tokai",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3579950821"
+  },
+  {
+    "id": "taeko-onuki-iidasenakute",
+    "title": "Iidasenakute",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1567106452"
+  },
+  {
+    "id": "taeko-onuki-sora-wo-tobetara",
+    "title": "Sora Wo Tobetara",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1567106432"
+  },
+  {
+    "id": "taeko-onuki-summer-connection",
+    "title": "Summer Connection",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "3579950791"
+  },
+  {
+    "id": "yoshitaka-minami-hizuke-henkou-sen",
+    "title": "Hizuke Henkou Sen",
+    "artist": "Yoshitaka Minami",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "976503432"
+  },
+  {
+    "id": "taeko-onuki-yamazakura",
+    "title": "YAMAZAKURA",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "2114755377"
+  },
+  {
+    "id": "taeko-onuki-tasogare",
+    "title": "Tasogare",
+    "artist": "Taeko Onuki",
+    "genreId": "global.east-asian.city-pop",
+    "provider": "deezer",
+    "providerTrackId": "1567106422"
+  },
+  {
+    "id": "shakira-dai-dai",
+    "title": "Dai Dai",
+    "artist": "Shakira",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4015341011"
+  },
+  {
+    "id": "burna-boy-on-the-low",
+    "title": "On the Low",
+    "artist": "Burna Boy",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "585584062"
+  },
+  {
+    "id": "gunna-wgft-feat-burna-boy",
+    "title": "wgft (feat. Burna Boy)",
+    "artist": "Gunna",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3495737481"
+  },
+  {
+    "id": "burna-boy-gbona",
+    "title": "Gbona",
+    "artist": "Burna Boy",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "558727482"
+  },
+  {
+    "id": "dave-location",
+    "title": "Location",
+    "artist": "Dave",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3553155311"
+  },
+  {
+    "id": "burna-boy-city-boys",
+    "title": "City Boys",
+    "artist": "Burna Boy",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2424008615"
+  },
+  {
+    "id": "burna-boy-collateral-damage",
+    "title": "Collateral Damage",
+    "artist": "Burna Boy",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "717237062"
+  },
+  {
+    "id": "burna-boy-ye",
+    "title": "Ye",
+    "artist": "Burna Boy",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "452794492"
+  },
+  {
+    "id": "dadju-donne-moi-l-accord",
+    "title": "Donne-moi l’accord",
+    "artist": "Dadju",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1084245942"
+  },
+  {
+    "id": "drake-one-dance",
+    "title": "One Dance",
+    "artist": "Drake",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "124603270"
+  },
+  {
+    "id": "mhd-bella",
+    "title": "Bella",
+    "artist": "MHD",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "528587951"
+  },
+  {
+    "id": "wizkid-joro",
+    "title": "Joro",
+    "artist": "Wizkid",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "705337482"
+  },
+  {
+    "id": "rvssian-pongo",
+    "title": "PONGO",
+    "artist": "Rvssian",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3879862701"
+  },
+  {
+    "id": "wizkid-essence-feat-justin-bieber-and-tems",
+    "title": "Essence (feat. Justin Bieber & Tems)",
+    "artist": "Wizkid",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1463057142"
+  },
+  {
+    "id": "wizkid-essence-feat-tems",
+    "title": "Essence (feat. Tems)",
+    "artist": "Wizkid",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1102672222"
+  },
+  {
+    "id": "ayra-starr-gimme-dat",
+    "title": "Gimme Dat",
+    "artist": "Ayra Starr",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3329774051"
+  },
+  {
+    "id": "odeal-nights-in-the-sun-feat-wizkid",
+    "title": "Nights In The Sun (feat. Wizkid)",
+    "artist": "Odeal",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3650264492"
+  },
+  {
+    "id": "wizkid-jogodo",
+    "title": "Jogodo",
+    "artist": "Wizkid",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3765778262"
+  },
+  {
+    "id": "wizkid-apres-minuit-feat-tiakola",
+    "title": "Après Minuit (feat. Tiakola)",
+    "artist": "Wizkid",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3099157141"
+  },
+  {
+    "id": "tiakola-best",
+    "title": "Best",
+    "artist": "Tiakola",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4304492882"
+  },
+  {
+    "id": "rema-calm-down",
+    "title": "Calm Down",
+    "artist": "Rema",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1873297197"
+  },
+  {
+    "id": "don-toliver-secondhand-feat-rema",
+    "title": "Secondhand (feat. Rema)",
+    "artist": "Don Toliver",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3812245472"
+  },
+  {
+    "id": "victony-soweto",
+    "title": "Soweto",
+    "artist": "Victony",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3279575181"
+  },
+  {
+    "id": "hamza-toxic",
+    "title": "TOXIC",
+    "artist": "Hamza",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3416394221"
+  },
+  {
+    "id": "rema-bounce",
+    "title": "Bounce",
+    "artist": "Rema",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1249315702"
+  },
+  {
+    "id": "rema-charm",
+    "title": "Charm",
+    "artist": "Rema",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2248578427"
+  },
+  {
+    "id": "lisa-goals",
+    "title": "Goals",
+    "artist": "LISA",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4022865081"
+  },
+  {
+    "id": "rema-soundgasm",
+    "title": "Soundgasm",
+    "artist": "Rema",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1394098232"
+  },
+  {
+    "id": "dave-raindance",
+    "title": "Raindance",
+    "artist": "Dave",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3616144112"
+  },
+  {
+    "id": "future-wait-for-u-feat-drake-and-tems",
+    "title": "WAIT FOR U (feat. Drake & Tems)",
+    "artist": "Future",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1733245187"
+  },
+  {
+    "id": "tems-what-you-need",
+    "title": "What You Need",
+    "artist": "Tems",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3661467392"
+  },
+  {
+    "id": "tems-love-me-jeje",
+    "title": "Love Me JeJe",
+    "artist": "Tems",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2762250081"
+  },
+  {
+    "id": "tems-higher",
+    "title": "Higher",
+    "artist": "Tems",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1083700472"
+  },
+  {
+    "id": "tems-free-mind",
+    "title": "Free Mind",
+    "artist": "Tems",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "1083700452"
+  },
+  {
+    "id": "tems-burning",
+    "title": "Burning",
+    "artist": "Tems",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2832495592"
+  },
+  {
+    "id": "davido-unavailable-feat-musa-keys",
+    "title": "UNAVAILABLE (feat. Musa Keys)",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2182407327"
+  },
+  {
+    "id": "davido-fall",
+    "title": "Fall",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "368671201"
+  },
+  {
+    "id": "davido-i-know-who-i-be",
+    "title": "I Know Who I Be",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4093992911"
+  },
+  {
+    "id": "davido-yaya-feat-aya-nakamura",
+    "title": "Yaya (feat. Aya Nakamura)",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4168302792"
+  },
+  {
+    "id": "davido-kante-feat-fave",
+    "title": "KANTE (feat. Fave)",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2182407377"
+  },
+  {
+    "id": "davido-with-you-feat-omah-lay",
+    "title": "With You (feat. Omah Lay)",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3324595541"
+  },
+  {
+    "id": "txc-nakupenda",
+    "title": "Nakupenda",
+    "artist": "TXC",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "3675334382"
+  },
+  {
+    "id": "chris-brown-sensational-feat-davido-and-lojay",
+    "title": "Sensational (feat. Davido & Lojay)",
+    "artist": "Chris Brown",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "2504834531"
+  },
+  {
+    "id": "davido-b4-b4",
+    "title": "B4 B4",
+    "artist": "Davido",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "4168302732"
+  },
+  {
+    "id": "aya-nakamura-gang-feat-davido",
+    "title": "Gang (feat. Davido)",
+    "artist": "Aya Nakamura",
+    "genreId": "global.african.afrobeats",
+    "provider": "deezer",
+    "providerTrackId": "576851312"
+  },
+  {
+    "id": "tyla-water",
+    "title": "Water",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2381294455"
+  },
+  {
+    "id": "tyla-chanel",
+    "title": "CHANEL",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3606166592"
+  },
+  {
+    "id": "tyla-she-did-it-again-feat-zara-larsson",
+    "title": "SHE DID IT AGAIN (feat. Zara Larsson)",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3962787011"
+  },
+  {
+    "id": "tyla-push-2-start",
+    "title": "PUSH 2 START",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3034835481"
+  },
+  {
+    "id": "tyla-that-girl",
+    "title": "THAT GIRL",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4166111662"
+  },
+  {
+    "id": "damiano-david-talk-to-me-feat-tyla-nile-rodgers",
+    "title": "Talk to Me (feat. Tyla, Nile Rodgers)",
+    "artist": "Damiano David",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3550350861"
+  },
+  {
+    "id": "biba-tyla",
+    "title": "TYLA",
+    "artist": "Biba",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4064452241"
+  },
+  {
+    "id": "wizthemc-show-me-love-with-tyla",
+    "title": "Show Me Love (with Tyla)",
+    "artist": "WizTheMc",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3322116591"
+  },
+  {
+    "id": "tyla-truth-or-dare",
+    "title": "Truth or Dare",
+    "artist": "Tyla",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2552699612"
+  },
+  {
+    "id": "future-game-time",
+    "title": "Game Time",
+    "artist": "Future",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4037520411"
+  },
+  {
+    "id": "asake-asambe",
+    "title": "Asambe",
+    "artist": "Asake",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3975693531"
+  },
+  {
+    "id": "kabza-de-small-abalele",
+    "title": "Abalele",
+    "artist": "Kabza De Small",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1493932152"
+  },
+  {
+    "id": "dj-maphorisa-abantwana-bakho-feat-thatohatsi-young-stunna-and-nkosazana-daughter",
+    "title": "Abantwana Bakho (feat. Thatohatsi, Young Stunna & Nkosazana Daughter)",
+    "artist": "DJ Maphorisa",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3299157891"
+  },
+  {
+    "id": "kabza-de-small-asibe-happy",
+    "title": "Asibe Happy",
+    "artist": "Kabza De Small",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1550009662"
+  },
+  {
+    "id": "young-stunna-adiwele-feat-kabza-de-small-and-dj-maphorisa",
+    "title": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
+    "artist": "Young Stunna",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1524918852"
+  },
+  {
+    "id": "kabza-de-small-imithandazo-feat-young-stunna-dj-maphorisa-sizwe-alakine-and-umthakathi-kush",
+    "title": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
+    "artist": "Kabza De Small",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2504212601"
+  },
+  {
+    "id": "young-stunna-eduze-kwami-feat-nontokozo-mkhize-thatohatsi-and-cowboii",
+    "title": "EDUZE KWAMI (feat. Nontokozo Mkhize, Thatohatsi & CowBoii)",
+    "artist": "Young Stunna",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4351960612"
+  },
+  {
+    "id": "kabza-de-small-ngyozama-feat-sykes-young-stunna-nkosazana-daughter-tracy-and-thatohatsi",
+    "title": "Ngyozama (feat. Sykes, Young Stunna, Nkosazana Daughter, Tracy & Thatohatsi)",
+    "artist": "Kabza De Small",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3455419881"
+  },
+  {
+    "id": "dj-maphorisa-banyana-feat-sir-trill-daliwonga-and-kabza-de-small",
+    "title": "Banyana (feat. Sir Trill, Daliwonga & Kabza De Small)",
+    "artist": "DJ Maphorisa",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2215865077"
+  },
+  {
+    "id": "dj-maphorisa-money-constant",
+    "title": "MONEY CONSTANT",
+    "artist": "DJ Maphorisa",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3617073562"
+  },
+  {
+    "id": "shaunmusiq-and-ftears-thata-ahh-feat-young-stunna-madumane-and-tyla",
+    "title": "Thata Ahh (feat. Young Stunna, Madumane & Tyla)",
+    "artist": "ShaunMusiQ & Ftears",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2048498097"
+  },
+  {
+    "id": "tyler-icu-manzi-nte-feat-masterpiece-yvk-ceeka-rsa-m-j-silas-africa-and-al-xapo",
+    "title": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
+    "artist": "Tyler ICU",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2815530252"
+  },
+  {
+    "id": "xduppy-lwetse-feat-dj-maphorisa-and-mluusician",
+    "title": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+    "artist": "Xduppy",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3913008881"
+  },
+  {
+    "id": "dj-maphorisa-ngibolekeni-feat-seun1401-leemckrazy-blxckie-pcee-madumane-and-kabelo-sings",
+    "title": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
+    "artist": "DJ Maphorisa",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3208401231"
+  },
+  {
+    "id": "dj-maphorisa-izolo-feat-madumane-mpura-and-daliwonga",
+    "title": "Izolo (feat. Madumane, Mpura & Daliwonga)",
+    "artist": "DJ Maphorisa",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2215865097"
+  },
+  {
+    "id": "davido-champion-sound",
+    "title": "Champion Sound",
+    "artist": "Davido",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1529543822"
+  },
+  {
+    "id": "young-jonn-2factor",
+    "title": "2Factor",
+    "artist": "Young Jonn",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3654480042"
+  },
+  {
+    "id": "ckay-watawi-feat-davido-focalistic-and-abidoza",
+    "title": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+    "artist": "CKay",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1766763827"
+  },
+  {
+    "id": "focalistic-gumba-fire-feat-mr-jazziq",
+    "title": "Gumba Fire (feat. Mr JazziQ)",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4244735101"
+  },
+  {
+    "id": "focalistic-ke-star-feat-virgo-deep",
+    "title": "Ke Star (feat. Virgo Deep)",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1855509757"
+  },
+  {
+    "id": "focalistic-baja-ko-pele-feat-xduppy-shaunmusiq-ftears",
+    "title": "Baja Ko Pele (feat. Xduppy, ShaunMusiq, Ftears)",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2334879655"
+  },
+  {
+    "id": "focalistic-ke-star-feat-vigro-deep",
+    "title": "Ke Star (feat. Vigro Deep)",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1482118912"
+  },
+  {
+    "id": "diamond-platnumz-iyo-feat-focalistic-mapara-a-jazz-and-ntosh-gazi",
+    "title": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
+    "artist": "Diamond Platnumz",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1433186622"
+  },
+  {
+    "id": "focalistic-2-spin-jikeleza",
+    "title": "2 Spin Jikeleza",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4182546882"
+  },
+  {
+    "id": "focalistic-beyonce-baby",
+    "title": "Beyoncé Baby",
+    "artist": "Focalistic",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3538554261"
+  },
+  {
+    "id": "uncle-waffles-zenzele",
+    "title": "ZENZELE",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279587931"
+  },
+  {
+    "id": "uncle-waffles-yahyuppiyah",
+    "title": "Yahyuppiyah",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279576711"
+  },
+  {
+    "id": "uncle-waffles-wadibusa",
+    "title": "Wadibusa",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279584621"
+  },
+  {
+    "id": "uncle-waffles-peacock-revisit",
+    "title": "Peacock Revisit",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279578241"
+  },
+  {
+    "id": "uncle-waffles-uyah",
+    "title": "UYAH!",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279587911"
+  },
+  {
+    "id": "uncle-waffles-tanzania-feat-sino-msolo-and-boibizza",
+    "title": "Tanzania (feat. Sino Msolo and Boibizza)",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "1861477287"
+  },
+  {
+    "id": "uncle-waffles-baphi",
+    "title": "BAPHI",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "3279587921"
+  },
+  {
+    "id": "uncle-waffles-too-cool",
+    "title": "Too Cool",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "4003764061"
+  },
+  {
+    "id": "uncle-waffles-tanzania",
+    "title": "Tanzania",
+    "artist": "Uncle Waffles",
+    "genreId": "global.african.amapiano",
+    "provider": "deezer",
+    "providerTrackId": "2977422541"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-could-you-be-loved",
+    "title": "Could You Be Loved",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2542703"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-is-this-love",
+    "title": "Is This Love",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2293791"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-buffalo-soldier",
+    "title": "Buffalo Soldier",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2237439"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-redemption-song",
+    "title": "Redemption Song",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2542705"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-three-little-birds",
+    "title": "Three Little Birds",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "530300641"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-one-love-people-get-ready",
+    "title": "One Love / People Get Ready",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "530300691"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-jamming",
+    "title": "Jamming",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "530300751"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-no-woman-no-cry",
+    "title": "No Woman, No Cry",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "530300621"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-zimbabwe",
+    "title": "Zimbabwe",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2502150"
+  },
+  {
+    "id": "bob-marley-and-the-wailers-waiting-in-vain",
+    "title": "Waiting In Vain",
+    "artist": "Bob Marley & The Wailers",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "530300711"
+  },
+  {
+    "id": "protoje-who-knows",
+    "title": "Who Knows",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3365737181"
+  },
+  {
+    "id": "chronixx-skankin-sweet",
+    "title": "Skankin' Sweet",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "381546721"
+  },
+  {
+    "id": "chronixx-here-comes-trouble",
+    "title": "Here Comes Trouble",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "76150910"
+  },
+  {
+    "id": "chronixx-help-the-weak",
+    "title": "Help the Weak",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "453798622"
+  },
+  {
+    "id": "free-nationals-eternal-light",
+    "title": "Eternal Light",
+    "artist": "Free Nationals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "790458302"
+  },
+  {
+    "id": "chronixx-ghetto-paradise",
+    "title": "Ghetto Paradise",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "381546731"
+  },
+  {
+    "id": "starboy-jam",
+    "title": "Jam",
+    "artist": "Starboy",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "824565532"
+  },
+  {
+    "id": "chronixx-roots-and-chalice",
+    "title": "Roots & Chalice",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "487781142"
+  },
+  {
+    "id": "chronixx-big-bad-sound-feat-chronicle",
+    "title": "Big Bad Sound (feat. Chronicle)",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "381546711"
+  },
+  {
+    "id": "chronixx-smile-jamaica",
+    "title": "Smile Jamaica",
+    "artist": "Chronixx",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "381546751"
+  },
+  {
+    "id": "protoje-rasta-love",
+    "title": "Rasta Love",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "26363701"
+  },
+  {
+    "id": "protoje-weed-and-tings",
+    "title": "Weed & Tings",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "2531476151"
+  },
+  {
+    "id": "protoje-ting-loud",
+    "title": "Ting Loud",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3839775801"
+  },
+  {
+    "id": "protoje-in-your-corner",
+    "title": "In Your Corner",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3828031321"
+  },
+  {
+    "id": "lila-ike-what-it-feels-like",
+    "title": "What It Feels Like",
+    "artist": "Lila Iké",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "4099108901"
+  },
+  {
+    "id": "protoje-kingston-be-wise",
+    "title": "Kingston Be Wise",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "63562403"
+  },
+  {
+    "id": "sara-lugo-really-like-you",
+    "title": "Really Like You",
+    "artist": "Sara Lugo",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "493289342"
+  },
+  {
+    "id": "protoje-at-we-feet",
+    "title": "At We Feet",
+    "artist": "Protoje",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3839775811"
+  },
+  {
+    "id": "lila-ike-all-over-the-world",
+    "title": "All Over the World",
+    "artist": "Lila Iké",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3445774791"
+  },
+  {
+    "id": "damian-marley-welcome-to-jamrock",
+    "title": "Welcome To Jamrock",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1575375"
+  },
+  {
+    "id": "damian-marley-road-to-zion",
+    "title": "Road To Zion",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1575389"
+  },
+  {
+    "id": "damian-marley-medication",
+    "title": "Medication",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "383831741"
+  },
+  {
+    "id": "damian-marley-pimpa-s-paradise",
+    "title": "Pimpa's Paradise",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1575382"
+  },
+  {
+    "id": "damian-marley-looks-are-deceiving",
+    "title": "Looks Are Deceiving",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "383831771"
+  },
+  {
+    "id": "damian-marley-there-for-you",
+    "title": "There For You",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1575373"
+  },
+  {
+    "id": "damian-marley-living-it-up",
+    "title": "Living It Up",
+    "artist": "Damian Marley",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "383831761"
+  },
+  {
+    "id": "kabaka-pyramid-red-gold-and-green",
+    "title": "Red Gold and Green",
+    "artist": "Kabaka Pyramid",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1813114567"
+  },
+  {
+    "id": "toots-and-the-maytals-54-46-was-my-number",
+    "title": "54-46 Was My Number",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "3856488771"
+  },
+  {
+    "id": "toots-and-the-maytals-funky-kingston",
+    "title": "Funky Kingston",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "123022606"
+  },
+  {
+    "id": "toots-and-the-maytals-louie-louie",
+    "title": "Louie Louie",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1561004"
+  },
+  {
+    "id": "toots-and-the-maytals-pressure-drop",
+    "title": "Pressure Drop",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "123022618"
+  },
+  {
+    "id": "toots-and-the-maytals-monkey-man-original",
+    "title": "Monkey Man - Original",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1210420"
+  },
+  {
+    "id": "toots-and-the-maytals-time-tough",
+    "title": "Time Tough",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "123022602"
+  },
+  {
+    "id": "toots-and-the-maytals-take-me-home-country-road",
+    "title": "Take Me Home, Country Road",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "8100603"
+  },
+  {
+    "id": "toots-and-the-maytals-54-46-that-s-my-number-original",
+    "title": "54-46 That's My Number - Original",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "1210451"
+  },
+  {
+    "id": "easy-star-all-stars-let-down",
+    "title": "Let Down",
+    "artist": "Easy Star All-Stars",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "10519654"
+  },
+  {
+    "id": "toots-and-the-maytals-pomps-and-pride",
+    "title": "Pomps & Pride",
+    "artist": "Toots & The Maytals",
+    "genreId": "global.caribbean.reggae",
+    "provider": "deezer",
+    "providerTrackId": "123022612"
+  },
+  {
+    "id": "sean-paul-when-you-gonna-give-it-up-to-me",
+    "title": "(When You Gonna) Give It Up to Me",
+    "artist": "Sean Paul",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3957322"
+  },
+  {
+    "id": "sean-paul-she-doesn-t-mind",
+    "title": "She Doesn't Mind",
+    "artist": "Sean Paul",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "16944546"
+  },
+  {
+    "id": "sia-cheap-thrills-feat-sean-paul",
+    "title": "Cheap Thrills (feat. Sean Paul)",
+    "artist": "Sia",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "118986142"
+  },
+  {
+    "id": "sean-paul-get-busy",
+    "title": "Get Busy",
+    "artist": "Sean Paul",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "364292561"
+  },
+  {
+    "id": "spice-go-down-deh-feat-sean-paul-and-shaggy",
+    "title": "Go Down Deh (feat. Sean Paul & Shaggy)",
+    "artist": "Spice",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "1344922912"
+  },
+  {
+    "id": "sean-paul-no-lie",
+    "title": "No Lie",
+    "artist": "Sean Paul",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "136341512"
+  },
+  {
+    "id": "gabry-ponte-born-to-love-ya",
+    "title": "Born To Love Ya",
+    "artist": "Gabry Ponte",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "2988652451"
+  },
+  {
+    "id": "beyonce-baby-boy-feat-sean-paul",
+    "title": "Baby Boy (feat. Sean Paul)",
+    "artist": "Beyoncé",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "609381"
+  },
+  {
+    "id": "sean-paul-hold-my-hand-feat-zaho",
+    "title": "Hold My Hand (feat. Zaho)",
+    "artist": "Sean Paul",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "6345557"
+  },
+  {
+    "id": "clean-bandit-rockabye-feat-sean-paul-and-anne-marie",
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Clean Bandit",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "134527024"
+  },
+  {
+    "id": "shenseea-talk-to-me-nuh",
+    "title": "Talk To Me Nuh",
+    "artist": "Shenseea",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3890561131"
+  },
+  {
+    "id": "vybz-kartel-xrated",
+    "title": "Xrated",
+    "artist": "Vybz Kartel",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3594819332"
+  },
+  {
+    "id": "vybz-kartel-fever",
+    "title": "Fever",
+    "artist": "Vybz Kartel",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "126911397"
+  },
+  {
+    "id": "spice-conjugal-visit-feat-vybz-kartel",
+    "title": "Conjugal Visit (feat. Vybz Kartel)",
+    "artist": "Spice",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "91018983"
+  },
+  {
+    "id": "gaza-slim-one-man",
+    "title": "One Man",
+    "artist": "Gaza Slim",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "14130931"
+  },
+  {
+    "id": "vybz-kartel-beg-you",
+    "title": "Beg You",
+    "artist": "Vybz Kartel",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "2549919782"
+  },
+  {
+    "id": "vybz-kartel-summer-time",
+    "title": "Summer Time",
+    "artist": "Vybz Kartel",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "50391971"
+  },
+  {
+    "id": "vybz-kartel-panic",
+    "title": "Panic",
+    "artist": "Vybz Kartel",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3834294641"
+  },
+  {
+    "id": "kalash-oh-boy",
+    "title": "Oh Boy",
+    "artist": "Kalash",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "4023496011"
+  },
+  {
+    "id": "notnice-pure-love-mi-give-gal",
+    "title": "Pure Love Mi Give Gal",
+    "artist": "Notnice",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "1995045927"
+  },
+  {
+    "id": "shaggy-hey-sexy-lady",
+    "title": "Hey Sexy Lady",
+    "artist": "Shaggy",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "502768092"
+  },
+  {
+    "id": "zed-shaggy",
+    "title": "Shaggy",
+    "artist": "Zed",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "2820134222"
+  },
+  {
+    "id": "sting-just-one-lifetime",
+    "title": "Just One Lifetime",
+    "artist": "Sting",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "487029702"
+  },
+  {
+    "id": "sting-morning-is-coming",
+    "title": "Morning Is Coming",
+    "artist": "Sting",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "487029662"
+  },
+  {
+    "id": "sting-don-t-make-me-wait",
+    "title": "Don't Make Me Wait",
+    "artist": "Sting",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "487029692"
+  },
+  {
+    "id": "limitlezz-boombastic",
+    "title": "Boombastic",
+    "artist": "Limitlezz",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3596786502"
+  },
+  {
+    "id": "shaggy-boom-body",
+    "title": "Boom Body",
+    "artist": "Shaggy",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3606157972"
+  },
+  {
+    "id": "shaggy-mad-mad-world",
+    "title": "Mad Mad World",
+    "artist": "Shaggy",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "63401188"
+  },
+  {
+    "id": "shaggy-i-need-your-love-feat-mohombi-faydee-and-costi",
+    "title": "I Need Your Love (feat. Mohombi, Faydee & Costi)",
+    "artist": "Shaggy",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "92171232"
+  },
+  {
+    "id": "alunageorge-i-m-in-control",
+    "title": "I'm In Control",
+    "artist": "AlunaGeorge",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "132195158"
+  },
+  {
+    "id": "popcaan-silence",
+    "title": "Silence",
+    "artist": "Popcaan",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "952026252"
+  },
+  {
+    "id": "jamie-xx-i-know-there-s-gonna-be-good-times",
+    "title": "I Know There's Gonna Be (Good Times)",
+    "artist": "Jamie xx",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "101009326"
+  },
+  {
+    "id": "gorillaz-saturnz-barz-feat-popcaan",
+    "title": "Saturnz Barz (feat. Popcaan)",
+    "artist": "Gorillaz",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "354195901"
+  },
+  {
+    "id": "popcaan-fall-in-love",
+    "title": "Fall In Love",
+    "artist": "Popcaan",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "78273165"
+  },
+  {
+    "id": "tvgucci-drum-and-bass",
+    "title": "Drum & Bass",
+    "artist": "TVGUCCI",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "4359745711"
+  },
+  {
+    "id": "popcaan-dream",
+    "title": "Dream",
+    "artist": "Popcaan",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "4194916212"
+  },
+  {
+    "id": "drake-amazing-shape",
+    "title": "Amazing Shape",
+    "artist": "Drake",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "4022893471"
+  },
+  {
+    "id": "popcaan-baby-yuh-tight",
+    "title": "Baby Yuh Tight",
+    "artist": "Popcaan",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "706126392"
+  },
+  {
+    "id": "popcaan-feel-good",
+    "title": "Feel Good",
+    "artist": "Popcaan",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "663796512"
+  },
+  {
+    "id": "tito-el-bambino-flow-natural",
+    "title": "Flow Natural",
+    "artist": "Tito El Bambino",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3181692"
+  },
+  {
+    "id": "beenie-man-dude",
+    "title": "Dude",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3393740"
+  },
+  {
+    "id": "beenie-man-hmm-hmm",
+    "title": "Hmm Hmm",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3122388"
+  },
+  {
+    "id": "don-omar-belly-danza",
+    "title": "Belly Danza",
+    "artist": "Don Omar",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "881488"
+  },
+  {
+    "id": "beenie-man-who-am-i",
+    "title": "Who Am I",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "63394009"
+  },
+  {
+    "id": "tiggs-da-author-rise-again",
+    "title": "Rise Again",
+    "artist": "Tiggs Da Author",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "4280292692"
+  },
+  {
+    "id": "beenie-man-feel-it-boy",
+    "title": "Feel It Boy",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3087701"
+  },
+  {
+    "id": "beenie-man-girls-dem-sugar",
+    "title": "Girls Dem Sugar",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3393884"
+  },
+  {
+    "id": "beenie-man-romie",
+    "title": "Romie",
+    "artist": "Beenie Man",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "3658611"
+  },
+  {
+    "id": "chali-2na-international-feat-beenie-man",
+    "title": "International feat. Beenie Man",
+    "artist": "Chali 2na",
+    "genreId": "global.caribbean.dancehall",
+    "provider": "deezer",
+    "providerTrackId": "1060819792"
+  }
+]

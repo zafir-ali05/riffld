@@ -1,0 +1,49 @@
+{
+  "id": "country",
+  "name": "Country & Folk",
+  "emoji": "🤠",
+  "children": [
+    {
+      "id": "country.mainstream",
+      "name": "Mainstream & Classic Country",
+      "children": [
+        {
+          "id": "country.mainstream.contemporary-country",
+          "name": "Contemporary Country",
+          "aliases": ["modern country", "nashville country"]
+        },
+        {
+          "id": "country.mainstream.classic-country",
+          "name": "Classic Country",
+          "aliases": ["outlaw country", "honky tonk", "90s country"]
+        },
+        {
+          "id": "country.mainstream.country-pop",
+          "name": "Country Pop",
+          "aliases": ["crossover country"]
+        }
+      ]
+    },
+    {
+      "id": "country.roots-folk",
+      "name": "Roots, Folk & Americana",
+      "children": [
+        {
+          "id": "country.roots-folk.americana",
+          "name": "Americana",
+          "aliases": ["alt-country", "roots rock"]
+        },
+        {
+          "id": "country.roots-folk.indie-folk",
+          "name": "Indie Folk",
+          "aliases": ["contemporary folk", "singer-songwriter"]
+        },
+        {
+          "id": "country.roots-folk.bluegrass",
+          "name": "Bluegrass",
+          "aliases": ["newgrass", "appalachian folk"]
+        }
+      ]
+    }
+  ]
+}

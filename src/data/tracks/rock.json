@@ -1,0 +1,4050 @@
+[
+  {
+    "id": "queen-bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4091937401"
+  },
+  {
+    "id": "queen-don-t-stop-me-now",
+    "title": "Don't Stop Me Now",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4092329741"
+  },
+  {
+    "id": "queen-under-pressure-feat-david-bowie",
+    "title": "Under Pressure (feat. David Bowie)",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4091932171"
+  },
+  {
+    "id": "queen-another-one-bites-the-dust",
+    "title": "Another One Bites The Dust",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4092324041"
+  },
+  {
+    "id": "queen-we-will-rock-you",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4092312801"
+  },
+  {
+    "id": "queen-somebody-to-love",
+    "title": "Somebody To Love",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4091936611"
+  },
+  {
+    "id": "queen-killer-queen",
+    "title": "Killer Queen",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4091936641"
+  },
+  {
+    "id": "queen-i-want-to-break-free",
+    "title": "I Want to Break Free",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4092335521"
+  },
+  {
+    "id": "queen-the-show-must-go-on",
+    "title": "The Show Must Go On",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4092326741"
+  },
+  {
+    "id": "queen-crazy-little-thing-called-love",
+    "title": "Crazy Little Thing Called Love",
+    "artist": "Queen",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4091936691"
+  },
+  {
+    "id": "led-zeppelin-stairway-to-heaven",
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "88003859"
+  },
+  {
+    "id": "led-zeppelin-whole-lotta-love",
+    "title": "Whole Lotta Love",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78671026"
+  },
+  {
+    "id": "led-zeppelin-immigrant-song",
+    "title": "Immigrant Song",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78652582"
+  },
+  {
+    "id": "led-zeppelin-kashmir",
+    "title": "Kashmir",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "95085780"
+  },
+  {
+    "id": "led-zeppelin-black-dog",
+    "title": "Black Dog",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "88003853"
+  },
+  {
+    "id": "led-zeppelin-babe-i-m-gonna-leave-you",
+    "title": "Babe I'm Gonna Leave You",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78670918"
+  },
+  {
+    "id": "led-zeppelin-since-i-ve-been-loving-you",
+    "title": "Since I've Been Loving You",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78652585"
+  },
+  {
+    "id": "led-zeppelin-rock-and-roll",
+    "title": "Rock and Roll",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "88003855"
+  },
+  {
+    "id": "led-zeppelin-thank-you",
+    "title": "Thank You",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78671029"
+  },
+  {
+    "id": "led-zeppelin-ramble-on",
+    "title": "Ramble On",
+    "artist": "Led Zeppelin",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "78671033"
+  },
+  {
+    "id": "fleetwood-mac-the-chain",
+    "title": "The Chain",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "63480992"
+  },
+  {
+    "id": "fleetwood-mac-dreams",
+    "title": "Dreams",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "63480987"
+  },
+  {
+    "id": "fleetwood-mac-go-your-own-way",
+    "title": "Go Your Own Way",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "63480990"
+  },
+  {
+    "id": "fleetwood-mac-everywhere",
+    "title": "Everywhere",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "664444"
+  },
+  {
+    "id": "fleetwood-mac-silver-springs",
+    "title": "Silver Springs",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "67549272"
+  },
+  {
+    "id": "fleetwood-mac-landslide",
+    "title": "Landslide",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "3599559"
+  },
+  {
+    "id": "fleetwood-mac-don-t-stop",
+    "title": "Don't Stop",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "63480989"
+  },
+  {
+    "id": "fleetwood-mac-seven-wonders",
+    "title": "Seven Wonders",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "341017521"
+  },
+  {
+    "id": "fleetwood-mac-gypsy",
+    "title": "Gypsy",
+    "artist": "Fleetwood Mac",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "664445"
+  },
+  {
+    "id": "the-rolling-stones-start-me-up",
+    "title": "Start Me Up",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4125592"
+  },
+  {
+    "id": "the-rolling-stones-sympathy-for-the-devil",
+    "title": "Sympathy For The Devil",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "9956063"
+  },
+  {
+    "id": "the-rolling-stones-who-you-callin-crazy",
+    "title": "Who You Callin' Crazy",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4337464042"
+  },
+  {
+    "id": "the-rolling-stones-paint-it-black",
+    "title": "Paint It, Black",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "7818900"
+  },
+  {
+    "id": "the-rolling-stones-miss-you",
+    "title": "Miss You",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "14458087"
+  },
+  {
+    "id": "the-rolling-stones-wild-horses",
+    "title": "Wild Horses",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "100914862"
+  },
+  {
+    "id": "the-rolling-stones-beast-of-burden",
+    "title": "Beast Of Burden",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "14458095"
+  },
+  {
+    "id": "the-rolling-stones-you-can-t-always-get-what-you-want",
+    "title": "You Can't Always Get What You Want",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "9914842"
+  },
+  {
+    "id": "the-rolling-stones-i-can-t-get-no-satisfaction",
+    "title": "(I Can't Get No) Satisfaction",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "7677778"
+  },
+  {
+    "id": "the-rolling-stones-brown-sugar",
+    "title": "Brown Sugar",
+    "artist": "The Rolling Stones",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "4125582"
+  },
+  {
+    "id": "ac-dc-highway-to-hell",
+    "title": "Highway to Hell",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92719900"
+  },
+  {
+    "id": "ac-dc-thunderstruck",
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720102"
+  },
+  {
+    "id": "ac-dc-back-in-black",
+    "title": "Back In Black",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720046"
+  },
+  {
+    "id": "ac-dc-you-shook-me-all-night-long",
+    "title": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720048"
+  },
+  {
+    "id": "ac-dc-hells-bells",
+    "title": "Hells Bells",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720036"
+  },
+  {
+    "id": "ac-dc-shoot-to-thrill",
+    "title": "Shoot to Thrill",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720038"
+  },
+  {
+    "id": "ac-dc-t-n-t",
+    "title": "T.N.T.",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720006"
+  },
+  {
+    "id": "ac-dc-rock-n-roll-train",
+    "title": "Rock N Roll Train",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92720154"
+  },
+  {
+    "id": "ac-dc-touch-too-much",
+    "title": "Touch Too Much",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92719906"
+  },
+  {
+    "id": "ac-dc-whole-lotta-rosie",
+    "title": "Whole Lotta Rosie",
+    "artist": "AC/DC",
+    "genreId": "rock.mainstream.classic-rock",
+    "provider": "deezer",
+    "providerTrackId": "92722980"
+  },
+  {
+    "id": "radiohead-creep",
+    "title": "Creep",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138547415"
+  },
+  {
+    "id": "radiohead-no-surprises",
+    "title": "No Surprises",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138539157"
+  },
+  {
+    "id": "radiohead-let-down",
+    "title": "Let Down",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138539979"
+  },
+  {
+    "id": "radiohead-karma-police",
+    "title": "Karma Police",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138539981"
+  },
+  {
+    "id": "radiohead-exit-music-for-a-film",
+    "title": "Exit Music (For A Film)",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138539977"
+  },
+  {
+    "id": "radiohead-jigsaw-falling-into-place",
+    "title": "Jigsaw Falling Into Place",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138546819"
+  },
+  {
+    "id": "radiohead-everything-in-its-right-place",
+    "title": "Everything In Its Right Place",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138547587"
+  },
+  {
+    "id": "radiohead-weird-fishes-arpeggi",
+    "title": "Weird Fishes / Arpeggi",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138546809"
+  },
+  {
+    "id": "radiohead-all-i-need",
+    "title": "All I Need",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138546811"
+  },
+  {
+    "id": "radiohead-fake-plastic-trees",
+    "title": "Fake Plastic Trees",
+    "artist": "Radiohead",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "138544263"
+  },
+  {
+    "id": "red-hot-chili-peppers-californication",
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725274"
+  },
+  {
+    "id": "red-hot-chili-peppers-can-t-stop",
+    "title": "Can't Stop",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725971"
+  },
+  {
+    "id": "red-hot-chili-peppers-snow-hey-oh",
+    "title": "Snow (Hey Oh)",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "680518"
+  },
+  {
+    "id": "red-hot-chili-peppers-otherside",
+    "title": "Otherside",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725261"
+  },
+  {
+    "id": "red-hot-chili-peppers-scar-tissue",
+    "title": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725254"
+  },
+  {
+    "id": "red-hot-chili-peppers-by-the-way",
+    "title": "By the Way",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725929"
+  },
+  {
+    "id": "red-hot-chili-peppers-dani-california",
+    "title": "Dani California",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "680516"
+  },
+  {
+    "id": "red-hot-chili-peppers-under-the-bridge",
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "785176"
+  },
+  {
+    "id": "red-hot-chili-peppers-dark-necessities",
+    "title": "Dark Necessities",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "126534873"
+  },
+  {
+    "id": "red-hot-chili-peppers-give-it-away",
+    "title": "Give It Away",
+    "artist": "Red Hot Chili Peppers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "725837"
+  },
+  {
+    "id": "foo-fighters-everlong",
+    "title": "Everlong",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4762041"
+  },
+  {
+    "id": "foo-fighters-walk",
+    "title": "Walk",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "10287076"
+  },
+  {
+    "id": "foo-fighters-the-pretender",
+    "title": "The Pretender",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4311597"
+  },
+  {
+    "id": "foo-fighters-learn-to-fly",
+    "title": "Learn to Fly",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4311599"
+  },
+  {
+    "id": "foo-fighters-times-like-these",
+    "title": "Times Like These",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "15615738"
+  },
+  {
+    "id": "foo-fighters-best-of-you",
+    "title": "Best of You",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4311595"
+  },
+  {
+    "id": "foo-fighters-the-sky-is-a-neighborhood",
+    "title": "The Sky Is A Neighborhood",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "404183122"
+  },
+  {
+    "id": "foo-fighters-all-my-life",
+    "title": "All My Life",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4311594"
+  },
+  {
+    "id": "foo-fighters-my-hero",
+    "title": "My Hero",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "4311598"
+  },
+  {
+    "id": "foo-fighters-run",
+    "title": "Run",
+    "artist": "Foo Fighters",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "404183102"
+  },
+  {
+    "id": "the-killers-when-you-were-young",
+    "title": "When You Were Young",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "1109953"
+  },
+  {
+    "id": "the-killers-read-my-mind",
+    "title": "Read My Mind",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "1109956"
+  },
+  {
+    "id": "the-killers-human",
+    "title": "Human",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "71955252"
+  },
+  {
+    "id": "the-killers-all-these-things-that-i-ve-done",
+    "title": "All These Things That I've Done",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "71955241"
+  },
+  {
+    "id": "the-killers-the-man",
+    "title": "The Man",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "407173132"
+  },
+  {
+    "id": "the-killers-runaways",
+    "title": "Runaways",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "60741563"
+  },
+  {
+    "id": "the-killers-caution",
+    "title": "Caution",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "901365712"
+  },
+  {
+    "id": "the-killers-somebody-told-me",
+    "title": "Somebody Told Me",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "511061292"
+  },
+  {
+    "id": "the-killers-here-with-me",
+    "title": "Here With Me",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "60741565"
+  },
+  {
+    "id": "the-killers-shot-at-the-night",
+    "title": "Shot At The Night",
+    "artist": "The Killers",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "71955267"
+  },
+  {
+    "id": "linkin-park-what-i-ve-done",
+    "title": "What I've Done",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "676847"
+  },
+  {
+    "id": "linkin-park-faint",
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "14628999"
+  },
+  {
+    "id": "linkin-park-somewhere-i-belong",
+    "title": "Somewhere I Belong",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "14628995"
+  },
+  {
+    "id": "linkin-park-heavy-is-the-crown",
+    "title": "Heavy Is the Crown",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "3068802281"
+  },
+  {
+    "id": "linkin-park-up-from-the-bottom",
+    "title": "Up From the Bottom",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "3275882161"
+  },
+  {
+    "id": "linkin-park-given-up",
+    "title": "Given Up",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "676836"
+  },
+  {
+    "id": "linkin-park-shadow-of-the-day",
+    "title": "Shadow of the Day",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "676844"
+  },
+  {
+    "id": "linkin-park-one-more-light",
+    "title": "One More Light",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "362297911"
+  },
+  {
+    "id": "linkin-park-burn-it-down",
+    "title": "BURN IT DOWN",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "37734411"
+  },
+  {
+    "id": "linkin-park-bleed-it-out",
+    "title": "Bleed It Out",
+    "artist": "Linkin Park",
+    "genreId": "rock.mainstream.alternative-rock",
+    "provider": "deezer",
+    "providerTrackId": "676840"
+  },
+  {
+    "id": "blink-182-i-miss-you",
+    "title": "I Miss You",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "127673047"
+  },
+  {
+    "id": "blink-182-what-s-my-age-again",
+    "title": "What's My Age Again?",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "552496552"
+  },
+  {
+    "id": "blink-182-all-the-small-things",
+    "title": "All The Small Things",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "127354207"
+  },
+  {
+    "id": "blink-182-first-date",
+    "title": "First Date",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "125173830"
+  },
+  {
+    "id": "blink-182-feeling-this",
+    "title": "Feeling This",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "127673043"
+  },
+  {
+    "id": "blink-182-one-more-time",
+    "title": "ONE MORE TIME",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "2459579095"
+  },
+  {
+    "id": "blink-182-anthem-part-two",
+    "title": "Anthem Part Two",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "125173826"
+  },
+  {
+    "id": "blink-182-the-rock-show",
+    "title": "The Rock Show",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "125173836"
+  },
+  {
+    "id": "blink-182-adam-s-song",
+    "title": "Adam's Song",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "127354209"
+  },
+  {
+    "id": "blink-182-stay-together-for-the-kids",
+    "title": "Stay Together For The Kids",
+    "artist": "blink-182",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "125173838"
+  },
+  {
+    "id": "green-day-basket-case",
+    "title": "Basket Case",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "678044"
+  },
+  {
+    "id": "green-day-boulevard-of-broken-dreams",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "6611231"
+  },
+  {
+    "id": "green-day-holiday",
+    "title": "Holiday",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "715954"
+  },
+  {
+    "id": "green-day-good-riddance-time-of-your-life",
+    "title": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "778429"
+  },
+  {
+    "id": "green-day-21-guns",
+    "title": "21 Guns",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3788287"
+  },
+  {
+    "id": "green-day-when-i-come-around",
+    "title": "When I Come Around",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "678053"
+  },
+  {
+    "id": "green-day-holiday-boulevard-of-broken-dreams",
+    "title": "Holiday / Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "787190"
+  },
+  {
+    "id": "green-day-brain-stew",
+    "title": "Brain Stew",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3599697"
+  },
+  {
+    "id": "green-day-know-your-enemy",
+    "title": "Know Your Enemy",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3087228"
+  },
+  {
+    "id": "green-day-welcome-to-paradise",
+    "title": "Welcome to Paradise",
+    "artist": "Green Day",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "678040"
+  },
+  {
+    "id": "paramore-misery-business",
+    "title": "Misery Business",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3829140"
+  },
+  {
+    "id": "paramore-decode",
+    "title": "Decode",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "2723257"
+  },
+  {
+    "id": "paramore-still-into-you",
+    "title": "Still into You",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "65732147"
+  },
+  {
+    "id": "paramore-all-i-wanted",
+    "title": "All I Wanted",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "4288431"
+  },
+  {
+    "id": "paramore-the-only-exception",
+    "title": "The Only Exception",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "4288426"
+  },
+  {
+    "id": "paramore-ain-t-it-fun",
+    "title": "Ain't It Fun",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "65732144"
+  },
+  {
+    "id": "paramore-hard-times",
+    "title": "Hard Times",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "351553511"
+  },
+  {
+    "id": "paramore-crushcrushcrush",
+    "title": "crushcrushcrush",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3829144"
+  },
+  {
+    "id": "paramore-ignorance",
+    "title": "Ignorance",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "4288422"
+  },
+  {
+    "id": "paramore-that-s-what-you-get",
+    "title": "That's What You Get",
+    "artist": "Paramore",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "3829138"
+  },
+  {
+    "id": "fall-out-boy-centuries",
+    "title": "Centuries",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "92872156"
+  },
+  {
+    "id": "fall-out-boy-thnks-fr-th-mmrs",
+    "title": "Thnks fr th Mmrs",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "911496"
+  },
+  {
+    "id": "fall-out-boy-dance-dance",
+    "title": "Dance, Dance",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "1138246"
+  },
+  {
+    "id": "fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race",
+    "title": "This Ain't A Scene, It's An Arms Race",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "911492"
+  },
+  {
+    "id": "fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up",
+    "title": "My Songs Know What You Did In The Dark (Light Em Up)",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "66404564"
+  },
+  {
+    "id": "fall-out-boy-immortals",
+    "title": "Immortals",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "92872170"
+  },
+  {
+    "id": "fall-out-boy-sugar-we-re-goin-down",
+    "title": "Sugar, We're Goin Down",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "1138247"
+  },
+  {
+    "id": "fall-out-boy-the-phoenix",
+    "title": "The Phoenix",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "66404563"
+  },
+  {
+    "id": "fall-out-boy-the-take-over-the-breaks-over",
+    "title": "\"The Take Over, The Breaks Over\"",
+    "artist": "Fall Out Boy",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "911491"
+  },
+  {
+    "id": "my-chemical-romance-welcome-to-the-black-parade",
+    "title": "Welcome to the Black Parade",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "676573"
+  },
+  {
+    "id": "my-chemical-romance-teenagers",
+    "title": "Teenagers",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "676590"
+  },
+  {
+    "id": "my-chemical-romance-helena",
+    "title": "Helena",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "785938"
+  },
+  {
+    "id": "my-chemical-romance-i-m-not-okay-i-promise",
+    "title": "I'm Not Okay (I Promise)",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "785961"
+  },
+  {
+    "id": "my-chemical-romance-i-don-t-love-you",
+    "title": "I Don't Love You",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "676576"
+  },
+  {
+    "id": "my-chemical-romance-na-na-na-na-na-na-na-na-na-na-na-na",
+    "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "7718385"
+  },
+  {
+    "id": "my-chemical-romance-famous-last-words",
+    "title": "Famous Last Words",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "676594"
+  },
+  {
+    "id": "my-chemical-romance-someone-out-there-loves-you",
+    "title": "Someone Out There Loves You",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "4225015812"
+  },
+  {
+    "id": "my-chemical-romance-the-ghost-of-you",
+    "title": "The Ghost of You",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "785965"
+  },
+  {
+    "id": "my-chemical-romance-the-sharpest-lives",
+    "title": "The Sharpest Lives",
+    "artist": "My Chemical Romance",
+    "genreId": "rock.mainstream.pop-punk",
+    "provider": "deezer",
+    "providerTrackId": "676569"
+  },
+  {
+    "id": "nirvana-the-man-who-sold-the-world",
+    "title": "The Man Who Sold The World",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1105736"
+  },
+  {
+    "id": "nirvana-heart-shaped-box",
+    "title": "Heart-Shaped Box",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "70466227"
+  },
+  {
+    "id": "kerchak-nirvana",
+    "title": "Nirvana",
+    "artist": "Kerchak",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "3553677671"
+  },
+  {
+    "id": "nirvana-where-did-you-sleep-last-night",
+    "title": "Where Did You Sleep Last Night",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1105746"
+  },
+  {
+    "id": "nirvana-about-a-girl",
+    "title": "About A Girl",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1105733"
+  },
+  {
+    "id": "nirvana-dumb",
+    "title": "Dumb",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "70466230"
+  },
+  {
+    "id": "nirvana-rape-me",
+    "title": "Rape Me",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "70466228"
+  },
+  {
+    "id": "nirvana-all-apologies",
+    "title": "All Apologies",
+    "artist": "Nirvana",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "70466236"
+  },
+  {
+    "id": "doc-gyneco-nirvana",
+    "title": "Nirvana",
+    "artist": "Doc Gynéco",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "3134131"
+  },
+  {
+    "id": "pearl-jam-black",
+    "title": "Black",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675132"
+  },
+  {
+    "id": "pearl-jam-even-flow",
+    "title": "Even Flow",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675129"
+  },
+  {
+    "id": "pearl-jam-alive",
+    "title": "Alive",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675130"
+  },
+  {
+    "id": "pearl-jam-jeremy",
+    "title": "Jeremy",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675133"
+  },
+  {
+    "id": "pearl-jam-daughter",
+    "title": "Daughter",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "10273980"
+  },
+  {
+    "id": "pearl-jam-sirens",
+    "title": "Sirens",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "71469176"
+  },
+  {
+    "id": "pearl-jam-just-breathe",
+    "title": "Just Breathe",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "44256471"
+  },
+  {
+    "id": "pearl-jam-last-kiss",
+    "title": "Last Kiss",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675332"
+  },
+  {
+    "id": "pearl-jam-given-to-fly",
+    "title": "Given to Fly",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7634975"
+  },
+  {
+    "id": "pearl-jam-yellow-ledbetter",
+    "title": "Yellow Ledbetter",
+    "artist": "Pearl Jam",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675322"
+  },
+  {
+    "id": "soundgarden-outshined",
+    "title": "Outshined",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "136340402"
+  },
+  {
+    "id": "soundgarden-667",
+    "title": "667",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1137141912"
+  },
+  {
+    "id": "soundgarden-incessant-mace",
+    "title": "Incessant Mace",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1137141982"
+  },
+  {
+    "id": "soundgarden-taree",
+    "title": "Taree",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "667824182"
+  },
+  {
+    "id": "soundgarden-665",
+    "title": "665",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1137141892"
+  },
+  {
+    "id": "soundgarden-spoonman",
+    "title": "Spoonman",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "129809508"
+  },
+  {
+    "id": "soundgarden-he-didn-t",
+    "title": "He Didn't",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1137141942"
+  },
+  {
+    "id": "soundgarden-limo-wreck",
+    "title": "Limo Wreck",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "78690537"
+  },
+  {
+    "id": "soundgarden-attrition",
+    "title": "Attrition",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "667824192"
+  },
+  {
+    "id": "soundgarden-mailman",
+    "title": "Mailman",
+    "artist": "Soundgarden",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "78690532"
+  },
+  {
+    "id": "alice-in-chains-nutshell",
+    "title": "Nutshell",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1038552"
+  },
+  {
+    "id": "alice-in-chains-would-2022-remaster",
+    "title": "Would? (2022 Remaster)",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15178233"
+  },
+  {
+    "id": "alice-in-chains-man-in-the-box",
+    "title": "Man in the Box",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15523335"
+  },
+  {
+    "id": "alice-in-chains-down-in-a-hole-2022-remaster",
+    "title": "Down In A Hole (2022 Remaster)",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15178637"
+  },
+  {
+    "id": "alice-in-chains-them-bones-2022-remaster",
+    "title": "Them Bones (2022 Remaster)",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15178296"
+  },
+  {
+    "id": "alice-in-chains-no-excuses",
+    "title": "No Excuses",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "1038556"
+  },
+  {
+    "id": "alice-in-chains-rooster",
+    "title": "Rooster",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15178364"
+  },
+  {
+    "id": "alice-in-chains-down-in-a-hole",
+    "title": "Down In A Hole",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "7675186"
+  },
+  {
+    "id": "alice-in-chains-bleed-the-freak",
+    "title": "Bleed The Freak",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "15523338"
+  },
+  {
+    "id": "alice-in-chains-heaven-beside-you",
+    "title": "Heaven Beside You",
+    "artist": "Alice In Chains",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "70857285"
+  },
+  {
+    "id": "stone-temple-pilots-interstate-love-song",
+    "title": "Interstate Love Song",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "3907803"
+  },
+  {
+    "id": "stone-temple-pilots-vasoline",
+    "title": "Vasoline",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "3907794"
+  },
+  {
+    "id": "stone-temple-pilots-plush",
+    "title": "Plush",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "3907808"
+  },
+  {
+    "id": "stone-temple-pilots-big-empty",
+    "title": "Big Empty",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "4086669"
+  },
+  {
+    "id": "stone-temple-pilots-creep",
+    "title": "Creep",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "407645372"
+  },
+  {
+    "id": "stone-temple-pilots-trippin-on-a-hole-in-a-paper-heart",
+    "title": "Trippin' on a Hole in a Paper Heart",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "5931839"
+  },
+  {
+    "id": "stone-temple-pilots-big-bang-baby",
+    "title": "Big Bang Baby",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "5931836"
+  },
+  {
+    "id": "stone-temple-pilots-sour-girl",
+    "title": "Sour Girl",
+    "artist": "Stone Temple Pilots",
+    "genreId": "rock.mainstream.grunge",
+    "provider": "deezer",
+    "providerTrackId": "4086946"
+  },
+  {
+    "id": "arctic-monkeys-do-i-wanna-know",
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322130"
+  },
+  {
+    "id": "arctic-monkeys-i-wanna-be-yours",
+    "title": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322142"
+  },
+  {
+    "id": "arctic-monkeys-why-d-you-only-call-me-when-you-re-high",
+    "title": "Why'd You Only Call Me When You're High?",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322139"
+  },
+  {
+    "id": "arctic-monkeys-no-1-party-anthem",
+    "title": "No. 1 Party Anthem",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322136"
+  },
+  {
+    "id": "arctic-monkeys-r-u-mine",
+    "title": "R U Mine?",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322132"
+  },
+  {
+    "id": "arctic-monkeys-snap-out-of-it",
+    "title": "Snap Out Of It",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322140"
+  },
+  {
+    "id": "arctic-monkeys-i-bet-you-look-good-on-the-dancefloor",
+    "title": "I Bet You Look Good On The Dancefloor",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4315310"
+  },
+  {
+    "id": "arctic-monkeys-knee-socks",
+    "title": "Knee Socks",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322141"
+  },
+  {
+    "id": "arctic-monkeys-when-the-sun-goes-down",
+    "title": "When The Sun Goes Down",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4315319"
+  },
+  {
+    "id": "arctic-monkeys-arabella",
+    "title": "Arabella",
+    "artist": "Arctic Monkeys",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70322134"
+  },
+  {
+    "id": "the-strokes-the-adults-are-talking",
+    "title": "The Adults Are Talking",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "921027292"
+  },
+  {
+    "id": "the-strokes-selfless",
+    "title": "Selfless",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "921027302"
+  },
+  {
+    "id": "the-strokes-ode-to-the-mets",
+    "title": "Ode To The Mets",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "921027372"
+  },
+  {
+    "id": "the-strokes-reptilia",
+    "title": "Reptilia",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "14880812"
+  },
+  {
+    "id": "the-strokes-last-nite",
+    "title": "Last Nite",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "958109"
+  },
+  {
+    "id": "the-strokes-dine-n-dash",
+    "title": "Dine N'Dash",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4170333142"
+  },
+  {
+    "id": "the-strokes-lonely-in-the-future",
+    "title": "Lonely in the Future",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4170333152"
+  },
+  {
+    "id": "the-strokes-someday",
+    "title": "Someday",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "957760"
+  },
+  {
+    "id": "the-strokes-call-it-fate-call-it-karma",
+    "title": "Call It Fate, Call It Karma",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "65440519"
+  },
+  {
+    "id": "the-strokes-psycho-shit",
+    "title": "Psycho Shit",
+    "artist": "The Strokes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4170333132"
+  },
+  {
+    "id": "maes-interpol",
+    "title": "INTERPOL",
+    "artist": "Maes",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "2892578412"
+  },
+  {
+    "id": "interpol-this-mirror-weighs-a-ton",
+    "title": "This Mirror Weighs a Ton",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099381"
+  },
+  {
+    "id": "interpol-wings-on-fire",
+    "title": "Wings On Fire",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099421"
+  },
+  {
+    "id": "interpol-see-out-loud",
+    "title": "See Out Loud",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099391"
+  },
+  {
+    "id": "interpol-iron-city",
+    "title": "Iron City",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099401"
+  },
+  {
+    "id": "interpol-rest-my-chemistry",
+    "title": "Rest My Chemistry",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1912817457"
+  },
+  {
+    "id": "interpol-wounded-soldier",
+    "title": "Wounded Soldier",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099411"
+  },
+  {
+    "id": "interpol-pioneer-to-the-falls",
+    "title": "Pioneer To The Falls",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1912817387"
+  },
+  {
+    "id": "interpol-ever-the-actor",
+    "title": "Ever the Actor",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4017099431"
+  },
+  {
+    "id": "interpol-the-heinrich-maneuver",
+    "title": "The Heinrich Maneuver",
+    "artist": "Interpol",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1912817417"
+  },
+  {
+    "id": "yeah-yeah-yeahs-spitting-off-the-edge-of-the-world",
+    "title": "Spitting Off the Edge of the World",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1745402797"
+  },
+  {
+    "id": "yeah-yeah-yeahs-maps",
+    "title": "Maps",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "417368992"
+  },
+  {
+    "id": "yeah-yeah-yeahs-heads-will-roll",
+    "title": "Heads Will Roll",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "676912382"
+  },
+  {
+    "id": "yeah-yeah-yeahs-blacktop",
+    "title": "Blacktop",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4215252612"
+  },
+  {
+    "id": "yeah-yeah-yeahs-burning",
+    "title": "Burning",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1745402837"
+  },
+  {
+    "id": "yeah-yeah-yeahs-sacrilege",
+    "title": "Sacrilege",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "436622442"
+  },
+  {
+    "id": "yeah-yeah-yeahs-wolf",
+    "title": "Wolf",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "2231836787"
+  },
+  {
+    "id": "yeah-yeah-yeahs-in-heaven",
+    "title": "In Heaven",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4215252402"
+  },
+  {
+    "id": "yeah-yeah-yeahs-gold-lion",
+    "title": "Gold Lion",
+    "artist": "Yeah Yeah Yeahs",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "4215252422"
+  },
+  {
+    "id": "modest-mouse-float-on",
+    "title": "Float On",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "581923"
+  },
+  {
+    "id": "modest-mouse-lampshades-on-fire",
+    "title": "Lampshades on Fire",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "96817066"
+  },
+  {
+    "id": "modest-mouse-dashboard",
+    "title": "Dashboard",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "13148328"
+  },
+  {
+    "id": "modest-mouse-dramamine",
+    "title": "Dramamine",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "1364342622"
+  },
+  {
+    "id": "modest-mouse-the-world-at-large",
+    "title": "The World At Large",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "581904"
+  },
+  {
+    "id": "modest-mouse-ocean-breathes-salty",
+    "title": "Ocean Breathes Salty",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "581906"
+  },
+  {
+    "id": "modest-mouse-spitting-venom",
+    "title": "Spitting Venom",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "13148338"
+  },
+  {
+    "id": "modest-mouse-missed-the-boat",
+    "title": "Missed the Boat",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "13148332"
+  },
+  {
+    "id": "modest-mouse-third-side-of-the-moon",
+    "title": "Third Side of the Moon",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "3928951101"
+  },
+  {
+    "id": "modest-mouse-gravity-rides-everything",
+    "title": "Gravity Rides Everything",
+    "artist": "Modest Mouse",
+    "genreId": "rock.indie-underground.indie-rock",
+    "provider": "deezer",
+    "providerTrackId": "70917816"
+  },
+  {
+    "id": "joy-division-love-will-tear-us-apart",
+    "title": "Love Will Tear Us Apart",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "797434"
+  },
+  {
+    "id": "joy-division-disorder",
+    "title": "Disorder",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "741235352"
+  },
+  {
+    "id": "joy-division-atmosphere",
+    "title": "Atmosphere",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "797409"
+  },
+  {
+    "id": "joy-division-shadowplay",
+    "title": "Shadowplay",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "741235412"
+  },
+  {
+    "id": "joy-division-transmission",
+    "title": "Transmission",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "797403"
+  },
+  {
+    "id": "joy-division-new-dawn-fades",
+    "title": "New Dawn Fades",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "741235392"
+  },
+  {
+    "id": "joy-division-she-s-lost-control",
+    "title": "She's Lost Control",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "729546"
+  },
+  {
+    "id": "joy-division-day-of-the-lords",
+    "title": "Day of the Lords",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "741235362"
+  },
+  {
+    "id": "joy-division-love-will-tear-us-apart-martin-hannett-sessions",
+    "title": "Love Will Tear Us Apart (Martin Hannett Sessions)",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "10387817"
+  },
+  {
+    "id": "joy-division-isolation",
+    "title": "Isolation",
+    "artist": "Joy Division",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1021197492"
+  },
+  {
+    "id": "olivia-rodrigo-the-cure",
+    "title": "the cure",
+    "artist": "Olivia Rodrigo",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "4078104981"
+  },
+  {
+    "id": "the-cure-alone",
+    "title": "Alone",
+    "artist": "The Cure",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "3063323451"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-the-passenger",
+    "title": "The Passenger",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "87769551"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-spellbound",
+    "title": "Spellbound",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1148491"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-cities-in-dust",
+    "title": "Cities In Dust",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "624844682"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-hong-kong-garden",
+    "title": "Hong Kong Garden",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "527823711"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-happy-house",
+    "title": "Happy House",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "704098772"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-dear-prudence",
+    "title": "Dear Prudence",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "89886265"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-arabian-knights",
+    "title": "Arabian Knights",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1148493"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-halloween",
+    "title": "Halloween",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1148494"
+  },
+  {
+    "id": "siouxsie-and-the-banshees-forever",
+    "title": "Forever",
+    "artist": "Siouxsie And The Banshees",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "87888251"
+  },
+  {
+    "id": "molchat-doma",
+    "title": "Судно (Борис Рыжий)",
+    "artist": "Molchat Doma",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "836932812"
+  },
+  {
+    "id": "fontaines-d-c-marianne",
+    "title": "Marianne",
+    "artist": "Fontaines D.C.",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "4303139222"
+  },
+  {
+    "id": "fontaines-d-c-tongue",
+    "title": "Tongue",
+    "artist": "Fontaines D.C.",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "4303139262"
+  },
+  {
+    "id": "elephant-post-punk",
+    "title": "Post-Punk",
+    "artist": "Elephant",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "2391561075"
+  },
+  {
+    "id": "meryl-streek-murder",
+    "title": "Murder",
+    "artist": "Meryl Streek",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "3343660081"
+  },
+  {
+    "id": "post-malone-i-cannot-be-a-sadder-song",
+    "title": "I Cannot Be (A Sadder Song)",
+    "artist": "Post Malone",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1775918677"
+  },
+  {
+    "id": "mha-iri-post-punk",
+    "title": "Post Punk",
+    "artist": "MHA IRI",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "3256277621"
+  },
+  {
+    "id": "depresion-post-mortem-yo-voy-post-punk-version",
+    "title": "Yo Voy (Post-Punk Version)",
+    "artist": "Depresión Post-Mortem",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1629976042"
+  },
+  {
+    "id": "park-hanoi-soviet-post-punk",
+    "title": "депрессия (Soviet Post Punk)",
+    "artist": "Park Hanoi",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "2463867195"
+  },
+  {
+    "id": "the-crystal-method-post-punk",
+    "title": "Post Punk",
+    "artist": "The Crystal Method",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1643135372"
+  },
+  {
+    "id": "leonora-post-punk-a-contraluz-version-de-hipnotize-festival",
+    "title": "A Contraluz (Versión de Hipnotize Festival)",
+    "artist": "Leonora Post Punk",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1601334302"
+  },
+  {
+    "id": "leonora-post-punk-eternos",
+    "title": "Eternos",
+    "artist": "Leonora Post Punk",
+    "genreId": "rock.indie-underground.post-punk",
+    "provider": "deezer",
+    "providerTrackId": "1120539332"
+  },
+  {
+    "id": "american-football-never-meant",
+    "title": "Never Meant",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411167"
+  },
+  {
+    "id": "american-football-the-summer-ends",
+    "title": "The Summer Ends",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411177"
+  },
+  {
+    "id": "american-football-stay-home",
+    "title": "Stay Home",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411237"
+  },
+  {
+    "id": "american-football-honestly",
+    "title": "Honestly?",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411187"
+  },
+  {
+    "id": "american-football-but-the-regrets-are-killing-me",
+    "title": "But the Regrets Are Killing Me",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411217"
+  },
+  {
+    "id": "american-football-i-ll-see-you-when-we-re-both-not-so-emotional",
+    "title": "I'll See You When We're Both Not So Emotional",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411227"
+  },
+  {
+    "id": "american-football-for-sure",
+    "title": "For Sure",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411197"
+  },
+  {
+    "id": "american-football-wake-her-up",
+    "title": "Wake Her Up",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "3884034211"
+  },
+  {
+    "id": "american-football-uncomfortably-numb-feat-hayley-williams",
+    "title": "Uncomfortably Numb (feat. Hayley Williams)",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982240217"
+  },
+  {
+    "id": "american-football-you-know-i-should-be-leaving-soon",
+    "title": "You Know I Should Be Leaving Soon",
+    "artist": "American Football",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1982411207"
+  },
+  {
+    "id": "modern-baseball-tears-over-beers",
+    "title": "Tears Over Beers",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814397"
+  },
+  {
+    "id": "modern-baseball-your-graduation",
+    "title": "Your Graduation",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "856051622"
+  },
+  {
+    "id": "modern-baseball-re-do",
+    "title": "Re-Do",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814387"
+  },
+  {
+    "id": "modern-baseball-fine-great",
+    "title": "Fine, Great",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "856051532"
+  },
+  {
+    "id": "modern-baseball-the-weekend",
+    "title": "The Weekend",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814407"
+  },
+  {
+    "id": "modern-baseball-i-think-you-were-in-my-profile-picture-once",
+    "title": "I Think You Were in My Profile Picture Once",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814437"
+  },
+  {
+    "id": "modern-baseball-re-done",
+    "title": "Re-Done",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814447"
+  },
+  {
+    "id": "modern-baseball-rock-bottom",
+    "title": "Rock Bottom",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "856051552"
+  },
+  {
+    "id": "modern-baseball-apartment",
+    "title": "Apartment",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "856051562"
+  },
+  {
+    "id": "modern-baseball-cooke",
+    "title": "Cooke",
+    "artist": "Modern Baseball",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1829814457"
+  },
+  {
+    "id": "hot-mulligan-equip-sunglasses",
+    "title": "*Equip Sunglasses*",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1787225687"
+  },
+  {
+    "id": "hot-mulligan-bckyrd",
+    "title": "BCKYRD",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1787225767"
+  },
+  {
+    "id": "hot-mulligan-how-do-you-know-it-s-not-armadillo-shells",
+    "title": "How Do You Know It’s Not Armadillo Shells?",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1787215537"
+  },
+  {
+    "id": "hot-mulligan-monica-lewinskibidi",
+    "title": "Monica Lewinskibidi",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "3353109091"
+  },
+  {
+    "id": "hot-mulligan-shhhh-golf-is-on",
+    "title": "Shhhh! Golf is On",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "2049629707"
+  },
+  {
+    "id": "hot-mulligan-featuring-mark-hoppus",
+    "title": "Featuring Mark Hoppus",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1348983362"
+  },
+  {
+    "id": "hot-mulligan-it-smells-like-fudge-axe-in-here",
+    "title": "It Smells Like Fudge Axe in Here",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "3353109051"
+  },
+  {
+    "id": "hot-mulligan-no-shoes-in-the-coffee-shop-or-socks",
+    "title": "No Shoes in the Coffee Shop (Or Socks)",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "2049629667"
+  },
+  {
+    "id": "hot-mulligan-prototheme",
+    "title": "Prototheme",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "3448511881"
+  },
+  {
+    "id": "hot-mulligan-and-a-big-load",
+    "title": "And a Big Load",
+    "artist": "Hot Mulligan",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "3353109041"
+  },
+  {
+    "id": "mom-jeans-scott-pilgrim-vs-my-gpa",
+    "title": "Scott Pilgrim vs. My GPA",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193722"
+  },
+  {
+    "id": "mom-jeans-death-cup",
+    "title": "Death Cup",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193642"
+  },
+  {
+    "id": "mom-jeans-sobs-quietly",
+    "title": "*Sobs Quietly*",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193682"
+  },
+  {
+    "id": "mom-jeans-edward-40hands",
+    "title": "Edward 40hands",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193672"
+  },
+  {
+    "id": "mom-jeans-you-can-t-eat-cats-kevin",
+    "title": "you can't eat cats kevin",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193602"
+  },
+  {
+    "id": "mom-jeans-poor-boxer-shorts",
+    "title": "Poor Boxer Shorts",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193692"
+  },
+  {
+    "id": "mom-jeans-movember",
+    "title": "Movember",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193662"
+  },
+  {
+    "id": "mom-jeans-danger-can-t",
+    "title": "Danger Can't",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193652"
+  },
+  {
+    "id": "mom-jeans-remy-s-boyz",
+    "title": "Remy's Boyz",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193702"
+  },
+  {
+    "id": "mom-jeans-vape-nation",
+    "title": "Vape Nation",
+    "artist": "Mom Jeans.",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1483193732"
+  },
+  {
+    "id": "sunny-day-real-estate-in-circles",
+    "title": "In Circles",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158412"
+  },
+  {
+    "id": "sunny-day-real-estate-pillars",
+    "title": "Pillars",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137206682"
+  },
+  {
+    "id": "sunny-day-real-estate-seven",
+    "title": "Seven",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158402"
+  },
+  {
+    "id": "sunny-day-real-estate-song-about-an-angel",
+    "title": "Song About An Angel",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158422"
+  },
+  {
+    "id": "sunny-day-real-estate-every-shining-time-you-arrive",
+    "title": "Every Shining Time You Arrive",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137206702"
+  },
+  {
+    "id": "sunny-day-real-estate-shadows",
+    "title": "Shadows",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158472"
+  },
+  {
+    "id": "sunny-day-real-estate-47",
+    "title": "47",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158442"
+  },
+  {
+    "id": "sunny-day-real-estate-100-million",
+    "title": "100 Million",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137206722"
+  },
+  {
+    "id": "sunny-day-real-estate-killed-by-an-angel",
+    "title": "Killed By An Angel",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "97233070"
+  },
+  {
+    "id": "sunny-day-real-estate-round",
+    "title": "Round",
+    "artist": "Sunny Day Real Estate",
+    "genreId": "rock.indie-underground.midwest-emo",
+    "provider": "deezer",
+    "providerTrackId": "1137158432"
+  },
+  {
+    "id": "my-bloody-valentine-new-you",
+    "title": "new you",
+    "artist": "my bloody valentine",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "1265941812"
+  },
+  {
+    "id": "good-charlotte-my-bloody-valentine",
+    "title": "My Bloody Valentine",
+    "artist": "Good Charlotte",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13140498"
+  },
+  {
+    "id": "my-bloody-valentine-only-tomorrow",
+    "title": "only tomorrow",
+    "artist": "my bloody valentine",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "1265941772"
+  },
+  {
+    "id": "my-bloody-valentine-she-found-now",
+    "title": "she found now",
+    "artist": "my bloody valentine",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "1265941762"
+  },
+  {
+    "id": "my-bloody-valentine-who-sees-you",
+    "title": "who sees you",
+    "artist": "my bloody valentine",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "1265941782"
+  },
+  {
+    "id": "slowdive-miranda",
+    "title": "Miranda",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205823"
+  },
+  {
+    "id": "slowdive-cello",
+    "title": "Cello",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205825"
+  },
+  {
+    "id": "slowdive-rutti",
+    "title": "Rutti",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205821"
+  },
+  {
+    "id": "slowdive-j-s-heaven",
+    "title": "J's Heaven",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205826"
+  },
+  {
+    "id": "slowdive-all-of-us",
+    "title": "All Of Us",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205829"
+  },
+  {
+    "id": "slowdive-kisses",
+    "title": "kisses",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "2997691461"
+  },
+  {
+    "id": "slowdive-trellisaze",
+    "title": "Trellisaze",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205824"
+  },
+  {
+    "id": "slowdive-visions-of-la",
+    "title": "Visions Of LA",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "13205827"
+  },
+  {
+    "id": "slowdive-brighter",
+    "title": "Brighter",
+    "artist": "Slowdive",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "7599511"
+  },
+  {
+    "id": "cocteau-twins-cico-buff",
+    "title": "Cico Buff",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "948638"
+  },
+  {
+    "id": "cocteau-twins-cherry-coloured-funk",
+    "title": "Cherry-coloured Funk",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "942495"
+  },
+  {
+    "id": "cocteau-twins-heaven-or-las-vegas",
+    "title": "Heaven or Las Vegas",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "942505"
+  },
+  {
+    "id": "cocteau-twins-frou-frou-foxes-in-midsummer-fires",
+    "title": "Frou-frou Foxes in Midsummer Fires",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "942518"
+  },
+  {
+    "id": "cocteau-twins-sea-swallow-me",
+    "title": "Sea, Swallow Me",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "951796"
+  },
+  {
+    "id": "cocteau-twins-pitch-the-baby",
+    "title": "Pitch the Baby",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "942497"
+  },
+  {
+    "id": "cocteau-twins-serpentskirt",
+    "title": "Serpentskirt",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "2445848"
+  },
+  {
+    "id": "cocteau-twins-lorelei",
+    "title": "Lorelei",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "105292190"
+  },
+  {
+    "id": "cocteau-twins-know-who-you-are-at-every-age",
+    "title": "Know Who You Are At Every Age",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "2633901332"
+  },
+  {
+    "id": "cocteau-twins-iceblink-luck",
+    "title": "Iceblink Luck",
+    "artist": "Cocteau Twins",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "942500"
+  },
+  {
+    "id": "zara-larsson-lush-life",
+    "title": "Lush Life",
+    "artist": "Zara Larsson",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "144389048"
+  },
+  {
+    "id": "lush-desire-lines",
+    "title": "Desire Lines",
+    "artist": "Lush",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "951158"
+  },
+  {
+    "id": "sam-feldt-fade-away-feat-inna",
+    "title": "Fade Away (feat. INNA)",
+    "artist": "Sam Feldt",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "463377182"
+  },
+  {
+    "id": "lushe-panam",
+    "title": "Panam",
+    "artist": "Lushe",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "4296280762"
+  },
+  {
+    "id": "lushe-montmartre",
+    "title": "MONTMARTRE",
+    "artist": "Lushe",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "3922499141"
+  },
+  {
+    "id": "lush-ladykillers",
+    "title": "Ladykillers",
+    "artist": "Lush",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "936835"
+  },
+  {
+    "id": "lushe-c-est-vrai",
+    "title": "C'est Vrai",
+    "artist": "Lushe",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "4296280742"
+  },
+  {
+    "id": "dean-blunt-lush",
+    "title": "LUSH",
+    "artist": "Dean Blunt",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "88903923"
+  },
+  {
+    "id": "lush-i-have-the-moon",
+    "title": "I Have the Moon",
+    "artist": "Lush",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "937305"
+  },
+  {
+    "id": "deftones-my-own-summer-shove-it",
+    "title": "My Own Summer (Shove It)",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "778452"
+  },
+  {
+    "id": "deftones-change-in-the-house-of-flies",
+    "title": "Change (In the House of Flies)",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "846705"
+  },
+  {
+    "id": "deftones-be-quiet-and-drive-far-away",
+    "title": "Be Quiet and Drive (Far Away)",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "778493"
+  },
+  {
+    "id": "deftones-rosemary",
+    "title": "Rosemary",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "61731768"
+  },
+  {
+    "id": "deftones-entombed",
+    "title": "Entombed",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "61731764"
+  },
+  {
+    "id": "deftones-cherry-waves",
+    "title": "Cherry Waves",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "772771"
+  },
+  {
+    "id": "deftones-sextape",
+    "title": "Sextape",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "5896917"
+  },
+  {
+    "id": "deftones-mascara",
+    "title": "Mascara",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "778472"
+  },
+  {
+    "id": "deftones-digital-bath",
+    "title": "Digital Bath",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "846697"
+  },
+  {
+    "id": "deftones-around-the-fur",
+    "title": "Around the Fur",
+    "artist": "Deftones",
+    "genreId": "rock.indie-underground.shoegaze",
+    "provider": "deezer",
+    "providerTrackId": "778476"
+  },
+  {
+    "id": "polyphia-playing-god",
+    "title": "Playing God",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "3782913332"
+  },
+  {
+    "id": "polyphia-screwtape",
+    "title": "SCREWTAPE",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296195962"
+  },
+  {
+    "id": "polyphia-j-bomb",
+    "title": "J-BOMB",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296196032"
+  },
+  {
+    "id": "polyphia-let-there-be-light",
+    "title": "LET THERE BE LIGHT",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296195922"
+  },
+  {
+    "id": "polyphia-near-death",
+    "title": "NEAR DEATH",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296196022"
+  },
+  {
+    "id": "polyphia-with-eyes-to-see",
+    "title": "WITH EYES TO SEE",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296195952"
+  },
+  {
+    "id": "polyphia-they-know-not-what-they-do",
+    "title": "THEY KNOW NOT WHAT THEY DO",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296195992"
+  },
+  {
+    "id": "polyphia-power-in-the-blood",
+    "title": "POWER IN THE BLOOD",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296195972"
+  },
+  {
+    "id": "polyphia-mark-of-the-beast",
+    "title": "MARK OF THE BEAST",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296196002"
+  },
+  {
+    "id": "polyphia-can-you-feel-it",
+    "title": "CAN YOU FEEL IT",
+    "artist": "Polyphia",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4296196012"
+  },
+  {
+    "id": "toe-kodokunohatsumei",
+    "title": "Kodokunohatsumei",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643502"
+  },
+  {
+    "id": "toe-tremolo-and-delay",
+    "title": "Tremolo And Delay",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643512"
+  },
+  {
+    "id": "toe-two-moons",
+    "title": "Two Moons",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578356122"
+  },
+  {
+    "id": "toe-c",
+    "title": "C",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643542"
+  },
+  {
+    "id": "toe-everything-means-nothing",
+    "title": "Everything Means Nothing",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643592"
+  },
+  {
+    "id": "toe-goodbye-album-version",
+    "title": "Goodbye -Album Version-",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578356162"
+  },
+  {
+    "id": "toe-mukou-gishi-ga-miru-yume",
+    "title": "Mukou Gishi Ga Miru Yume",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643522"
+  },
+  {
+    "id": "toe-metronome",
+    "title": "Metronome",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643582"
+  },
+  {
+    "id": "toe-the-future-is-now",
+    "title": "The Future Is Now",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578816082"
+  },
+  {
+    "id": "toe-past-and-language",
+    "title": "Past And Language",
+    "artist": "toe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1578643552"
+  },
+  {
+    "id": "chon-nayhoo",
+    "title": "Nayhoo",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "3390060061"
+  },
+  {
+    "id": "chon-can-t-wait",
+    "title": "Can't Wait",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749552"
+  },
+  {
+    "id": "chon-sketch",
+    "title": "Sketch",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "74929428"
+  },
+  {
+    "id": "chon-perfect-pillow",
+    "title": "Perfect Pillow",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749602"
+  },
+  {
+    "id": "chon-fall",
+    "title": "Fall",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749532"
+  },
+  {
+    "id": "chon-if",
+    "title": "If",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "3391135471"
+  },
+  {
+    "id": "chon-book",
+    "title": "Book",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749542"
+  },
+  {
+    "id": "chon-splash",
+    "title": "Splash",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749592"
+  },
+  {
+    "id": "chon-waterslide",
+    "title": "Waterslide",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "3390060021"
+  },
+  {
+    "id": "chon-suda",
+    "title": "Suda",
+    "artist": "Chon",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2795749562"
+  },
+  {
+    "id": "tricot-artsick",
+    "title": "Artsick",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953102"
+  },
+  {
+    "id": "tricot-pool",
+    "title": "Pool",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953072"
+  },
+  {
+    "id": "tricot",
+    "title": "混ぜるな危険",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2056229137"
+  },
+  {
+    "id": "tricot-ochansensu-su",
+    "title": "Ochansensu-Su",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953122"
+  },
+  {
+    "id": "tricot-potage",
+    "title": "potage",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "488936052"
+  },
+  {
+    "id": "tricot-warp",
+    "title": "WARP",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "2043890937"
+  },
+  {
+    "id": "tricot-c-and-c",
+    "title": "C&C",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953112"
+  },
+  {
+    "id": "tricot-tobe",
+    "title": "Tobe",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953082"
+  },
+  {
+    "id": "tricot-cgpp",
+    "title": "CGPP",
+    "artist": "tricot",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1575953162"
+  },
+  {
+    "id": "alpine-universe-battles",
+    "title": "Battles",
+    "artist": "Alpine Universe",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "1461698872"
+  },
+  {
+    "id": "battles-atlas",
+    "title": "Atlas",
+    "artist": "Battles",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "5785866"
+  },
+  {
+    "id": "emika-battles",
+    "title": "Battles",
+    "artist": "Emika",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "407213122"
+  },
+  {
+    "id": "madison-hughes-battles",
+    "title": "Battles",
+    "artist": "Madison Hughes",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "3303342001"
+  },
+  {
+    "id": "il-est-vilaine-battles",
+    "title": "Battles",
+    "artist": "Il Est Vilaine",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "4159012322"
+  },
+  {
+    "id": "battles-wall-street-gui-boratto-remix",
+    "title": "Wall Street (Gui Boratto Remix)",
+    "artist": "Battles",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "29387871"
+  },
+  {
+    "id": "hudson-taylor-battles",
+    "title": "Battles",
+    "artist": "Hudson Taylor",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "97205560"
+  },
+  {
+    "id": "battles-fort-greene-park",
+    "title": "Fort Greene Park",
+    "artist": "Battles",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "775158672"
+  },
+  {
+    "id": "battles-the-yabba",
+    "title": "The Yabba",
+    "artist": "Battles",
+    "genreId": "rock.indie-underground.math-rock",
+    "provider": "deezer",
+    "providerTrackId": "107457932"
+  },
+  {
+    "id": "sdm-metallica",
+    "title": "METALLICA",
+    "artist": "SDM",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3015707041"
+  },
+  {
+    "id": "iron-maiden-fear-of-the-dark",
+    "title": "Fear of the Dark",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585608872"
+  },
+  {
+    "id": "iron-maiden-wasting-love",
+    "title": "Wasting Love",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585608812"
+  },
+  {
+    "id": "iron-maiden-hallowed-be-thy-name",
+    "title": "Hallowed Be Thy Name",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585704662"
+  },
+  {
+    "id": "iron-maiden-wasted-years",
+    "title": "Wasted Years",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585864292"
+  },
+  {
+    "id": "iron-maiden-the-trooper",
+    "title": "The Trooper",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3155089"
+  },
+  {
+    "id": "iron-maiden-the-number-of-the-beast",
+    "title": "The Number of the Beast",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585704632"
+  },
+  {
+    "id": "iron-maiden-aces-high",
+    "title": "Aces High",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585594592"
+  },
+  {
+    "id": "iron-maiden-run-to-the-hills",
+    "title": "Run to the Hills",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3158433"
+  },
+  {
+    "id": "iron-maiden-2-minutes-to-midnight",
+    "title": "2 Minutes to Midnight",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585594602"
+  },
+  {
+    "id": "iron-maiden-rime-of-the-ancient-mariner",
+    "title": "Rime of the Ancient Mariner",
+    "artist": "Iron Maiden",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "585594662"
+  },
+  {
+    "id": "ozzy-osbourne-mr-crowley-live-from-back-to-the-beginning",
+    "title": "Mr. Crowley (Live From Back To The Beginning)",
+    "artist": "Ozzy Osbourne",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "6820569049"
+  },
+  {
+    "id": "black-sabbath-war-pigs",
+    "title": "War Pigs",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "1198293356"
+  },
+  {
+    "id": "black-sabbath-paranoid",
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "785232521"
+  },
+  {
+    "id": "black-sabbath-iron-man",
+    "title": "Iron Man",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "785232524"
+  },
+  {
+    "id": "black-sabbath-black-sabbath",
+    "title": "Black Sabbath",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "787645012"
+  },
+  {
+    "id": "black-sabbath-sweet-leaf",
+    "title": "Sweet Leaf",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "785239189"
+  },
+  {
+    "id": "black-sabbath-heaven-and-hell",
+    "title": "Heaven and Hell",
+    "artist": "Black Sabbath",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "itunes",
+    "providerTrackId": "298099932"
+  },
+  {
+    "id": "system-of-a-down-toxicity",
+    "title": "Toxicity",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "15523793"
+  },
+  {
+    "id": "system-of-a-down-lonely-day",
+    "title": "Lonely Day",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "546578"
+  },
+  {
+    "id": "system-of-a-down-chop-suey",
+    "title": "Chop Suey!",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "859699"
+  },
+  {
+    "id": "system-of-a-down-aerials",
+    "title": "Aerials",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "15523799"
+  },
+  {
+    "id": "system-of-a-down-b-y-o-b",
+    "title": "B.Y.O.B.",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "559789"
+  },
+  {
+    "id": "system-of-a-down-atwa",
+    "title": "ATWA",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "15523790"
+  },
+  {
+    "id": "system-of-a-down-radio-video",
+    "title": "Radio/Video",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "559728"
+  },
+  {
+    "id": "system-of-a-down-lost-in-hollywood",
+    "title": "Lost In Hollywood",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "559730"
+  },
+  {
+    "id": "system-of-a-down-hypnotize",
+    "title": "Hypnotize",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "561753"
+  },
+  {
+    "id": "system-of-a-down-i-e-a-i-a-i-o",
+    "title": "I-E-A-I-A-I-O",
+    "artist": "System of A Down",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "70177137"
+  },
+  {
+    "id": "slipknot-duality",
+    "title": "Duality",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3819908"
+  },
+  {
+    "id": "slipknot-psychosocial",
+    "title": "Psychosocial",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "1195560"
+  },
+  {
+    "id": "slipknot-snuff",
+    "title": "Snuff",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "1195567"
+  },
+  {
+    "id": "slipknot-before-i-forget",
+    "title": "Before I Forget",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3819914"
+  },
+  {
+    "id": "slipknot-wait-and-bleed",
+    "title": "Wait and Bleed",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "4197811"
+  },
+  {
+    "id": "slipknot-vermilion-pt-2",
+    "title": "Vermilion, Pt. 2",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "3819915"
+  },
+  {
+    "id": "slipknot-unsainted",
+    "title": "Unsainted",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "727923492"
+  },
+  {
+    "id": "slipknot-the-devil-in-i",
+    "title": "The Devil in I",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "87544325"
+  },
+  {
+    "id": "slipknot-nero-forte",
+    "title": "Nero Forte",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "727923522"
+  },
+  {
+    "id": "slipknot-custer",
+    "title": "Custer",
+    "artist": "Slipknot",
+    "genreId": "rock.heavy.hard-rock-metal",
+    "provider": "deezer",
+    "providerTrackId": "87544339"
+  },
+  {
+    "id": "bring-me-the-horizon-can-you-feel-my-heart",
+    "title": "Can You Feel My Heart",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "65245760"
+  },
+  {
+    "id": "bring-me-the-horizon-throne",
+    "title": "Throne",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "106746752"
+  },
+  {
+    "id": "bring-me-the-horizon-parasite-eve",
+    "title": "Parasite Eve",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1122999512"
+  },
+  {
+    "id": "bring-me-the-horizon-kingslayer-feat-babymetal",
+    "title": "Kingslayer (feat. BABYMETAL)",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1122999552"
+  },
+  {
+    "id": "bring-me-the-horizon-darkside",
+    "title": "DArkSide",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "2483816211"
+  },
+  {
+    "id": "bring-me-the-horizon-doomed",
+    "title": "Doomed",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "106746748"
+  },
+  {
+    "id": "bring-me-the-horizon-teardrops",
+    "title": "Teardrops",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1122999522"
+  },
+  {
+    "id": "bring-me-the-horizon-follow-you",
+    "title": "Follow You",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "106746756"
+  },
+  {
+    "id": "bring-me-the-horizon-shadow-moses",
+    "title": "Shadow Moses",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "65245766"
+  },
+  {
+    "id": "bring-me-the-horizon-sleepwalking",
+    "title": "Sleepwalking",
+    "artist": "Bring Me The Horizon",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "65245764"
+  },
+  {
+    "id": "architects-animals",
+    "title": "Animals",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1090538082"
+  },
+  {
+    "id": "architects-machine",
+    "title": "Machine",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "4286401762"
+  },
+  {
+    "id": "architects-everything-ends",
+    "title": "Everything Ends",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970181"
+  },
+  {
+    "id": "architects-whiplash",
+    "title": "Whiplash",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970161"
+  },
+  {
+    "id": "architects-blackhole",
+    "title": "Blackhole",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970171"
+  },
+  {
+    "id": "architects-curse",
+    "title": "Curse",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970241"
+  },
+  {
+    "id": "architects-seeing-red",
+    "title": "Seeing Red",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970251"
+  },
+  {
+    "id": "architects-dead-butterflies",
+    "title": "Dead Butterflies",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1090538032"
+  },
+  {
+    "id": "architects-deep-fake",
+    "title": "deep fake",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1791751057"
+  },
+  {
+    "id": "architects-broken-mirror",
+    "title": "Broken Mirror",
+    "artist": "Architects",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3250970231"
+  },
+  {
+    "id": "killswitch-engage-take-me-away",
+    "title": "Take Me Away",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3763125"
+  },
+  {
+    "id": "killswitch-engage-hate-by-design",
+    "title": "Hate by Design",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "118017268"
+  },
+  {
+    "id": "killswitch-engage-reignite",
+    "title": "Reignite",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "120352364"
+  },
+  {
+    "id": "killswitch-engage-the-return",
+    "title": "The Return",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3763123"
+  },
+  {
+    "id": "killswitch-engage-ravenous",
+    "title": "Ravenous",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "690050712"
+  },
+  {
+    "id": "killswitch-engage-loyalty",
+    "title": "Loyalty",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "120352368"
+  },
+  {
+    "id": "killswitch-engage-be-one",
+    "title": "Be One",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3659101"
+  },
+  {
+    "id": "killswitch-engage-this-is-goodbye",
+    "title": "This Is Goodbye",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3763129"
+  },
+  {
+    "id": "killswitch-engage-starting-over",
+    "title": "Starting Over",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3763120"
+  },
+  {
+    "id": "killswitch-engage-i-would-do-anything",
+    "title": "I Would Do Anything",
+    "artist": "Killswitch Engage",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3820966"
+  },
+  {
+    "id": "spiritbox-circle-with-me",
+    "title": "Circle With Me",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3750747742"
+  },
+  {
+    "id": "spiritbox-mourning",
+    "title": "Mourning",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "4263853692"
+  },
+  {
+    "id": "spiritbox-jaded",
+    "title": "Jaded",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3788198112"
+  },
+  {
+    "id": "spiritbox-sun-killer",
+    "title": "Sun Killer",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3750747642"
+  },
+  {
+    "id": "spiritbox-soft-spine",
+    "title": "Soft Spine",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3803438982"
+  },
+  {
+    "id": "babymetal-my-queen",
+    "title": "My Queen",
+    "artist": "BABYMETAL",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3491789041"
+  },
+  {
+    "id": "spiritbox-too-close-too-late",
+    "title": "Too Close / Too Late",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3788198122"
+  },
+  {
+    "id": "spiritbox-keep-sweet",
+    "title": "Keep Sweet",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3803438972"
+  },
+  {
+    "id": "spiritbox-perfect-soul",
+    "title": "Perfect Soul",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3794317462"
+  },
+  {
+    "id": "spiritbox-hurt-you",
+    "title": "Hurt You",
+    "artist": "Spiritbox",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3750747652"
+  },
+  {
+    "id": "parkway-drive-the-void",
+    "title": "The Void",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "491204922"
+  },
+  {
+    "id": "parkway-drive-darker-still",
+    "title": "Darker Still",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1785947637"
+  },
+  {
+    "id": "parkway-drive-prey",
+    "title": "Prey",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "491204892"
+  },
+  {
+    "id": "parkway-drive-wild-eyes",
+    "title": "Wild Eyes",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "378364121"
+  },
+  {
+    "id": "parkway-drive-glitch",
+    "title": "Glitch",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1785947617"
+  },
+  {
+    "id": "parkway-drive-sacred",
+    "title": "Sacred",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "3352974251"
+  },
+  {
+    "id": "parkway-drive-vice-grip",
+    "title": "Vice Grip",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "378393141"
+  },
+  {
+    "id": "parkway-drive-ground-zero",
+    "title": "Ground Zero",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "1785947597"
+  },
+  {
+    "id": "parkway-drive-carrion",
+    "title": "Carrion",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "378299701"
+  },
+  {
+    "id": "parkway-drive-shadow-boxing",
+    "title": "Shadow Boxing",
+    "artist": "Parkway Drive",
+    "genreId": "rock.heavy.metalcore",
+    "provider": "deezer",
+    "providerTrackId": "491204942"
+  }
+]
