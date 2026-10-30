@@ -263,8 +263,8 @@ export function getCatalog(catalog?: CatalogData): CatalogData {
   return cachedCatalog;
 }
 
-export function resetCatalogCache(): void {
-  cachedCatalog = null;
+export function resetCatalogCache(nextCatalog: CatalogData | null = null): void {
+  cachedCatalog = nextCatalog;
 }
 
 export function getAllGenres(catalog?: CatalogData): GenreNode[] {

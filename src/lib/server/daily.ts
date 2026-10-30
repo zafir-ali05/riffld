@@ -4,9 +4,27 @@ import {
   createHash,
   createHmac,
 } from "node:crypto";
-import { getTracksForChannel, type CatalogData } from "@/lib/catalog";
-import { getUtcDateString, parseUtcDateMidnightMs } from "@/lib/share";
-import { MIN_DAILY_ELIGIBLE_TRACKS, type Track } from "@/types/catalog";
+import {
+  getTrackById,
+  getTracksForChannel,
+  isDailyEligibleChannel,
+  type CatalogData,
+} from "@/lib/catalog";
+import { classifyGuess, type GuessCandidate } from "@/lib/feedback";
+import {
+  getPuzzleNumber,
+  getUtcDateString,
+  parseUtcDateMidnightMs,
+} from "@/lib/share";
+import {
+  MAX_ATTEMPTS,
+  MIN_DAILY_ELIGIBLE_TRACKS,
+  type AutocompleteTrack,
+  type DailyGuessResponse,
+  type DailyPuzzleResponse,
+  type RoundStatus,
+  type Track,
+} from "@/types/catalog";
 
 export interface DailySelectorOptions {
   salt?: string;
@@ -184,4 +202,137 @@ export function resolveDailyAudioToken(
   } catch {
     return undefined;
   }
+}
+
+export function resolveAudioTargetTrack(
+  trackIdOrToken: string,
+  options?: DailySelectorOptions,
+): Track | undefined {
+  const trimmed = trackIdOrToken.trim();
+  if (trimmed.length === 0) {
+    return undefined;
+  }
+
+  if (isDailyAudioToken(trimmed)) {
+    return resolveDailyAudioToken(trimmed, options);
+  }
+
+  return (
+    options?.tracks?.find((track) => track.id === trimmed) ??
+    getTrackById(trimmed, options?.catalog)
+  );
+}
+
+export function getDailyPuzzlePayload(
+  channelId: string,
+  dateOrString: Date | string = new Date(),
+  options?: DailySelectorOptions,
+): DailyPuzzleResponse | null {
+  if (!isDailyEligibleChannel(channelId, options?.catalog)) {
+    return null;
+  }
+
+  const date = normalizeDateString(dateOrString);
+  const puzzleNumber = getPuzzleNumber(date);
+  const audioToken = createDailyAudioToken(channelId, date, {
+    salt: options?.salt,
+  });
+  const pool =
+    options?.tracks ?? getTracksForChannel(channelId, options?.catalog);
+  const tracks: AutocompleteTrack[] = pool.map((track) => ({
+    id: track.id,
+    title: track.title,
+    artist: track.artist,
+  }));
+
+  return {
+    genreId: channelId,
+    date,
+    puzzleNumber,
+    audioToken,
+    tracks,
+  };
+}
+
+export type DailyGuessEvaluationResult =
+  | { ok: true; data: DailyGuessResponse }
+  | { ok: false; status: 400 | 404; error: string };
+
+export function evaluateDailyGuess(
+  channelId: string,
+  input: { trackId: unknown; attempt: unknown },
+  dateOrString: Date | string = new Date(),
+  options?: DailySelectorOptions,
+): DailyGuessEvaluationResult {
+  if (!isDailyEligibleChannel(channelId, options?.catalog)) {
+    return {
+      ok: false,
+      status: 404,
+      error: "Daily puzzle not available for this genre.",
+    };
+  }
+
+  const { trackId: rawTrackId, attempt: rawAttempt } = input;
+
+  if (
+    typeof rawAttempt !== "number" ||
+    !Number.isInteger(rawAttempt) ||
+    rawAttempt < 0 ||
+    rawAttempt >= MAX_ATTEMPTS
+  ) {
+    return {
+      ok: false,
+      status: 400,
+      error: `Invalid attempt index. Expected integer from 0 to ${MAX_ATTEMPTS - 1}.`,
+    };
+  }
+
+  if (typeof rawTrackId !== "string" || rawTrackId.trim().length === 0) {
+    return {
+      ok: false,
+      status: 400,
+      error: "Guess trackId must be a non-empty string.",
+    };
+  }
+
+  const trimmedGuess = rawTrackId.trim();
+  let candidate: GuessCandidate;
+
+  if (trimmedGuess === "skip" || trimmedGuess === "skipped") {
+    candidate = "skip";
+  } else {
+    const guessedTrack =
+      options?.tracks?.find((track) => track.id === trimmedGuess) ??
+      getTrackById(trimmedGuess, options?.catalog);
+
+    if (guessedTrack === undefined) {
+      return {
+        ok: false,
+        status: 400,
+        error: `Unknown trackId "${trimmedGuess}".`,
+      };
+    }
+
+    candidate = guessedTrack;
+  }
+
+  const answerTrack = selectDailyTrack(channelId, dateOrString, options);
+  const feedback = classifyGuess(candidate, answerTrack);
+
+  let status: RoundStatus = "playing";
+  if (feedback === "correct") {
+    status = "won";
+  } else if (rawAttempt === MAX_ATTEMPTS - 1) {
+    status = "lost";
+  }
+
+  const data: DailyGuessResponse =
+    status === "playing"
+      ? { feedback, attempt: rawAttempt, status }
+      : { feedback, attempt: rawAttempt, status, answer: answerTrack };
+
+  return {
+    ok: true,
+    data,
+  };
 }

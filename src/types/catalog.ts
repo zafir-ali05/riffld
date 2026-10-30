@@ -33,6 +33,34 @@ export interface LocalGenreStats {
   lastPlayedDate?: string;
 }
 
+export type AutocompleteTrack = Pick<Track, "id" | "title" | "artist">;
+
+export interface AudioPreviewResponse {
+  previewUrl: string;
+  provider: AudioProvider;
+  snippetOffsetMs: number;
+}
+
+export interface DailyPuzzleResponse {
+  genreId: string;
+  date: string;
+  puzzleNumber: number;
+  audioToken: string;
+  tracks: AutocompleteTrack[];
+}
+
+export interface DailyGuessRequest {
+  trackId: string;
+  attempt: number;
+}
+
+export interface DailyGuessResponse {
+  feedback: GuessFeedback;
+  attempt: number;
+  status: RoundStatus;
+  answer?: Track;
+}
+
 export const SNIPPET_DURATIONS_MS = [1000, 2000, 4000, 7000, 11000, 16000] as const;
 
 export const MAX_ATTEMPTS = 6;

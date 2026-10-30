@@ -76,15 +76,15 @@ Populate the static genre tree, build the catalog seeding CLI, and enforce schem
 
 Expose thin, spoiler-safe endpoints backed by `src/lib/` and `src/lib/server/`.
 
-- [ ] **4.1 Audio Preview Endpoint (`src/app/api/audio/[trackId]/route.ts`)**
-  - [ ] Validate `trackId` (or opaque daily round token) against the catalog; return `404` on unknown values.
-  - [ ] Resolve the fresh 30-second preview URL via `src/lib/server/providers.ts`.
-  - [ ] Return the preview stream or URL without leaking song title, artist, or raw daily track ID in headers or body.
-- [ ] **4.2 Daily Puzzle & Guess Validation Endpoint (`src/app/api/daily/[genre]/route.ts`)**
-  - [ ] Validate `genre` against Daily-eligible channels; return `404` on unknown or ineligible genres.
-  - [ ] `GET`: Return today's UTC date string, puzzle number, opaque audio token, and channel autocomplete track list (id, title, artist) without revealing the winning track.
-  - [ ] `POST`: Validate a submitted guess (`trackId` or `"skip"`) and attempt index against today's answer using `src/lib/feedback.ts`. Return feedback classification, and reveal the full answer `Track` only when the guess is `"correct"` or the player reaches attempt 6.
-  - [ ] Add unit/route tests in `tests/api.test.ts` verifying anti-spoiler guarantees and 404 bounds checking.
+- [x] **4.1 Audio Preview Endpoint (`src/app/api/audio/[trackId]/route.ts`)**
+  - [x] Validate `trackId` (or opaque daily round token) against the catalog; return `404` on unknown values.
+  - [x] Resolve the fresh 30-second preview URL via `src/lib/server/providers.ts`.
+  - [x] Return the preview stream or URL without leaking song title, artist, or raw daily track ID in headers or body.
+- [x] **4.2 Daily Puzzle & Guess Validation Endpoint (`src/app/api/daily/[genre]/route.ts`)**
+  - [x] Validate `genre` against Daily-eligible channels; return `404` on unknown or ineligible genres.
+  - [x] `GET`: Return today's UTC date string, puzzle number, opaque audio token, and channel autocomplete track list (id, title, artist) without revealing the winning track.
+  - [x] `POST`: Validate a submitted guess (`trackId` or `"skip"`) and attempt index against today's answer using `src/lib/feedback.ts`. Return feedback classification, and reveal the full answer `Track` only when the guess is `"correct"` or the player reaches attempt 6.
+  - [x] Add unit/route tests in `tests/api.test.ts` verifying anti-spoiler guarantees and 404 bounds checking.
 
 ---
 
