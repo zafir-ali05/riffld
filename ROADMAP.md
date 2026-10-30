@@ -92,22 +92,22 @@ Expose thin, spoiler-safe endpoints backed by `src/lib/` and `src/lib/server/`.
 
 Connect browser APIs (`localStorage`, Web Audio / HTML5 Audio) and round state machines.
 
-- [ ] **5.1 Local Storage Stats & Daily Progress (`src/hooks/useLocalStats.ts`)**
-  - [ ] Implement versioned keys: `riffld:v1:stats` and `riffld:v1:daily:<genreId>:<date>`.
-  - [ ] Guard all reads/writes against SSR and parse defensively with fallback defaults and a version migration hook.
-  - [ ] Update streaks (`currentStreak`, `maxStreak`), `gamesPlayed`, `wins`, `guessDistribution`, and `lastPlayedDate` using UTC dates.
-  - [ ] Persist in-progress daily guesses so refreshing the page restores the current round state.
-  - [ ] Add unit tests in `tests/local-stats.test.ts` covering streak continuity, streak resets, corrupt JSON recovery, and migrations.
-- [ ] **5.2 Audio Snippet Playback (`src/hooks/useAudioSnippet.ts`)**
-  - [ ] Initialize or resume playback inside user click/keypress handlers to satisfy Safari/iOS autoplay restrictions.
-  - [ ] Slice playback starting at `snippetOffsetMs ?? 0` and stop accurately after `SNIPPET_DURATIONS_MS[attempt]`.
-  - [ ] Stop and clean up active audio before starting a new play, on route change, and on `visibilitychange` (tab hidden).
-  - [ ] Expose explicit states: `"idle" | "loading" | "playing" | "error"` plus a `retry()` handler.
-- [ ] **5.3 Game State Machine (`src/hooks/useGameState.ts`)**
-  - [ ] Manage round lifecycle (`"playing" | "won" | "lost"`), current attempt (`0..5`), unlocked snippet duration, and guess history.
-  - [ ] Support Daily Mode (communicating with `/api/daily/[genre]` and syncing to `useLocalStats`).
-  - [ ] Support Infinite Mode (client-side random track selection that does not repeat a track until the channel pool is exhausted in the current session).
-  - [ ] Add unit tests in `tests/game-state.test.ts` for attempt progression, win/loss transitions, and non-repeating Infinite Mode pool exhaustion.
+- [x] **5.1 Local Storage Stats & Daily Progress (`src/hooks/useLocalStats.ts`)**
+  - [x] Implement versioned keys: `riffld:v1:stats` and `riffld:v1:daily:<genreId>:<date>`.
+  - [x] Guard all reads/writes against SSR and parse defensively with fallback defaults and a version migration hook.
+  - [x] Update streaks (`currentStreak`, `maxStreak`), `gamesPlayed`, `wins`, `guessDistribution`, and `lastPlayedDate` using UTC dates.
+  - [x] Persist in-progress daily guesses so refreshing the page restores the current round state.
+  - [x] Add unit tests in `tests/local-stats.test.ts` covering streak continuity, streak resets, corrupt JSON recovery, and migrations.
+- [x] **5.2 Audio Snippet Playback (`src/hooks/useAudioSnippet.ts`)**
+  - [x] Initialize or resume playback inside user click/keypress handlers to satisfy Safari/iOS autoplay restrictions.
+  - [x] Slice playback starting at `snippetOffsetMs ?? 0` and stop accurately after `SNIPPET_DURATIONS_MS[attempt]`.
+  - [x] Stop and clean up active audio before starting a new play, on route change, and on `visibilitychange` (tab hidden).
+  - [x] Expose explicit states: `"idle" | "loading" | "playing" | "error"` plus a `retry()` handler.
+- [x] **5.3 Game State Machine (`src/hooks/useGameState.ts`)**
+  - [x] Manage round lifecycle (`"playing" | "won" | "lost"`), current attempt (`0..5`), unlocked snippet duration, and guess history.
+  - [x] Support Daily Mode (communicating with `/api/daily/[genre]` and syncing to `useLocalStats`).
+  - [x] Support Infinite Mode (client-side random track selection that does not repeat a track until the channel pool is exhausted in the current session).
+  - [x] Add unit tests in `tests/game-state.test.ts` for attempt progression, win/loss transitions, and non-repeating Infinite Mode pool exhaustion.
 
 ---
 

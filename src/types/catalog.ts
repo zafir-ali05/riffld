@@ -61,6 +61,24 @@ export interface DailyGuessResponse {
   answer?: Track;
 }
 
+export interface GuessRecord {
+  trackId: string;
+  title?: string;
+  artist?: string;
+  feedback: GuessFeedback;
+  attempt: number;
+}
+
+export interface DailyRoundProgress {
+  version: number;
+  genreId: string;
+  date: string;
+  status: RoundStatus;
+  attempt: number;
+  guesses: GuessRecord[];
+  answer?: Track;
+}
+
 export const SNIPPET_DURATIONS_MS = [1000, 2000, 4000, 7000, 11000, 16000] as const;
 
 export const MAX_ATTEMPTS = 6;
