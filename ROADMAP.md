@@ -57,7 +57,7 @@ Build and unit-test all pure game logic before wiring up API routes or React com
 Populate the static genre tree, build the catalog seeding CLI, and enforce schema invariants via automated tests.
 
 - [ ] **3.1 Launch Genre Taxonomy (`src/data/genres/*.json`)**
-  - [ ] Create root genre taxonomy files (`latin.json`, `electronic.json`, `hip-hop.json`, `rock.json`, `global.json`) following the `root.sub.micro` ID convention.
+  - [ ] Create root genre taxonomy files (`pop.json`, `hip-hop.json`, `rock.json`, `electronic.json`, `latin.json`, `country.json`, `soul-jazz.json`, `global.json`) covering both mainstream genres and niche subgenres following the `root.sub.micro` ID convention.
 - [ ] **3.2 Catalog Seeding CLI (`scripts/catalog.ts`)**
   - [ ] Build `npm run catalog:add` CLI to search Deezer/iTunes by artist, track, or playlist and append normalized `Track` entries to `src/data/tracks/<genre>.json`.
   - [ ] Deduplicate by `id` and `providerTrackId` before writing.

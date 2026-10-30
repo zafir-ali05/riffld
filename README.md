@@ -2,9 +2,9 @@
 
 # 🎧 Riffld
 
-**The music guessing game for people whose favorite genre doesn't have a Billboard chart.**
+**The music guessing game built around genres and subgenres, from mainstream hits to underground cuts.**
 
-Guess the track from a progressive audio snippet across reggaeton, hyperpop, corridos tumbados, amapiano, shoegaze, drift phonk, and dozens of other genres and subgenres.
+Guess the track from a progressive audio snippet across pop, classic rock, 90s hip-hop, country, R&B, reggaeton, hyperpop, corridos tumbados, amapiano, shoegaze, drift phonk, and dozens of other genres and subgenres.
 
 [![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -44,13 +44,13 @@ Guess the track from a progressive audio snippet across reggaeton, hyperpop, cor
 
 ## 💡 Why Riffld?
 
-Heardle and Songdle are fun, but most of their libraries come from the mainstream: Billboard pop, classic rock, and chart hip-hop. If you grew up on Bad Bunny deep cuts, Midwest emo, or 3 a.m. breakcore, there's nothing in them for you.
+Heardle and Songdle are fun, but they usually throw every listener into one generic chart pool or a handful of surface-level buckets. Whether you want to play mainstream chart pop, classic rock, and 2000s R&B, or drill down into Bad Bunny deep cuts, Midwest emo, and 3 a.m. breakcore, Riffld gives every genre and subgenre its own playable channel.
 
 Riffld is a **Songdle clone built around genre depth**:
 
 | | Typical music guessers | **Riffld** |
 |---|---|---|
-| Catalog | Global top charts | Curated per **genre & subgenre** channel |
+| Catalog | Single mixed top-chart pool | Curated per **mainstream genre & deep subgenre** channel |
 | Taxonomy | Flat ("Pop", "Rock") | 3-tier tree: **Root → Subgenre → Micro-genre** |
 | Feedback | ❌ / ✅ | ❌ Wrong · 🟨 **Right artist, wrong track** · 🟩 Correct |
 | Setup | Heavy backend | Zero-DB static JSON catalog + `localStorage` stats |
@@ -94,7 +94,7 @@ Following the classic Heardle / Songdle formula, each wrong guess or skip unlock
 
 | Indicator | Meaning |
 |---|---|
-| 🟩 **Correct** | Exact song match — round won! |
+| 🟩 **Correct** | Exact song match - round won! |
 | 🟨 **Close** | Correct artist, wrong song |
 | 🟥 **Wrong** | Incorrect artist and song |
 | ⬜ **Skipped** | Skipped attempt to unlock more audio |
@@ -133,11 +133,14 @@ Root Genre
 
 | Root | Subgenres / micro-genres |
 |---|---|
-| 🌎 **Latin** | Reggaeton · Latin Trap · Bachata · Salsa · Cumbia · Corridos Tumbados · Baile Funk |
-| 🎛️ **Electronic & Underground** | Hyperpop · Glitchcore · Breakcore · Vaporwave · Future Funk · Drift Phonk · Ambient · UK Garage / 2-Step |
-| 🎤 **Hip-Hop & R&B** | 90s East Coast · 90s West Coast · Trap · UK Drill · Boom Bap · Cloud Rap · Neo-Soul |
-| 🎸 **Rock & Alternative** | Post-Punk · Midwest Emo · Shoegaze · Math Rock · Grunge · Metalcore |
-| 🌐 **Global & Regional** | Afrobeats · Amapiano · City Pop · K-Pop · J-Rock |
+| **Pop** | Dance-Pop · Synth-Pop · Indie Pop · Bedroom Pop · 80s & 90s Pop · 2000s & 2010s Pop · Art Pop |
+| **Hip-Hop & R&B** | Trap · Melodic Rap · 90s East Coast · 90s West Coast · Boom Bap · UK Drill · Cloud Rap · Contemporary R&B · 90s / 2000s R&B · Neo-Soul |
+| **Rock & Alternative** | Classic Rock · Alternative Rock · Indie Rock · Pop Punk · Grunge · Hard Rock & Metal · Metalcore · Post-Punk · Midwest Emo · Shoegaze · Math Rock |
+| **Electronic & Dance** | House · Techno · EDM / Festival · Drum & Bass · UK Garage / 2-Step · Hyperpop · Glitchcore · Breakcore · Vaporwave · Future Funk · Drift Phonk · Ambient |
+| **Latin** | Reggaeton · Latin Pop · Latin Trap · Bachata · Salsa · Cumbia · Corridos Tumbados · Baile Funk |
+| **Country & Folk** | Contemporary Country · Classic Country · Country Pop · Americana · Indie Folk · Bluegrass |
+| **Soul, Funk & Jazz** | Classic Soul & Motown · Funk & Disco · Classic Jazz · Lo-Fi / Jazz Hop · Blues |
+| **Global & Regional** | K-Pop · J-Rock · City Pop · Afrobeats · Amapiano · Reggae · Dancehall |
 
 ### Taxonomy Schema
 
@@ -237,7 +240,7 @@ flowchart LR
 | Decision | Rationale |
 |---|---|
 | **Zero database (Static JSON)** | A few thousand tracks across dozens of genres easily fit in a few hundred kilobytes of JSON. No Postgres, Prisma, or Docker required. |
-| **Client-side `localStorage` for stats** | Just like Wordle and Songdle, streaks and play history live in the browser—no login wall or auth complexity. |
+| **Client-side `localStorage` for stats** | Just like Wordle and Songdle, streaks and play history live in the browser - no login wall or auth complexity. |
 | **Deterministic daily seed** | Daily tracks are chosen via a hashed date + salt on the server, requiring zero state persistence. |
 | **Fuse.js for search** | Autocomplete searches only the active genre's track list, making client-side fuzzy matching instantaneous. |
 
@@ -398,7 +401,7 @@ riffld/
 
 ## 🤝 Contributing
 
-Contributions are welcome—especially **genre & subgenre track curation**! Adding a new subgenre or expanding an existing one is just a JSON pull request.
+Contributions are welcome, especially **genre & subgenre track curation**! Adding a new subgenre or expanding an existing one is just a JSON pull request.
 
 ### Genre / Catalog PR Checklist
 
